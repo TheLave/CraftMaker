@@ -1,0 +1,179 @@
+<div class="app">
+  <div class="craft">
+    <div class="weapon">
+      <label>
+        <input type="text" [(ngModel)]="weaponSearch" />
+        Search weapon
+      </label>
+
+      <div class="results">
+        @for (weapon of filteredWeapons; track $index) {
+          <div
+            class="skin"
+            [ngClass]="{ selected: weapon === selectedWeapon }"
+            (click)="selectWeapon(weapon)"
+          >
+            @defer (on viewport) {
+              <img class="preview" [src]="weapon.image" />
+            } @placeholder {
+              <div class="placeholder"></div>
+            }
+
+            <span>
+              {{ weapon.display }}
+            </span>
+          </div>
+        }
+      </div>
+    </div>
+
+    <div class="skin">
+      <label>
+        <input type="text" [(ngModel)]="skinSearch" />
+        Search skin
+      </label>
+
+      <div class="results">
+        @for (skin of filteredSkins; track $index) {
+          <div
+            class="skin"
+            [ngClass]="[
+              'rarity_' + skin.rarity,
+              skin === selectedSkin ? 'selected' : ''
+            ]"
+            (click)="selectSkin(skin)"
+          >
+            @defer (on viewport) {
+              <img class="preview" [src]="skin.image" />
+            } @placeholder {
+              <div class="placeholder"></div>
+            }
+
+            <span>
+              {{ skin.title }}
+            </span>
+          </div>
+        }
+      </div>
+    </div>
+
+    <div class="options">
+      <div class="option">
+        <label>
+          Pattern ID
+          <input type="number" min="0" max="999" [(ngModel)]="patternId" />
+        </label>
+      </div>
+      <div class="option">
+        <label>
+          Float
+          <input
+            type="number"
+            min="0"
+            max="1"
+            step="0.05"
+            [(ngModel)]="float"
+          />
+        </label>
+      </div>
+
+      @if (selectedWeapon && !selectedWeapon.isKnife) {
+        <span>Stickers</span>
+        <div class="option">
+          @for (place of selectedWeapon.order; track $index) {
+            @if (selectedStickers[place]) {
+              <div
+                class="sticker"
+                [ngStyle]="{
+                  'background-image':
+                    'url(https://media.steampowered.com/apps/730/icons/econ/stickers/' +
+                    selectedStickers[place]!.image +
+                    ')',
+                  'background-size': 'contain',
+                  'background-position': 'center center',
+                  'background-repeat': 'no-repeat'
+                }"
+                (click)="openStickerPopup(place)"
+              >
+                <button class="remove" (click)="removeSticker(place)">X</button>
+              </div>
+            } @else {
+              <button class="add-sticker" (click)="openStickerPopup(place)">
+                <span>+</span>
+              </button>
+            }
+          }
+        </div>
+      }
+    </div>
+  </div>
+
+  <div class="code">
+    <input
+      disabled
+      #code
+      [value]="
+        '!gen ' +
+        (selectedWeapon ? selectedWeapon.id : 0) +
+        ' ' +
+        (selectedSkin ? selectedSkin.paint : 0) +
+        ' ' +
+        patternId +
+        ' ' +
+        float +
+        ' ' +
+        (selectedStickers[1] !== null ? selectedStickers[1].id : 0) +
+        ' 0 ' +
+        (selectedStickers[2] !== null ? selectedStickers[2].id : 0) +
+        ' 0 ' +
+        (selectedStickers[3] !== null ? selectedStickers[3].id : 0) +
+        ' 0 ' +
+        (selectedStickers[4] !== null ? selectedStickers[4].id : 0) +
+        ' 0 ' +
+        (selectedStickers[5] !== null ? selectedStickers[5].id : 0) +
+        ' 0 '
+      "
+    />
+    <button (click)="copyCode(code)">Copy</button>
+  </div>
+</div>
+
+@if (stickerPopup && currentStickerPlace) {
+  <app-popup (onClose)="closePopup()">
+    <div class="popup">
+      <h1>Choose sticker</h1>
+      <br />
+      <div class="sticker-search">
+        <label>
+          <input type="text" [(ngModel)]="stickerSearch" />
+          Search skin
+        </label>
+
+        <div class="results">
+          @for (sticker of filteredStickers; track $index) {
+            <div
+              class="sticker"
+              [ngClass]="{
+                selected: selectedStickers[currentStickerPlace] === sticker
+              }"
+              (click)="selectSticker(sticker)"
+            >
+              @defer (on viewport) {
+                <img
+                  class="preview"
+                  [src]="
+                    'https://media.steampowered.com/apps/730/icons/econ/stickers/' +
+                    sticker.image
+                  "
+                />
+              } @placeholder {
+                <div class="placeholder"></div>
+              }
+              <span>{{ sticker.title }}</span>
+            </div>
+          }
+        </div>
+      </div>
+    </div>
+  </app-popup>
+}

@@ -1,0 +1,225 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #0c0d0e;
+  flex-direction: column;
+  color: white;
+  gap: 50px;
+
+  input {
+    background-color: #212121;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+    border: none;
+  }
+
+  .craft {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+    .weapon,
+    .skin {
+      display: flex;
+      flex-direction: column;
+      height: 50vh;
+      max-height: 50vh;
+      width: 400px;
+      gap: 5px;
+
+      .results {
+        display: flex;
+        flex-direction: column;
+        overflow: auto;
+        gap: 5px;
+
+        .skin {
+          height: 70px;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          gap: 10px;
+          border-left: 3px solid transparent;
+          padding-left: 5px;
+          background-color: #26292b;
+          border-radius: 5px;
+          cursor: pointer;
+
+          &.rarity_1 {
+            border-left-color: #818c9a;
+          }
+
+          &.rarity_2 {
+            border-left-color: #5e98d9;
+          }
+
+          &.rarity_3 {
+            border-left-color: #4b69cd;
+          }
+
+          &.rarity_4 {
+            border-left-color: #8847ff;
+          }
+
+          &.rarity_5 {
+            border-left-color: #d32ee6;
+          }
+
+          &.rarity_6 {
+            border-left-color: #eb4b4b;
+          }
+
+          &.rarity_7 {
+            border-left-color: rgb(255, 230, 0);
+          }
+
+          &.selected {
+            background-color: rgb(62, 68, 70);
+          }
+
+          .preview {
+            height: 100%;
+            width: auto;
+            max-width: 100px;
+            max-height: 100px;
+            display: block;
+          }
+
+          .placeholder {
+            height: 100%;
+            width: 100px;
+          }
+        }
+      }
+    }
+
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      width: 33vw;
+
+      .option {
+        display: flex;
+        width: 100%;
+        gap: 5px;
+
+        .add-sticker {
+          cursor: pointer;
+          background-color: #212121;
+          border-radius: 5px;
+          outline: none;
+          border: none;
+          height: 100px;
+          width: 100px;
+          display: flex;
+          font-size: 100px;
+          line-height: 100px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .sticker {
+          display: flex;
+          height: 100px;
+          width: 100px;
+          position: relative;
+          cursor: pointer;
+
+          .remove {
+            cursor: pointer;
+            position: absolute;
+            top: 0;
+            right: 0;
+            background-color: transparent;
+            border: none;
+          }
+        }
+
+        label {
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          gap: 10px;
+        }
+      }
+    }
+  }
+
+  .code {
+    display: flex;
+    gap: 5px;
+
+    button {
+      background-color: #212121;
+      border-radius: 5px;
+      outline: none;
+      border: none;
+    }
+  }
+}
+
+.popup {
+  background-color: #0c0d0e;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+
+  input {
+    background-color: #212121;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+    border: none;
+  }
+
+  .sticker-search {
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    max-height: 50vh;
+    gap: 5px;
+
+    .results {
+      display: flex;
+      overflow: auto;
+      flex-wrap: wrap;
+      gap: 5px;
+      justify-content: center;
+
+      .sticker {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        border-left: 3px solid transparent;
+        padding-left: 5px;
+        border-radius: 5px;
+        cursor: pointer;
+        max-width: calc(20% - 15px);
+
+        &.selected {
+          background-color: rgb(62, 68, 70);
+        }
+
+        .preview {
+          width: 100%;
+          height: auto;
+          max-width: 100px;
+          max-height: 100px;
+          display: block;
+        }
+
+        .placeholder {
+          height: 100%;
+          width: 100px;
+        }
+      }
+    }
+  }
+}

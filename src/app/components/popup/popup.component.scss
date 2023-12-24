@@ -1,0 +1,31 @@
+.popup {
+  display: block;
+  height: 100%;
+  left: 0;
+  overflow-y: auto;
+  position: fixed;
+  right: 0;
+  text-align: center;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.233);
+  z-index: 999999;
+  filter: drop-shadow(2px 2px 5px #000);
+
+  &::before {
+    box-sizing: border-box;
+    content: "";
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .container {
+    display: inline-block;
+    vertical-align: middle;
+    background-color: var(--color-gray-extra-light);
+    position: relative;
+    border-radius: 5px;
+    padding: 20px;
+    width: 100%;
+  }
+}
