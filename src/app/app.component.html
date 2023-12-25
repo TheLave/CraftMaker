@@ -131,7 +131,7 @@
         (selectedStickers[4] !== null ? selectedStickers[4].id : 0) +
         ' 0 ' +
         (selectedStickers[5] !== null ? selectedStickers[5].id : 0) +
-        ' 0 '
+        ' 0'
       "
     />
     <button (click)="copyCode(code)">Copy</button>
@@ -148,6 +148,13 @@
           <input type="text" [(ngModel)]="stickerSearch" />
           Search skin
         </label>
+
+        <div class="slider">
+          <mat-slider min="0" max="360">
+            <input matSliderStartThumb [(value)]="minHue" />
+            <input matSliderEndThumb [(value)]="maxHue" />
+          </mat-slider>
+        </div>
 
         <div class="results">
           @for (sticker of filteredStickers; track $index) {

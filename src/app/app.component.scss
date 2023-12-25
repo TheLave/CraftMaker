@@ -170,7 +170,8 @@
   padding: 20px;
   border-radius: 10px;
 
-  input {
+  input[type="text"],
+  input[type="number"] {
     background-color: #212121;
     border-radius: 5px;
     padding: 5px;
@@ -184,6 +185,25 @@
     height: 50vh;
     max-height: 50vh;
     gap: 5px;
+
+    .slider {
+      mat-slider {
+        width: 60%;
+
+        .mdc-slider__track {
+          background: linear-gradient(
+            to right,
+            #ff0000 0%,
+            #ffff00 17%,
+            #00ff00 33%,
+            #00ffff 50%,
+            #0000ff 67%,
+            #ff00ff 83%,
+            #ff0000 100%
+          );
+        }
+      }
+    }
 
     .results {
       display: flex;

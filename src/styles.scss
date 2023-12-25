@@ -188,3 +188,29 @@ textarea {
   font-weight: 500;
   color: var(--text-color-dark);
 }
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.mdc-slider__track--active {
+  background: linear-gradient(
+    to right,
+    #ff0000 0%,
+    #ffff00 17%,
+    #00ff00 33%,
+    #00ffff 50%,
+    #0000ff 67%,
+    #ff00ff 83%,
+    #ff0000 100%
+  ) !important;
+}
+
+.mat-mdc-slider .mdc-slider__track--active_fill {
+  border-color: transparent !important;
+}

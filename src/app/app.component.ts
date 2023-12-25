@@ -15,13 +15,14 @@ import { Skin } from 'src/models/Skin';
 import { Sticker } from 'src/models/Sticker';
 import { FormsModule } from '@angular/forms';
 import { PopupComponent } from './components/popup/popup.component';
+import { MatSliderModule } from '@angular/material/slider';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
   standalone: true,
-  imports: [FormsModule, NgClass, NgStyle, PopupComponent],
+  imports: [FormsModule, NgClass, NgStyle, PopupComponent, MatSliderModule],
 })
 export class AppComponent implements OnInit {
   weapons: Weapon[] = [];
@@ -31,6 +32,8 @@ export class AppComponent implements OnInit {
   weaponSearch: string = '';
   skinSearch: string = '';
   stickerSearch: string = '';
+  minHue = 0;
+  maxHue = 360;
 
   stickerPopup = false;
   currentStickerPlace = 0;
@@ -79,14 +82,21 @@ export class AppComponent implements OnInit {
   }
 
   get filteredSkins() {
-    return this.skins.filter((skin) =>
-      skin.title.toLowerCase().includes(this.skinSearch.toLowerCase()),
+    return this.skins.filter(
+      (skin) =>
+        skin.title.toLowerCase().includes(this.skinSearch.toLowerCase()) &&
+        !skin.glove,
     );
   }
 
   get filteredStickers() {
-    return this.stickers.filter((sticker) =>
-      sticker.title.toLowerCase().includes(this.stickerSearch.toLowerCase()),
+    return this.stickers.filter(
+      (sticker) =>
+        sticker.title
+          .toLowerCase()
+          .includes(this.stickerSearch.toLowerCase()) &&
+        sticker.hue >= this.minHue &&
+        sticker.hue <= this.maxHue,
     );
   }
 
