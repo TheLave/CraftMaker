@@ -3,7 +3,6 @@
   justify-content: center;
   align-items: center;
   height: 100%;
-  background-color: #0c0d0e;
   flex-direction: column;
   color: white;
   gap: 50px;
@@ -95,58 +94,63 @@
         }
       }
     }
+  }
 
-    .options {
+  .options {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 33vw;
+
+    .label {
       display: flex;
-      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .option {
+      display: flex;
+      width: 100%;
       gap: 5px;
-      width: 33vw;
 
-      .option {
+      .add-sticker {
+        cursor: pointer;
+        background-color: #212121;
+        border-radius: 5px;
+        outline: none;
+        border: none;
+        height: 100px;
+        width: 100px;
         display: flex;
-        width: 100%;
-        gap: 5px;
+        font-size: 100px;
+        line-height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
 
-        .add-sticker {
+      .sticker {
+        display: flex;
+        height: 100px;
+        width: 100px;
+        position: relative;
+        cursor: pointer;
+
+        .remove {
           cursor: pointer;
-          background-color: #212121;
-          border-radius: 5px;
-          outline: none;
+          position: absolute;
+          top: 0;
+          right: 0;
+          background-color: transparent;
           border: none;
-          height: 100px;
-          width: 100px;
-          display: flex;
-          font-size: 100px;
-          line-height: 100px;
-          display: flex;
-          justify-content: center;
-          align-items: center;
         }
+      }
 
-        .sticker {
-          display: flex;
-          height: 100px;
-          width: 100px;
-          position: relative;
-          cursor: pointer;
-
-          .remove {
-            cursor: pointer;
-            position: absolute;
-            top: 0;
-            right: 0;
-            background-color: transparent;
-            border: none;
-          }
-        }
-
-        label {
-          width: 100%;
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          gap: 10px;
-        }
+      label {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
       }
     }
   }
@@ -154,13 +158,6 @@
   .code {
     display: flex;
     gap: 5px;
-
-    button {
-      background-color: #212121;
-      border-radius: 5px;
-      outline: none;
-      border: none;
-    }
   }
 }
 
@@ -241,5 +238,17 @@
         }
       }
     }
+  }
+}
+
+button {
+  background-color: #212121;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #242424;
   }
 }

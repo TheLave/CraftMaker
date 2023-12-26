@@ -16,13 +16,21 @@ import { Sticker } from 'src/models/Sticker';
 import { FormsModule } from '@angular/forms';
 import { PopupComponent } from './components/popup/popup.component';
 import { MatSliderModule } from '@angular/material/slider';
+import { MatRippleModule } from '@angular/material/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
   standalone: true,
-  imports: [FormsModule, NgClass, NgStyle, PopupComponent, MatSliderModule],
+  imports: [
+    FormsModule,
+    NgClass,
+    NgStyle,
+    PopupComponent,
+    MatSliderModule,
+    MatRippleModule,
+  ],
 })
 export class AppComponent implements OnInit {
   weapons: Weapon[] = [];
@@ -120,6 +128,16 @@ export class AppComponent implements OnInit {
 
   removeSticker(place: number) {
     this.selectedStickers[place] = null;
+  }
+
+  removeAllStickers() {
+    this.selectedStickers = {
+      1: null,
+      2: null,
+      3: null,
+      4: null,
+      5: null,
+    };
   }
 
   copyCode(element: HTMLInputElement) {
