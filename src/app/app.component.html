@@ -6,25 +6,22 @@
         Search weapon
       </label>
 
-      <div class="results">
-        @for (weapon of filteredWeapons; track $index) {
+      <cdk-virtual-scroll-viewport itemSize="70" class="results">
+        <div class="scroll-wrapper">
           <div
+            *cdkVirtualFor="let weapon of filteredWeapons"
             class="skin"
             [ngClass]="{ selected: weapon === selectedWeapon }"
             (click)="selectWeapon(weapon)"
           >
-            @defer (on viewport) {
-              <img class="preview" [src]="weapon.image" />
-            } @placeholder {
-              <div class="placeholder"></div>
-            }
+            <img class="preview" [src]="weapon.image" />
 
             <span>
               {{ weapon.display }}
             </span>
           </div>
-        }
-      </div>
+        </div>
+      </cdk-virtual-scroll-viewport>
     </div>
 
     <div class="skin">
@@ -33,9 +30,10 @@
         Search skin
       </label>
 
-      <div class="results">
-        @for (skin of filteredSkins; track $index) {
+      <cdk-virtual-scroll-viewport itemSize="70" class="results">
+        <div class="scroll-wrapper">
           <div
+            *cdkVirtualFor="let skin of filteredSkins"
             class="skin"
             [ngClass]="[
               'rarity_' + skin.rarity,
@@ -43,18 +41,14 @@
             ]"
             (click)="selectSkin(skin)"
           >
-            @defer (on viewport) {
-              <img class="preview" [src]="skin.image" />
-            } @placeholder {
-              <div class="placeholder"></div>
-            }
+            <img class="preview" [src]="skin.image" />
 
             <span>
               {{ skin.title }}
             </span>
           </div>
-        }
-      </div>
+        </div>
+      </cdk-virtual-scroll-viewport>
     </div>
   </div>
 
@@ -149,10 +143,17 @@
       <h1>Choose sticker</h1>
       <br />
       <div class="sticker-search">
-        <label>
-          <input type="text" [(ngModel)]="stickerSearch" />
-          Search skin
-        </label>
+        <div class="filters">
+          <label>
+            <input type="text" [(ngModel)]="stickerSearch" />
+            Search skin
+          </label>
+
+          <label>
+            <input type="checkbox" [(ngModel)]="includeAutographs" />
+            Autographs
+          </label>
+        </div>
 
         <div class="slider">
           <mat-slider min="0" max="360">

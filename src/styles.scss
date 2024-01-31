@@ -215,3 +215,6 @@ body {
 .mat-mdc-slider .mdc-slider__track--active_fill {
   border-color: transparent !important;
 }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

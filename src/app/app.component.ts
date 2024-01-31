@@ -17,6 +17,7 @@ import { FormsModule } from '@angular/forms';
 import { PopupComponent } from './components/popup/popup.component';
 import { MatSliderModule } from '@angular/material/slider';
 import { MatRippleModule } from '@angular/material/core';
+import { ScrollingModule } from '@angular/cdk/scrolling';
 
 @Component({
   selector: 'app-root',
@@ -30,6 +31,7 @@ import { MatRippleModule } from '@angular/material/core';
     PopupComponent,
     MatSliderModule,
     MatRippleModule,
+    ScrollingModule,
   ],
 })
 export class AppComponent implements OnInit {
@@ -40,6 +42,7 @@ export class AppComponent implements OnInit {
   weaponSearch: string = '';
   skinSearch: string = '';
   stickerSearch: string = '';
+  includeAutographs = true;
   minHue = 0;
   maxHue = 360;
 
@@ -84,28 +87,51 @@ export class AppComponent implements OnInit {
   }
 
   get filteredWeapons() {
-    return this.weapons.filter((weapon) =>
-      weapon.display.toLowerCase().includes(this.weaponSearch.toLowerCase()),
-    );
+    return this.weapons.filter((weapon) => {
+      for (const word of this.weaponSearch.toLowerCase().split(' ')) {
+        if (!weapon.display.toLowerCase().includes(word)) {
+          return false;
+        }
+      }
+
+      return true;
+    });
   }
 
   get filteredSkins() {
-    return this.skins.filter(
-      (skin) =>
-        skin.title.toLowerCase().includes(this.skinSearch.toLowerCase()) &&
-        !skin.glove,
-    );
+    return this.skins.filter((skin) => {
+      if (skin.glove) {
+        return false;
+      }
+
+      for (const word of this.skinSearch.toLowerCase().split(' ')) {
+        if (!skin.title.toLowerCase().includes(word)) {
+          return false;
+        }
+      }
+
+      return true;
+    });
   }
 
   get filteredStickers() {
-    return this.stickers.filter(
-      (sticker) =>
-        sticker.title
-          .toLowerCase()
-          .includes(this.stickerSearch.toLowerCase()) &&
-        sticker.hue >= this.minHue &&
-        sticker.hue <= this.maxHue,
-    );
+    return this.stickers.filter((sticker) => {
+      if (!(sticker.hue >= this.minHue && sticker.hue <= this.maxHue)) {
+        return false;
+      }
+
+      if (!this.includeAutographs && sticker.isSignature) {
+        return false;
+      }
+
+      for (const word of this.stickerSearch.toLowerCase().split(' ')) {
+        if (!sticker.title.toLowerCase().includes(word)) {
+          return false;
+        }
+      }
+
+      return true;
+    });
   }
 
   selectWeapon(weapon: Weapon) {

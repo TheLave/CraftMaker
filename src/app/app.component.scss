@@ -30,66 +30,65 @@
       gap: 5px;
 
       .results {
-        display: flex;
-        flex-direction: column;
-        overflow: auto;
-        gap: 5px;
+        height: 100%;
 
-        .skin {
-          height: 70px;
+        .scroll-wrapper {
           display: flex;
-          flex-direction: row;
-          align-items: center;
-          gap: 10px;
-          border-left: 3px solid transparent;
-          padding-left: 5px;
-          background-color: #26292b;
-          border-radius: 5px;
-          cursor: pointer;
+          flex-direction: column;
+          overflow: auto;
+          gap: 5px;
 
-          &.rarity_1 {
-            border-left-color: #818c9a;
-          }
+          .skin {
+            height: 70px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 10px;
+            border-left: 3px solid transparent;
+            padding-left: 5px;
+            background-color: #26292b;
+            border-radius: 5px;
+            cursor: pointer;
 
-          &.rarity_2 {
-            border-left-color: #5e98d9;
-          }
+            &.rarity_1 {
+              border-left-color: #818c9a;
+            }
 
-          &.rarity_3 {
-            border-left-color: #4b69cd;
-          }
+            &.rarity_2 {
+              border-left-color: #5e98d9;
+            }
 
-          &.rarity_4 {
-            border-left-color: #8847ff;
-          }
+            &.rarity_3 {
+              border-left-color: #4b69cd;
+            }
 
-          &.rarity_5 {
-            border-left-color: #d32ee6;
-          }
+            &.rarity_4 {
+              border-left-color: #8847ff;
+            }
 
-          &.rarity_6 {
-            border-left-color: #eb4b4b;
-          }
+            &.rarity_5 {
+              border-left-color: #d32ee6;
+            }
 
-          &.rarity_7 {
-            border-left-color: rgb(255, 230, 0);
-          }
+            &.rarity_6 {
+              border-left-color: #eb4b4b;
+            }
 
-          &.selected {
-            background-color: rgb(62, 68, 70);
-          }
+            &.rarity_7 {
+              border-left-color: rgb(255, 230, 0);
+            }
 
-          .preview {
-            height: 100%;
-            width: auto;
-            max-width: 100px;
-            max-height: 100px;
-            display: block;
-          }
+            &.selected {
+              background-color: rgb(62, 68, 70);
+            }
 
-          .placeholder {
-            height: 100%;
-            width: 100px;
+            .preview {
+              height: 100%;
+              width: auto;
+              max-width: 100px;
+              max-height: 100px;
+              display: block;
+            }
           }
         }
       }
@@ -182,6 +181,12 @@
     height: 50vh;
     max-height: 50vh;
     gap: 5px;
+
+    .filters {
+      display: flex;
+      justify-content: space-between;
+      padding: 0 10%;
+    }
 
     .slider {
       mat-slider {
