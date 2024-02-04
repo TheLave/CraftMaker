@@ -1,0 +1,139 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
+  color: white;
+  gap: 50px;
+
+  input {
+    background-color: #212121;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+    border: none;
+  }
+
+  .craft {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+    .column {
+      display: flex;
+      flex-direction: column;
+      height: 50vh;
+      max-height: 50vh;
+      width: 400px;
+      gap: 5px;
+
+      .results {
+        height: 100%;
+
+        .scroll-wrapper {
+          display: flex;
+          flex-direction: column;
+          overflow: auto;
+          gap: 5px;
+
+          .skin {
+            height: 70px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 10px;
+            border-left: 3px solid transparent;
+            padding-left: 5px;
+            background-color: #26292b;
+            border-radius: 5px;
+            cursor: pointer;
+
+            &.rarity_1 {
+              border-left-color: #818c9a;
+            }
+
+            &.rarity_2 {
+              border-left-color: #5e98d9;
+            }
+
+            &.rarity_3 {
+              border-left-color: #4b69cd;
+            }
+
+            &.rarity_4 {
+              border-left-color: #8847ff;
+            }
+
+            &.rarity_5 {
+              border-left-color: #d32ee6;
+            }
+
+            &.rarity_6 {
+              border-left-color: #eb4b4b;
+            }
+
+            &.rarity_7 {
+              border-left-color: rgb(255, 230, 0);
+            }
+
+            &.selected {
+              background-color: rgb(62, 68, 70);
+            }
+
+            .preview {
+              height: 100%;
+              width: auto;
+              max-width: 100px;
+              max-height: 100px;
+              display: block;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .options {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 33vw;
+
+    .label {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .option {
+      display: flex;
+      width: 100%;
+      gap: 5px;
+
+      label {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+      }
+    }
+  }
+
+  .code {
+    display: flex;
+    gap: 5px;
+  }
+}
+
+button {
+  background-color: #212121;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #242424;
+  }
+}

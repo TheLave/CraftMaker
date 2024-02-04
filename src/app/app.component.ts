@@ -1,176 +1,20 @@
-import { Component, OnInit } from '@angular/core';
-import {
-  NgSwitch,
-  NgSwitchDefault,
-  NgSwitchCase,
-  AsyncPipe,
-  KeyValuePipe,
-  JsonPipe,
-  NgClass,
-  NgStyle,
-} from '@angular/common';
-import { CraftService } from './services/craft.service';
-import { Weapon } from 'src/models/Weapon';
-import { Skin } from 'src/models/Skin';
-import { Sticker } from 'src/models/Sticker';
-import { FormsModule } from '@angular/forms';
-import { PopupComponent } from './components/popup/popup.component';
-import { MatSliderModule } from '@angular/material/slider';
-import { MatRippleModule } from '@angular/material/core';
-import { ScrollingModule } from '@angular/cdk/scrolling';
+import { Component } from '@angular/core';
+import { SkinComponent } from './components/skin/skin.component';
+import { NgClass } from '@angular/common';
+import { GloveComponent } from './components/glove/glove.component';
+import { AgentComponent } from './components/agent/agent.component';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
   standalone: true,
-  imports: [
-    FormsModule,
-    NgClass,
-    NgStyle,
-    PopupComponent,
-    MatSliderModule,
-    MatRippleModule,
-    ScrollingModule,
-  ],
+  imports: [NgClass, SkinComponent, GloveComponent, AgentComponent],
 })
-export class AppComponent implements OnInit {
-  weapons: Weapon[] = [];
-  skins: Skin[] = [];
-  stickers: Sticker[] = [];
+export class AppComponent {
+  currentTab = 'skin';
 
-  weaponSearch: string = '';
-  skinSearch: string = '';
-  stickerSearch: string = '';
-  includeAutographs = true;
-  minHue = 0;
-  maxHue = 360;
-
-  stickerPopup = false;
-  currentStickerPlace = 0;
-
-  selectedWeapon?: Weapon;
-  selectedSkin?: Skin;
-  selectedStickers: { [key: number]: Sticker | null } = {
-    1: null,
-    2: null,
-    3: null,
-    4: null,
-    5: null,
-  };
-  patternId = 1;
-  float = 0;
-
-  constructor(private service: CraftService) {}
-
-  ngOnInit(): void {
-    this.service.getWeapons().subscribe({
-      next: (weapons) => {
-        for (const [id, weapon] of Object.entries(weapons)) {
-          weapon.id = id;
-        }
-        this.weapons = Object.values(weapons);
-      },
-    });
-
-    this.service.getSkins().subscribe({
-      next: (skins) => {
-        this.skins = skins;
-      },
-    });
-
-    this.service.getStickers().subscribe({
-      next: (stickers) => {
-        this.stickers = stickers;
-      },
-    });
-  }
-
-  get filteredWeapons() {
-    return this.weapons.filter((weapon) => {
-      for (const word of this.weaponSearch.toLowerCase().split(' ')) {
-        if (!weapon.display.toLowerCase().includes(word)) {
-          return false;
-        }
-      }
-
-      return true;
-    });
-  }
-
-  get filteredSkins() {
-    return this.skins.filter((skin) => {
-      if (skin.glove) {
-        return false;
-      }
-
-      for (const word of this.skinSearch.toLowerCase().split(' ')) {
-        if (!skin.title.toLowerCase().includes(word)) {
-          return false;
-        }
-      }
-
-      return true;
-    });
-  }
-
-  get filteredStickers() {
-    return this.stickers.filter((sticker) => {
-      if (!(sticker.hue >= this.minHue && sticker.hue <= this.maxHue)) {
-        return false;
-      }
-
-      if (!this.includeAutographs && sticker.isSignature) {
-        return false;
-      }
-
-      for (const word of this.stickerSearch.toLowerCase().split(' ')) {
-        if (!sticker.title.toLowerCase().includes(word)) {
-          return false;
-        }
-      }
-
-      return true;
-    });
-  }
-
-  selectWeapon(weapon: Weapon) {
-    this.selectedWeapon = weapon;
-  }
-
-  selectSkin(skin: Skin) {
-    this.selectedSkin = skin;
-  }
-
-  openStickerPopup(place: number) {
-    this.currentStickerPlace = place;
-    this.stickerPopup = true;
-  }
-
-  selectSticker(sticker: Sticker) {
-    this.selectedStickers[this.currentStickerPlace] = sticker;
-    this.closePopup();
-  }
-
-  removeSticker(place: number) {
-    this.selectedStickers[place] = null;
-  }
-
-  removeAllStickers() {
-    this.selectedStickers = {
-      1: null,
-      2: null,
-      3: null,
-      4: null,
-      5: null,
-    };
-  }
-
-  copyCode(element: HTMLInputElement) {
-    navigator.clipboard.writeText(element.value);
-  }
-
-  closePopup() {
-    this.stickerPopup = false;
+  openTab(tab: 'skin' | 'glove' | 'agent') {
+    this.currentTab = tab;
   }
 }
