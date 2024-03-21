@@ -193,7 +193,7 @@
     "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1_silencer.a8d2a028fa33eb117d6d7665303c3316169c33f7.png",
     "isKnife": false,
     "display": "M4A1-S",
-    "order": [4, 2, 3, 1]
+    "order": [5, 4, 2, 3, 1]
   },
   "61": {
     "item": "weapon_usp_silencer",
