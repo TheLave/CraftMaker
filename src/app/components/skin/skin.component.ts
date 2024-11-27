@@ -9,6 +9,7 @@ import { Skin } from 'src/models/Skin';
 import { Sticker } from 'src/models/Sticker';
 import { Weapon } from 'src/models/Weapon';
 import { PopupComponent } from '../popup/popup.component';
+import { generateLink, Rarity } from 'src/util/inspect';
 
 @Component({
   selector: 'app-skin',
@@ -51,6 +52,7 @@ export class SkinComponent implements OnInit {
   };
   patternId = 1;
   float = 0;
+  generatedLink = '';
 
   constructor(private service: CraftService) {}
 
@@ -155,6 +157,50 @@ export class SkinComponent implements OnInit {
 
   copyCode(element: HTMLInputElement) {
     navigator.clipboard.writeText(element.value);
+  }
+
+  setCustomSticker(event: any, place: number) {
+    console.log(event);
+    this.selectedStickers[place] = {
+      id: parseInt(event.target.value),
+      title: '',
+      image: '',
+      isPaper: false,
+      isSignature: false,
+      hue: 0,
+    };
+  }
+
+  parseInspectStickers() {
+    const stickers = [];
+
+    for (const num of [1, 2, 3, 4, 5]) {
+      const sticker = this.selectedStickers[num];
+      if (sticker) {
+        stickers.push({
+          slot: num - 1,
+          stickerId: sticker.id,
+          wear: 0,
+        });
+      }
+    }
+
+    return stickers;
+  }
+
+  createInspectLink() {
+    if (!this.selectedWeapon || !this.selectedSkin) {
+      return;
+    }
+
+    this.generatedLink = generateLink({
+      defindex: parseInt(this.selectedWeapon.id),
+      paintindex: this.selectedSkin.paint,
+      paintseed: this.patternId,
+      paintwear: this.float,
+      rarity: Rarity.COVERT, // 5
+      stickers: this.parseInspectStickers(),
+    });
   }
 
   closePopup() {

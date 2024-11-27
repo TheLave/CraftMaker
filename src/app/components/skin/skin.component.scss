@@ -110,20 +110,30 @@
       width: 100%;
       gap: 5px;
 
-      .add-sticker {
-        cursor: pointer;
-        background-color: #212121;
-        border-radius: 5px;
-        outline: none;
-        border: none;
-        height: 100px;
-        width: 100px;
+      .sticker-container {
         display: flex;
-        font-size: 100px;
-        line-height: 100px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        flex-direction: column;
+        gap: 5px;
+
+        .add-sticker {
+          cursor: pointer;
+          background-color: #212121;
+          border-radius: 5px;
+          outline: none;
+          border: none;
+          height: 100px;
+          width: 100px;
+          display: flex;
+          font-size: 100px;
+          line-height: 100px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        input {
+          width: 100px;
+        }
       }
 
       .sticker {
@@ -153,7 +163,8 @@
     }
   }
 
-  .code {
+  .code,
+  .link {
     display: flex;
     gap: 5px;
   }

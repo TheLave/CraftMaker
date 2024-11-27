@@ -79,27 +79,30 @@
       </div>
       <div class="option">
         @for (place of selectedWeapon.order; track $index) {
-          @if (selectedStickers[place]) {
-            <div
-              class="sticker"
-              [ngStyle]="{
-                'background-image':
-                  'url(https://media.steampowered.com/apps/730/icons/econ/stickers/' +
-                  selectedStickers[place]!.image +
-                  ')',
-                'background-size': 'contain',
-                'background-position': 'center center',
-                'background-repeat': 'no-repeat'
-              }"
-              (click)="openStickerPopup(place)"
-            >
-              <button class="remove" (click)="removeSticker(place)">X</button>
-            </div>
-          } @else {
-            <button class="add-sticker" (click)="openStickerPopup(place)">
-              <span>+</span>
-            </button>
-          }
+          <div class="sticker-container">
+            @if (selectedStickers[place]) {
+              <div
+                class="sticker"
+                [ngStyle]="{
+                  'background-image':
+                    'url(https://media.steampowered.com/apps/730/icons/econ/stickers/' +
+                    selectedStickers[place]!.image +
+                    ')',
+                  'background-size': 'contain',
+                  'background-position': 'center center',
+                  'background-repeat': 'no-repeat'
+                }"
+                (click)="openStickerPopup(place)"
+              >
+                <button class="remove" (click)="removeSticker(place)">X</button>
+              </div>
+            } @else {
+              <button class="add-sticker" (click)="openStickerPopup(place)">
+                <span>+</span>
+              </button>
+            }
+            <input (input)="setCustomSticker($event, place)" />
+          </div>
         }
       </div>
     }
@@ -107,8 +110,8 @@
 
   <div class="code">
     <input
-      disabled
       #code
+      disabled
       [value]="
         '!gen ' +
         (selectedWeapon ? selectedWeapon.id : 0) +
@@ -134,6 +137,13 @@
     <button (click)="copyCode(code)" matRipple matRippleColor="#cccccc45">
       Copy
     </button>
+    <button (click)="createInspectLink()" matRipple matRippleColor="#cccccc45">
+      Create link
+    </button>
+
+    @if (generatedLink) {
+      <a [href]="generatedLink">Inspect in game</a>
+    }
   </div>
 </div>
 
