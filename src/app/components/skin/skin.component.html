@@ -84,10 +84,13 @@
               <div
                 class="sticker"
                 [ngStyle]="{
-                  'background-image':
-                    'url(https://media.steampowered.com/apps/730/icons/econ/stickers/' +
-                    selectedStickers[place]!.image +
-                    ')',
+                  'background-image': selectedStickers[place]!.image.includes(
+                    'assets/'
+                  )
+                    ? 'url(' + selectedStickers[place]!.image + ')'
+                    : 'url(https://media.steampowered.com/apps/730/icons/econ/stickers/' +
+                      selectedStickers[place]!.image +
+                      ')',
                   'background-size': 'contain',
                   'background-position': 'center center',
                   'background-repeat': 'no-repeat'
@@ -96,12 +99,13 @@
               >
                 <button class="remove" (click)="removeSticker(place)">X</button>
               </div>
+
+              <input [(ngModel)]="selectedStickers[place]!.wear" />
             } @else {
               <button class="add-sticker" (click)="openStickerPopup(place)">
                 <span>+</span>
               </button>
             }
-            <input (input)="setCustomSticker($event, place)" />
           </div>
         }
       </div>
@@ -123,15 +127,24 @@
         float +
         ' ' +
         (selectedStickers[1] !== null ? selectedStickers[1].id : 0) +
-        ' 0 ' +
+        ' ' +
+        (selectedStickers[1] !== null ? selectedStickers[1].wear : 0) +
+        ' ' +
         (selectedStickers[2] !== null ? selectedStickers[2].id : 0) +
-        ' 0 ' +
+        ' ' +
+        (selectedStickers[2] !== null ? selectedStickers[2].wear : 0) +
+        ' ' +
         (selectedStickers[3] !== null ? selectedStickers[3].id : 0) +
-        ' 0 ' +
+        ' ' +
+        (selectedStickers[3] !== null ? selectedStickers[3].wear : 0) +
+        ' ' +
         (selectedStickers[4] !== null ? selectedStickers[4].id : 0) +
-        ' 0 ' +
+        ' ' +
+        (selectedStickers[4] !== null ? selectedStickers[4].wear : 0) +
+        ' ' +
         (selectedStickers[5] !== null ? selectedStickers[5].id : 0) +
-        ' 0'
+        ' ' +
+        (selectedStickers[5] !== null ? selectedStickers[5].wear : 0)
       "
     />
     <button (click)="copyCode(code)" matRipple matRippleColor="#cccccc45">
@@ -185,8 +198,10 @@
                 <img
                   class="preview"
                   [src]="
-                    'https://media.steampowered.com/apps/730/icons/econ/stickers/' +
-                    sticker.image
+                    sticker.image.includes('assets')
+                      ? sticker.image
+                      : 'https://media.steampowered.com/apps/730/icons/econ/stickers/' +
+                        sticker.image
                   "
                 />
               } @placeholder {

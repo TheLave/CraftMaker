@@ -59133,5 +59133,5785 @@
     "rarity": 3,
     "isSignature": false,
     "isPaper": true
+  },
+  {
+    "id": 7928,
+    "title": "G2 Esports | Shanghai 2024",
+    "image": "assets/sha2024/g2_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/g2",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7929,
+    "title": "G2 Esports (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/g2_glitter_png.png",
+    "hue": 33,
+    "rarity": 4,
+    "material": "sha2024/g2_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7930,
+    "title": "G2 Esports (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/g2_holo_png.png",
+    "hue": 183,
+    "rarity": 5,
+    "material": "sha2024/g2_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7932,
+    "title": "Natus Vincere | Shanghai 2024",
+    "image": "assets/sha2024/navi_png.png",
+    "hue": 53,
+    "rarity": 3,
+    "material": "sha2024/navi",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7933,
+    "title": "Natus Vincere (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/navi_glitter_png.png",
+    "hue": 51,
+    "rarity": 4,
+    "material": "sha2024/navi_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7934,
+    "title": "Natus Vincere (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/navi_holo_png.png",
+    "hue": 53,
+    "rarity": 5,
+    "material": "sha2024/navi_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7935,
+    "title": "Natus Vincere (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/navi_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/navi_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7936,
+    "title": "Vitality | Shanghai 2024",
+    "image": "assets/sha2024/vita_png.png",
+    "hue": 55,
+    "rarity": 3,
+    "material": "sha2024/vita",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7937,
+    "title": "Vitality (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/vita_glitter_png.png",
+    "hue": 55,
+    "rarity": 4,
+    "material": "sha2024/vita_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7938,
+    "title": "Vitality (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/vita_holo_png.png",
+    "hue": 59,
+    "rarity": 5,
+    "material": "sha2024/vita_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7939,
+    "title": "Vitality (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/vita_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/vita_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7940,
+    "title": "Team Spirit | Shanghai 2024",
+    "image": "assets/sha2024/spir_png.png",
+    "hue": 28,
+    "rarity": 3,
+    "material": "sha2024/spir",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7941,
+    "title": "Team Spirit (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/spir_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/spir_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7942,
+    "title": "Team Spirit (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/spir_holo_png.png",
+    "hue": 186,
+    "rarity": 5,
+    "material": "sha2024/spir_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7944,
+    "title": "MOUZ | Shanghai 2024",
+    "image": "assets/sha2024/mouz_png.png",
+    "hue": 29,
+    "rarity": 3,
+    "material": "sha2024/mouz",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7945,
+    "title": "MOUZ (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/mouz_glitter_png.png",
+    "hue": 34,
+    "rarity": 4,
+    "material": "sha2024/mouz_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7946,
+    "title": "MOUZ (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/mouz_holo_png.png",
+    "hue": 191,
+    "rarity": 5,
+    "material": "sha2024/mouz_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7947,
+    "title": "MOUZ (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/mouz_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/mouz_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7948,
+    "title": "FaZe Clan | Shanghai 2024",
+    "image": "assets/sha2024/faze_png.png",
+    "hue": 5,
+    "rarity": 3,
+    "material": "sha2024/faze",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7949,
+    "title": "FaZe Clan (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/faze_glitter_png.png",
+    "hue": 7,
+    "rarity": 4,
+    "material": "sha2024/faze_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7950,
+    "title": "FaZe Clan (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/faze_holo_png.png",
+    "hue": 6,
+    "rarity": 5,
+    "material": "sha2024/faze_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7951,
+    "title": "FaZe Clan (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/faze_gold_png.png",
+    "hue": 41,
+    "rarity": 6,
+    "material": "sha2024/faze_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7952,
+    "title": "HEROIC | Shanghai 2024",
+    "image": "assets/sha2024/hero_png.png",
+    "hue": 15,
+    "rarity": 3,
+    "material": "sha2024/hero",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7953,
+    "title": "HEROIC (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/hero_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/hero_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7954,
+    "title": "HEROIC (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/hero_holo_png.png",
+    "hue": 7,
+    "rarity": 5,
+    "material": "sha2024/hero_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7955,
+    "title": "HEROIC (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/hero_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/hero_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7956,
+    "title": "3DMAX | Shanghai 2024",
+    "image": "assets/sha2024/3dm_png.png",
+    "hue": 10,
+    "rarity": 3,
+    "material": "sha2024/3dm",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7957,
+    "title": "3DMAX (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/3dm_glitter_png.png",
+    "hue": 12,
+    "rarity": 4,
+    "material": "sha2024/3dm_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7958,
+    "title": "3DMAX (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/3dm_holo_png.png",
+    "hue": 8,
+    "rarity": 5,
+    "material": "sha2024/3dm_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7959,
+    "title": "3DMAX (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/3dm_gold_png.png",
+    "hue": 40,
+    "rarity": 6,
+    "material": "sha2024/3dm_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7960,
+    "title": "FURIA | Shanghai 2024",
+    "image": "assets/sha2024/furi_png.png",
+    "hue": 28,
+    "rarity": 3,
+    "material": "sha2024/furi",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7961,
+    "title": "FURIA (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/furi_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/furi_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7962,
+    "title": "FURIA (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/furi_holo_png.png",
+    "hue": 259,
+    "rarity": 5,
+    "material": "sha2024/furi_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7963,
+    "title": "FURIA (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/furi_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/furi_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7964,
+    "title": "Virtus.pro | Shanghai 2024",
+    "image": "assets/sha2024/vp_png.png",
+    "hue": 22,
+    "rarity": 3,
+    "material": "sha2024/vp",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7965,
+    "title": "Virtus.pro (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/vp_glitter_png.png",
+    "hue": 21,
+    "rarity": 4,
+    "material": "sha2024/vp_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7966,
+    "title": "Virtus.pro (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/vp_holo_png.png",
+    "hue": 180,
+    "rarity": 5,
+    "material": "sha2024/vp_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7967,
+    "title": "Virtus.pro (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/vp_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/vp_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7968,
+    "title": "Team Liquid | Shanghai 2024",
+    "image": "assets/sha2024/liq_png.png",
+    "hue": 274,
+    "rarity": 3,
+    "material": "sha2024/liq",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7969,
+    "title": "Team Liquid (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/liq_glitter_png.png",
+    "hue": 282,
+    "rarity": 4,
+    "material": "sha2024/liq_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7970,
+    "title": "Team Liquid (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/liq_holo_png.png",
+    "hue": 217,
+    "rarity": 5,
+    "material": "sha2024/liq_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7971,
+    "title": "Team Liquid (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/liq_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/liq_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7972,
+    "title": "Complexity Gaming | Shanghai 2024",
+    "image": "assets/sha2024/cplx_png.png",
+    "hue": 29,
+    "rarity": 3,
+    "material": "sha2024/cplx",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7973,
+    "title": "Complexity Gaming (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/cplx_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/cplx_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7974,
+    "title": "Complexity Gaming (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/cplx_holo_png.png",
+    "hue": 149,
+    "rarity": 5,
+    "material": "sha2024/cplx_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7975,
+    "title": "Complexity Gaming (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/cplx_gold_png.png",
+    "hue": 43,
+    "rarity": 6,
+    "material": "sha2024/cplx_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7976,
+    "title": "BIG | Shanghai 2024",
+    "image": "assets/sha2024/big_png.png",
+    "hue": 26,
+    "rarity": 3,
+    "material": "sha2024/big",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7977,
+    "title": "BIG (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/big_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/big_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7978,
+    "title": "BIG (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/big_holo_png.png",
+    "hue": 166,
+    "rarity": 5,
+    "material": "sha2024/big_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7979,
+    "title": "BIG (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/big_gold_png.png",
+    "hue": 43,
+    "rarity": 6,
+    "material": "sha2024/big_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7980,
+    "title": "Fnatic | Shanghai 2024",
+    "image": "assets/sha2024/fntc_png.png",
+    "hue": 19,
+    "rarity": 3,
+    "material": "sha2024/fntc",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7981,
+    "title": "Fnatic (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/fntc_glitter_png.png",
+    "hue": 19,
+    "rarity": 4,
+    "material": "sha2024/fntc_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7982,
+    "title": "Fnatic (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/fntc_holo_png.png",
+    "hue": 21,
+    "rarity": 5,
+    "material": "sha2024/fntc_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7983,
+    "title": "Fnatic (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/fntc_gold_png.png",
+    "hue": 40,
+    "rarity": 6,
+    "material": "sha2024/fntc_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7984,
+    "title": "The MongolZ | Shanghai 2024",
+    "image": "assets/sha2024/mngz_png.png",
+    "hue": 41,
+    "rarity": 3,
+    "material": "sha2024/mngz",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7985,
+    "title": "The MongolZ (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/mngz_glitter_png.png",
+    "hue": 41,
+    "rarity": 4,
+    "material": "sha2024/mngz_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7986,
+    "title": "The MongolZ (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/mngz_holo_png.png",
+    "hue": 40,
+    "rarity": 5,
+    "material": "sha2024/mngz_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7987,
+    "title": "The MongolZ (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/mngz_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/mngz_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7988,
+    "title": "paiN Gaming | Shanghai 2024",
+    "image": "assets/sha2024/pain_png.png",
+    "hue": 21,
+    "rarity": 3,
+    "material": "sha2024/pain",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7989,
+    "title": "paiN Gaming (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/pain_glitter_png.png",
+    "hue": 22,
+    "rarity": 4,
+    "material": "sha2024/pain_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7990,
+    "title": "paiN Gaming (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/pain_holo_png.png",
+    "hue": 309,
+    "rarity": 5,
+    "material": "sha2024/pain_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7991,
+    "title": "paiN Gaming (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/pain_gold_png.png",
+    "hue": 42,
+    "rarity": 6,
+    "material": "sha2024/pain_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7992,
+    "title": "GamerLegion | Shanghai 2024",
+    "image": "assets/sha2024/gl_png.png",
+    "hue": 219,
+    "rarity": 3,
+    "material": "sha2024/gl",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7993,
+    "title": "GamerLegion (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/gl_glitter_png.png",
+    "hue": 223,
+    "rarity": 4,
+    "material": "sha2024/gl_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7994,
+    "title": "GamerLegion (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/gl_holo_png.png",
+    "hue": 224,
+    "rarity": 5,
+    "material": "sha2024/gl_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7995,
+    "title": "GamerLegion (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/gl_gold_png.png",
+    "hue": 43,
+    "rarity": 6,
+    "material": "sha2024/gl_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7996,
+    "title": "MIBR | Shanghai 2024",
+    "image": "assets/sha2024/mibr_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/mibr",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7997,
+    "title": "MIBR (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/mibr_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/mibr_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7998,
+    "title": "MIBR (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/mibr_holo_png.png",
+    "hue": 212,
+    "rarity": 5,
+    "material": "sha2024/mibr_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7999,
+    "title": "MIBR (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/mibr_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/mibr_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8000,
+    "title": "Cloud9 | Shanghai 2024",
+    "image": "assets/sha2024/c9_png.png",
+    "hue": 206,
+    "rarity": 3,
+    "material": "sha2024/c9",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8001,
+    "title": "Cloud9 (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/c9_glitter_png.png",
+    "hue": 202,
+    "rarity": 4,
+    "material": "sha2024/c9_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8002,
+    "title": "Cloud9 (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/c9_holo_png.png",
+    "hue": 208,
+    "rarity": 5,
+    "material": "sha2024/c9_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8003,
+    "title": "Cloud9 (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/c9_gold_png.png",
+    "hue": 43,
+    "rarity": 6,
+    "material": "sha2024/c9_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8004,
+    "title": "FlyQuest | Shanghai 2024",
+    "image": "assets/sha2024/fq_png.png",
+    "hue": 127,
+    "rarity": 3,
+    "material": "sha2024/fq",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8005,
+    "title": "FlyQuest (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/fq_glitter_png.png",
+    "hue": 129,
+    "rarity": 4,
+    "material": "sha2024/fq_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8006,
+    "title": "FlyQuest (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/fq_holo_png.png",
+    "hue": 131,
+    "rarity": 5,
+    "material": "sha2024/fq_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8007,
+    "title": "FlyQuest (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/fq_gold_png.png",
+    "hue": 43,
+    "rarity": 6,
+    "material": "sha2024/fq_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8008,
+    "title": "Passion UA | Shanghai 2024",
+    "image": "assets/sha2024/psnu_png.png",
+    "hue": 36,
+    "rarity": 3,
+    "material": "sha2024/psnu",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8009,
+    "title": "Passion UA (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/psnu_glitter_png.png",
+    "hue": 36,
+    "rarity": 4,
+    "material": "sha2024/psnu_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8010,
+    "title": "Passion UA (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/psnu_holo_png.png",
+    "hue": 52,
+    "rarity": 5,
+    "material": "sha2024/psnu_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8011,
+    "title": "Passion UA (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/psnu_gold_png.png",
+    "hue": 42,
+    "rarity": 6,
+    "material": "sha2024/psnu_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8012,
+    "title": "Wildcard | Shanghai 2024",
+    "image": "assets/sha2024/wcrd_png.png",
+    "hue": 0,
+    "rarity": 3,
+    "material": "sha2024/wcrd",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8013,
+    "title": "Wildcard (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/wcrd_glitter_png.png",
+    "hue": 0,
+    "rarity": 4,
+    "material": "sha2024/wcrd_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8014,
+    "title": "Wildcard (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/wcrd_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/wcrd_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8015,
+    "title": "Wildcard (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/wcrd_gold_png.png",
+    "hue": 42,
+    "rarity": 6,
+    "material": "sha2024/wcrd_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8016,
+    "title": "Rare Atom | Shanghai 2024",
+    "image": "assets/sha2024/ratm_png.png",
+    "hue": 298,
+    "rarity": 3,
+    "material": "sha2024/ratm",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8017,
+    "title": "Rare Atom (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/ratm_glitter_png.png",
+    "hue": 307,
+    "rarity": 4,
+    "material": "sha2024/ratm_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8018,
+    "title": "Rare Atom (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/ratm_holo_png.png",
+    "hue": 294,
+    "rarity": 5,
+    "material": "sha2024/ratm_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8019,
+    "title": "Rare Atom (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/ratm_gold_png.png",
+    "hue": 42,
+    "rarity": 6,
+    "material": "sha2024/ratm_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8020,
+    "title": "Imperial Esports | Shanghai 2024",
+    "image": "assets/sha2024/imp_png.png",
+    "hue": 122,
+    "rarity": 3,
+    "material": "sha2024/imp",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8021,
+    "title": "Imperial Esports (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/imp_glitter_png.png",
+    "hue": 123,
+    "rarity": 4,
+    "material": "sha2024/imp_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8022,
+    "title": "Imperial Esports (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/imp_holo_png.png",
+    "hue": 123,
+    "rarity": 5,
+    "material": "sha2024/imp_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8023,
+    "title": "Imperial Esports (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/imp_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/imp_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8024,
+    "title": "Perfect World | Shanghai 2024",
+    "image": "assets/sha2024/pw_png.png",
+    "hue": 191,
+    "rarity": 3,
+    "material": "sha2024/pw",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8025,
+    "title": "Perfect World (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/pw_glitter_png.png",
+    "hue": 185,
+    "rarity": 4,
+    "material": "sha2024/pw_glitter",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8026,
+    "title": "Perfect World (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/pw_holo_png.png",
+    "hue": 186,
+    "rarity": 5,
+    "material": "sha2024/pw_holo",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8027,
+    "title": "Perfect World (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/pw_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/pw_gold",
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 8053,
+    "title": "Snax | Shanghai 2024",
+    "image": "assets/sha2024/sig_snax_png.png",
+    "hue": 9,
+    "rarity": 3,
+    "material": "sha2024/sig_snax",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8054,
+    "title": "Snax (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_snax_glitter_png.png",
+    "hue": 17,
+    "rarity": 4,
+    "material": "sha2024/sig_snax_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8055,
+    "title": "Snax (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_snax_holo_png.png",
+    "hue": 12,
+    "rarity": 5,
+    "material": "sha2024/sig_snax_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8056,
+    "title": "Snax (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_snax_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_snax_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8057,
+    "title": "huNter- | Shanghai 2024",
+    "image": "assets/sha2024/sig_hunter_png.png",
+    "hue": 8,
+    "rarity": 3,
+    "material": "sha2024/sig_hunter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8058,
+    "title": "huNter- (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_hunter_glitter_png.png",
+    "hue": 14,
+    "rarity": 4,
+    "material": "sha2024/sig_hunter_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8059,
+    "title": "huNter- (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_hunter_holo_png.png",
+    "hue": 11,
+    "rarity": 5,
+    "material": "sha2024/sig_hunter_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8060,
+    "title": "huNter- (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_hunter_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_hunter_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8061,
+    "title": "malbsMd | Shanghai 2024",
+    "image": "assets/sha2024/sig_malbsmd_png.png",
+    "hue": 8,
+    "rarity": 3,
+    "material": "sha2024/sig_malbsmd",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8062,
+    "title": "malbsMd (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_malbsmd_glitter_png.png",
+    "hue": 11,
+    "rarity": 4,
+    "material": "sha2024/sig_malbsmd_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8063,
+    "title": "malbsMd (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_malbsmd_holo_png.png",
+    "hue": 9,
+    "rarity": 5,
+    "material": "sha2024/sig_malbsmd_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8064,
+    "title": "malbsMd (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_malbsmd_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_malbsmd_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8065,
+    "title": "m0NESY | Shanghai 2024",
+    "image": "assets/sha2024/sig_m0nesy_png.png",
+    "hue": 9,
+    "rarity": 3,
+    "material": "sha2024/sig_m0nesy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8066,
+    "title": "m0NESY (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_m0nesy_glitter_png.png",
+    "hue": 14,
+    "rarity": 4,
+    "material": "sha2024/sig_m0nesy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8067,
+    "title": "m0NESY (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_m0nesy_holo_png.png",
+    "hue": 12,
+    "rarity": 5,
+    "material": "sha2024/sig_m0nesy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8068,
+    "title": "m0NESY (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_m0nesy_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_m0nesy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8069,
+    "title": "NiKo | Shanghai 2024",
+    "image": "assets/sha2024/sig_niko_png.png",
+    "hue": 11,
+    "rarity": 3,
+    "material": "sha2024/sig_niko",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8070,
+    "title": "NiKo (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_niko_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_niko_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8071,
+    "title": "NiKo (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_niko_holo_png.png",
+    "hue": 8,
+    "rarity": 5,
+    "material": "sha2024/sig_niko_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8072,
+    "title": "NiKo (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_niko_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_niko_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8073,
+    "title": "w0nderful | Shanghai 2024",
+    "image": "assets/sha2024/sig_w0nderful_png.png",
+    "hue": 51,
+    "rarity": 3,
+    "material": "sha2024/sig_w0nderful",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8074,
+    "title": "w0nderful (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_w0nderful_glitter_png.png",
+    "hue": 47,
+    "rarity": 4,
+    "material": "sha2024/sig_w0nderful_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8075,
+    "title": "w0nderful (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_w0nderful_holo_png.png",
+    "hue": 54,
+    "rarity": 5,
+    "material": "sha2024/sig_w0nderful_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8076,
+    "title": "w0nderful (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_w0nderful_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_w0nderful_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8077,
+    "title": "Aleksib | Shanghai 2024",
+    "image": "assets/sha2024/sig_aleksib_png.png",
+    "hue": 52,
+    "rarity": 3,
+    "material": "sha2024/sig_aleksib",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8078,
+    "title": "Aleksib (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_aleksib_glitter_png.png",
+    "hue": 48,
+    "rarity": 4,
+    "material": "sha2024/sig_aleksib_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8079,
+    "title": "Aleksib (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_aleksib_holo_png.png",
+    "hue": 55,
+    "rarity": 5,
+    "material": "sha2024/sig_aleksib_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8080,
+    "title": "Aleksib (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_aleksib_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_aleksib_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8081,
+    "title": "jL | Shanghai 2024",
+    "image": "assets/sha2024/sig_jl_png.png",
+    "hue": 50,
+    "rarity": 3,
+    "material": "sha2024/sig_jl",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8082,
+    "title": "jL (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jl_glitter_png.png",
+    "hue": 44,
+    "rarity": 4,
+    "material": "sha2024/sig_jl_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8083,
+    "title": "jL (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jl_holo_png.png",
+    "hue": 48,
+    "rarity": 5,
+    "material": "sha2024/sig_jl_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8084,
+    "title": "jL (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jl_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_jl_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8085,
+    "title": "b1t | Shanghai 2024",
+    "image": "assets/sha2024/sig_b1t_png.png",
+    "hue": 51,
+    "rarity": 3,
+    "material": "sha2024/sig_b1t",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8086,
+    "title": "b1t (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_b1t_glitter_png.png",
+    "hue": 46,
+    "rarity": 4,
+    "material": "sha2024/sig_b1t_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8087,
+    "title": "b1t (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_b1t_holo_png.png",
+    "hue": 54,
+    "rarity": 5,
+    "material": "sha2024/sig_b1t_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8088,
+    "title": "b1t (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_b1t_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_b1t_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8089,
+    "title": "iM | Shanghai 2024",
+    "image": "assets/sha2024/sig_im_png.png",
+    "hue": 51,
+    "rarity": 3,
+    "material": "sha2024/sig_im",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8090,
+    "title": "iM (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_im_glitter_png.png",
+    "hue": 46,
+    "rarity": 4,
+    "material": "sha2024/sig_im_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8091,
+    "title": "iM (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_im_holo_png.png",
+    "hue": 51,
+    "rarity": 5,
+    "material": "sha2024/sig_im_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8092,
+    "title": "iM (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_im_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_im_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8093,
+    "title": "ZywOo | Shanghai 2024",
+    "image": "assets/sha2024/sig_zywoo_png.png",
+    "hue": 56,
+    "rarity": 3,
+    "material": "sha2024/sig_zywoo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8094,
+    "title": "ZywOo (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zywoo_glitter_png.png",
+    "hue": 49,
+    "rarity": 4,
+    "material": "sha2024/sig_zywoo_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8095,
+    "title": "ZywOo (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zywoo_holo_png.png",
+    "hue": 55,
+    "rarity": 5,
+    "material": "sha2024/sig_zywoo_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8096,
+    "title": "ZywOo (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zywoo_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_zywoo_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8097,
+    "title": "apEX | Shanghai 2024",
+    "image": "assets/sha2024/sig_apex_png.png",
+    "hue": 57,
+    "rarity": 3,
+    "material": "sha2024/sig_apex",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8098,
+    "title": "apEX (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_apex_glitter_png.png",
+    "hue": 51,
+    "rarity": 4,
+    "material": "sha2024/sig_apex_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8099,
+    "title": "apEX (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_apex_holo_png.png",
+    "hue": 58,
+    "rarity": 5,
+    "material": "sha2024/sig_apex_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8100,
+    "title": "apEX (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_apex_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_apex_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8101,
+    "title": "mezii | Shanghai 2024",
+    "image": "assets/sha2024/sig_mezii_png.png",
+    "hue": 56,
+    "rarity": 3,
+    "material": "sha2024/sig_mezii",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8102,
+    "title": "mezii (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_mezii_glitter_png.png",
+    "hue": 52,
+    "rarity": 4,
+    "material": "sha2024/sig_mezii_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8103,
+    "title": "mezii (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_mezii_holo_png.png",
+    "hue": 61,
+    "rarity": 5,
+    "material": "sha2024/sig_mezii_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8104,
+    "title": "mezii (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_mezii_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_mezii_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8105,
+    "title": "FlameZ | Shanghai 2024",
+    "image": "assets/sha2024/sig_flamez_png.png",
+    "hue": 56,
+    "rarity": 3,
+    "material": "sha2024/sig_flamez",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8106,
+    "title": "FlameZ (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_flamez_glitter_png.png",
+    "hue": 47,
+    "rarity": 4,
+    "material": "sha2024/sig_flamez_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8107,
+    "title": "FlameZ (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_flamez_holo_png.png",
+    "hue": 52,
+    "rarity": 5,
+    "material": "sha2024/sig_flamez_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8108,
+    "title": "FlameZ (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_flamez_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_flamez_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8109,
+    "title": "Spinx | Shanghai 2024",
+    "image": "assets/sha2024/sig_spinx_png.png",
+    "hue": 55,
+    "rarity": 3,
+    "material": "sha2024/sig_spinx",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8110,
+    "title": "Spinx (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_spinx_glitter_png.png",
+    "hue": 49,
+    "rarity": 4,
+    "material": "sha2024/sig_spinx_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8111,
+    "title": "Spinx (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_spinx_holo_png.png",
+    "hue": 53,
+    "rarity": 5,
+    "material": "sha2024/sig_spinx_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8112,
+    "title": "Spinx (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_spinx_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_spinx_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8113,
+    "title": "chopper | Shanghai 2024",
+    "image": "assets/sha2024/sig_chopper_png.png",
+    "hue": 31,
+    "rarity": 3,
+    "material": "sha2024/sig_chopper",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8114,
+    "title": "chopper (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_chopper_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_chopper_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8115,
+    "title": "chopper (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_chopper_holo_png.png",
+    "hue": 19,
+    "rarity": 5,
+    "material": "sha2024/sig_chopper_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8116,
+    "title": "chopper (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_chopper_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_chopper_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8117,
+    "title": "magixx | Shanghai 2024",
+    "image": "assets/sha2024/sig_magixx_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_magixx",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8118,
+    "title": "magixx (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_magixx_glitter_png.png",
+    "hue": 26,
+    "rarity": 4,
+    "material": "sha2024/sig_magixx_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8119,
+    "title": "magixx (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_magixx_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_magixx_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8120,
+    "title": "magixx (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_magixx_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_magixx_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8121,
+    "title": "donk | Shanghai 2024",
+    "image": "assets/sha2024/sig_donk_png.png",
+    "hue": 27,
+    "rarity": 3,
+    "material": "sha2024/sig_donk",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8122,
+    "title": "donk (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_donk_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_donk_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8123,
+    "title": "donk (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_donk_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_donk_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8124,
+    "title": "donk (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_donk_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_donk_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8125,
+    "title": "sh1ro | Shanghai 2024",
+    "image": "assets/sha2024/sig_sh1ro_png.png",
+    "hue": 27,
+    "rarity": 3,
+    "material": "sha2024/sig_sh1ro",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8126,
+    "title": "sh1ro (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sh1ro_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_sh1ro_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8127,
+    "title": "sh1ro (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sh1ro_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_sh1ro_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8128,
+    "title": "sh1ro (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sh1ro_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_sh1ro_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8129,
+    "title": "zont1x | Shanghai 2024",
+    "image": "assets/sha2024/sig_zont1x_png.png",
+    "hue": 28,
+    "rarity": 3,
+    "material": "sha2024/sig_zont1x",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8130,
+    "title": "zont1x (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zont1x_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_zont1x_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8131,
+    "title": "zont1x (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zont1x_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_zont1x_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8132,
+    "title": "zont1x (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zont1x_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_zont1x_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8133,
+    "title": "torzsi | Shanghai 2024",
+    "image": "assets/sha2024/sig_torzsi_png.png",
+    "hue": 11,
+    "rarity": 3,
+    "material": "sha2024/sig_torzsi",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8134,
+    "title": "torzsi (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_torzsi_glitter_png.png",
+    "hue": 18,
+    "rarity": 4,
+    "material": "sha2024/sig_torzsi_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8135,
+    "title": "torzsi (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_torzsi_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_torzsi_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8136,
+    "title": "torzsi (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_torzsi_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_torzsi_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8137,
+    "title": "xertioN | Shanghai 2024",
+    "image": "assets/sha2024/sig_xertion_png.png",
+    "hue": 13,
+    "rarity": 3,
+    "material": "sha2024/sig_xertion",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8138,
+    "title": "xertioN (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_xertion_glitter_png.png",
+    "hue": 17,
+    "rarity": 4,
+    "material": "sha2024/sig_xertion_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8139,
+    "title": "xertioN (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_xertion_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_xertion_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8140,
+    "title": "xertioN (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_xertion_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_xertion_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8141,
+    "title": "Brollan | Shanghai 2024",
+    "image": "assets/sha2024/sig_brollan_png.png",
+    "hue": 11,
+    "rarity": 3,
+    "material": "sha2024/sig_brollan",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8142,
+    "title": "Brollan (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_brollan_glitter_png.png",
+    "hue": 21,
+    "rarity": 4,
+    "material": "sha2024/sig_brollan_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8143,
+    "title": "Brollan (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_brollan_holo_png.png",
+    "hue": 342,
+    "rarity": 5,
+    "material": "sha2024/sig_brollan_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8144,
+    "title": "Brollan (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_brollan_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_brollan_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8145,
+    "title": "Jimpphat | Shanghai 2024",
+    "image": "assets/sha2024/sig_jimpphat_png.png",
+    "hue": 10,
+    "rarity": 3,
+    "material": "sha2024/sig_jimpphat",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8146,
+    "title": "Jimpphat (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jimpphat_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_jimpphat_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8147,
+    "title": "Jimpphat (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jimpphat_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_jimpphat_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8148,
+    "title": "Jimpphat (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jimpphat_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_jimpphat_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8149,
+    "title": "siuhy | Shanghai 2024",
+    "image": "assets/sha2024/sig_siuhy_png.png",
+    "hue": 11,
+    "rarity": 3,
+    "material": "sha2024/sig_siuhy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8150,
+    "title": "siuhy (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_siuhy_glitter_png.png",
+    "hue": 19,
+    "rarity": 4,
+    "material": "sha2024/sig_siuhy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8151,
+    "title": "siuhy (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_siuhy_holo_png.png",
+    "hue": 3,
+    "rarity": 5,
+    "material": "sha2024/sig_siuhy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8152,
+    "title": "siuhy (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_siuhy_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_siuhy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8153,
+    "title": "karrigan | Shanghai 2024",
+    "image": "assets/sha2024/sig_karrigan_png.png",
+    "hue": 5,
+    "rarity": 3,
+    "material": "sha2024/sig_karrigan",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8154,
+    "title": "karrigan (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_karrigan_glitter_png.png",
+    "hue": 11,
+    "rarity": 4,
+    "material": "sha2024/sig_karrigan_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8155,
+    "title": "karrigan (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_karrigan_holo_png.png",
+    "hue": 13,
+    "rarity": 5,
+    "material": "sha2024/sig_karrigan_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8156,
+    "title": "karrigan (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_karrigan_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_karrigan_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8157,
+    "title": "rain | Shanghai 2024",
+    "image": "assets/sha2024/sig_rain_png.png",
+    "hue": 2,
+    "rarity": 3,
+    "material": "sha2024/sig_rain",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8158,
+    "title": "rain (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_rain_glitter_png.png",
+    "hue": 8,
+    "rarity": 4,
+    "material": "sha2024/sig_rain_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8159,
+    "title": "rain (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_rain_holo_png.png",
+    "hue": 8,
+    "rarity": 5,
+    "material": "sha2024/sig_rain_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8160,
+    "title": "rain (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_rain_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_rain_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8161,
+    "title": "ropz | Shanghai 2024",
+    "image": "assets/sha2024/sig_ropz_png.png",
+    "hue": 8,
+    "rarity": 3,
+    "material": "sha2024/sig_ropz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8162,
+    "title": "ropz (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ropz_glitter_png.png",
+    "hue": 6,
+    "rarity": 4,
+    "material": "sha2024/sig_ropz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8163,
+    "title": "ropz (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ropz_holo_png.png",
+    "hue": 7,
+    "rarity": 5,
+    "material": "sha2024/sig_ropz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8164,
+    "title": "ropz (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ropz_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_ropz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8165,
+    "title": "broky | Shanghai 2024",
+    "image": "assets/sha2024/sig_broky_png.png",
+    "hue": 5,
+    "rarity": 3,
+    "material": "sha2024/sig_broky",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8166,
+    "title": "broky (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_broky_glitter_png.png",
+    "hue": 5,
+    "rarity": 4,
+    "material": "sha2024/sig_broky_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8167,
+    "title": "broky (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_broky_holo_png.png",
+    "hue": 5,
+    "rarity": 5,
+    "material": "sha2024/sig_broky_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8168,
+    "title": "broky (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_broky_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_broky_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8169,
+    "title": "frozen | Shanghai 2024",
+    "image": "assets/sha2024/sig_frozen_png.png",
+    "hue": 4,
+    "rarity": 3,
+    "material": "sha2024/sig_frozen",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8170,
+    "title": "frozen (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_frozen_glitter_png.png",
+    "hue": 10,
+    "rarity": 4,
+    "material": "sha2024/sig_frozen_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8171,
+    "title": "frozen (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_frozen_holo_png.png",
+    "hue": 12,
+    "rarity": 5,
+    "material": "sha2024/sig_frozen_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8172,
+    "title": "frozen (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_frozen_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_frozen_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8173,
+    "title": "TeSeS | Shanghai 2024",
+    "image": "assets/sha2024/sig_teses_png.png",
+    "hue": 6,
+    "rarity": 3,
+    "material": "sha2024/sig_teses",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8174,
+    "title": "TeSeS (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_teses_glitter_png.png",
+    "hue": 11,
+    "rarity": 4,
+    "material": "sha2024/sig_teses_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8175,
+    "title": "TeSeS (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_teses_holo_png.png",
+    "hue": 11,
+    "rarity": 5,
+    "material": "sha2024/sig_teses_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8176,
+    "title": "TeSeS (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_teses_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_teses_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8177,
+    "title": "sjuush | Shanghai 2024",
+    "image": "assets/sha2024/sig_sjuush_png.png",
+    "hue": 7,
+    "rarity": 3,
+    "material": "sha2024/sig_sjuush",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8178,
+    "title": "sjuush (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sjuush_glitter_png.png",
+    "hue": 16,
+    "rarity": 4,
+    "material": "sha2024/sig_sjuush_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8179,
+    "title": "sjuush (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sjuush_holo_png.png",
+    "hue": 13,
+    "rarity": 5,
+    "material": "sha2024/sig_sjuush_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8180,
+    "title": "sjuush (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sjuush_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_sjuush_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8181,
+    "title": "kyxsan | Shanghai 2024",
+    "image": "assets/sha2024/sig_kyxsan_png.png",
+    "hue": 8,
+    "rarity": 3,
+    "material": "sha2024/sig_kyxsan",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8182,
+    "title": "kyxsan (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kyxsan_glitter_png.png",
+    "hue": 10,
+    "rarity": 4,
+    "material": "sha2024/sig_kyxsan_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8183,
+    "title": "kyxsan (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kyxsan_holo_png.png",
+    "hue": 9,
+    "rarity": 5,
+    "material": "sha2024/sig_kyxsan_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8184,
+    "title": "kyxsan (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kyxsan_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_kyxsan_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8185,
+    "title": "NertZ | Shanghai 2024",
+    "image": "assets/sha2024/sig_nertz_png.png",
+    "hue": 5,
+    "rarity": 3,
+    "material": "sha2024/sig_nertz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8186,
+    "title": "NertZ (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_nertz_glitter_png.png",
+    "hue": 13,
+    "rarity": 4,
+    "material": "sha2024/sig_nertz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8187,
+    "title": "NertZ (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_nertz_holo_png.png",
+    "hue": 13,
+    "rarity": 5,
+    "material": "sha2024/sig_nertz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8188,
+    "title": "NertZ (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_nertz_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_nertz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8189,
+    "title": "degster | Shanghai 2024",
+    "image": "assets/sha2024/sig_degster_png.png",
+    "hue": 10,
+    "rarity": 3,
+    "material": "sha2024/sig_degster",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8190,
+    "title": "degster (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_degster_glitter_png.png",
+    "hue": 12,
+    "rarity": 4,
+    "material": "sha2024/sig_degster_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8191,
+    "title": "degster (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_degster_holo_png.png",
+    "hue": 10,
+    "rarity": 5,
+    "material": "sha2024/sig_degster_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8192,
+    "title": "degster (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_degster_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_degster_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8193,
+    "title": "Ex3rcice | Shanghai 2024",
+    "image": "assets/sha2024/sig_ex3rcice_png.png",
+    "hue": 11,
+    "rarity": 3,
+    "material": "sha2024/sig_ex3rcice",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8194,
+    "title": "Ex3rcice (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ex3rcice_glitter_png.png",
+    "hue": 16,
+    "rarity": 4,
+    "material": "sha2024/sig_ex3rcice_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8195,
+    "title": "Ex3rcice (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ex3rcice_holo_png.png",
+    "hue": 16,
+    "rarity": 5,
+    "material": "sha2024/sig_ex3rcice_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8196,
+    "title": "Ex3rcice (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ex3rcice_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_ex3rcice_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8197,
+    "title": "Djoko | Shanghai 2024",
+    "image": "assets/sha2024/sig_djoko_png.png",
+    "hue": 11,
+    "rarity": 3,
+    "material": "sha2024/sig_djoko",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8198,
+    "title": "Djoko (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_djoko_glitter_png.png",
+    "hue": 13,
+    "rarity": 4,
+    "material": "sha2024/sig_djoko_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8199,
+    "title": "Djoko (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_djoko_holo_png.png",
+    "hue": 14,
+    "rarity": 5,
+    "material": "sha2024/sig_djoko_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8200,
+    "title": "Djoko (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_djoko_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_djoko_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8201,
+    "title": "Maka | Shanghai 2024",
+    "image": "assets/sha2024/sig_maka_png.png",
+    "hue": 13,
+    "rarity": 3,
+    "material": "sha2024/sig_maka",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8202,
+    "title": "Maka (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_maka_glitter_png.png",
+    "hue": 10,
+    "rarity": 4,
+    "material": "sha2024/sig_maka_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8203,
+    "title": "Maka (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_maka_holo_png.png",
+    "hue": 10,
+    "rarity": 5,
+    "material": "sha2024/sig_maka_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8204,
+    "title": "Maka (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_maka_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_maka_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8205,
+    "title": "Lucky | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucky_png.png",
+    "hue": 13,
+    "rarity": 3,
+    "material": "sha2024/sig_lucky",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8206,
+    "title": "Lucky (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucky_glitter_png.png",
+    "hue": 12,
+    "rarity": 4,
+    "material": "sha2024/sig_lucky_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8207,
+    "title": "Lucky (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucky_holo_png.png",
+    "hue": 14,
+    "rarity": 5,
+    "material": "sha2024/sig_lucky_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8208,
+    "title": "Lucky (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucky_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_lucky_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8209,
+    "title": "Graviti | Shanghai 2024",
+    "image": "assets/sha2024/sig_graviti_png.png",
+    "hue": 12,
+    "rarity": 3,
+    "material": "sha2024/sig_graviti",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8210,
+    "title": "Graviti (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_graviti_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_graviti_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8211,
+    "title": "Graviti (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_graviti_holo_png.png",
+    "hue": 13,
+    "rarity": 5,
+    "material": "sha2024/sig_graviti_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8212,
+    "title": "Graviti (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_graviti_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_graviti_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8213,
+    "title": "FalleN | Shanghai 2024",
+    "image": "assets/sha2024/sig_fallen_png.png",
+    "hue": 33,
+    "rarity": 3,
+    "material": "sha2024/sig_fallen",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8214,
+    "title": "FalleN (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fallen_glitter_png.png",
+    "hue": 27,
+    "rarity": 4,
+    "material": "sha2024/sig_fallen_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8215,
+    "title": "FalleN (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fallen_holo_png.png",
+    "hue": 180,
+    "rarity": 5,
+    "material": "sha2024/sig_fallen_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8216,
+    "title": "FalleN (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fallen_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_fallen_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8217,
+    "title": "chelo | Shanghai 2024",
+    "image": "assets/sha2024/sig_chelo_png.png",
+    "hue": 35,
+    "rarity": 3,
+    "material": "sha2024/sig_chelo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8218,
+    "title": "chelo (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_chelo_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/sig_chelo_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8219,
+    "title": "chelo (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_chelo_holo_png.png",
+    "hue": 150,
+    "rarity": 5,
+    "material": "sha2024/sig_chelo_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8220,
+    "title": "chelo (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_chelo_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_chelo_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8221,
+    "title": "yuurih | Shanghai 2024",
+    "image": "assets/sha2024/sig_yuurih_png.png",
+    "hue": 48,
+    "rarity": 3,
+    "material": "sha2024/sig_yuurih",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8222,
+    "title": "yuurih (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_yuurih_glitter_png.png",
+    "hue": 29,
+    "rarity": 4,
+    "material": "sha2024/sig_yuurih_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8223,
+    "title": "yuurih (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_yuurih_holo_png.png",
+    "hue": 230,
+    "rarity": 5,
+    "material": "sha2024/sig_yuurih_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8224,
+    "title": "yuurih (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_yuurih_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_yuurih_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8225,
+    "title": "KSCERATO | Shanghai 2024",
+    "image": "assets/sha2024/sig_kscerato_png.png",
+    "hue": 36,
+    "rarity": 3,
+    "material": "sha2024/sig_kscerato",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8226,
+    "title": "KSCERATO (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kscerato_glitter_png.png",
+    "hue": 27,
+    "rarity": 4,
+    "material": "sha2024/sig_kscerato_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8227,
+    "title": "KSCERATO (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kscerato_holo_png.png",
+    "hue": 240,
+    "rarity": 5,
+    "material": "sha2024/sig_kscerato_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8228,
+    "title": "KSCERATO (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kscerato_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_kscerato_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8229,
+    "title": "skullz | Shanghai 2024",
+    "image": "assets/sha2024/sig_skullz_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_skullz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8230,
+    "title": "skullz (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_skullz_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_skullz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8231,
+    "title": "skullz (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_skullz_holo_png.png",
+    "hue": 0,
+    "rarity": 5,
+    "material": "sha2024/sig_skullz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8232,
+    "title": "skullz (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_skullz_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_skullz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8233,
+    "title": "FL1T | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl1t_png.png",
+    "hue": 19,
+    "rarity": 3,
+    "material": "sha2024/sig_fl1t",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8234,
+    "title": "FL1T (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl1t_glitter_png.png",
+    "hue": 19,
+    "rarity": 4,
+    "material": "sha2024/sig_fl1t_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8235,
+    "title": "FL1T (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl1t_holo_png.png",
+    "hue": 19,
+    "rarity": 5,
+    "material": "sha2024/sig_fl1t_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8236,
+    "title": "FL1T (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl1t_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_fl1t_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8237,
+    "title": "Jame | Shanghai 2024",
+    "image": "assets/sha2024/sig_jame_png.png",
+    "hue": 17,
+    "rarity": 3,
+    "material": "sha2024/sig_jame",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8238,
+    "title": "Jame (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jame_glitter_png.png",
+    "hue": 22,
+    "rarity": 4,
+    "material": "sha2024/sig_jame_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8239,
+    "title": "Jame (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jame_holo_png.png",
+    "hue": 24,
+    "rarity": 5,
+    "material": "sha2024/sig_jame_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8240,
+    "title": "Jame (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jame_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_jame_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8241,
+    "title": "fame | Shanghai 2024",
+    "image": "assets/sha2024/sig_fame_png.png",
+    "hue": 20,
+    "rarity": 3,
+    "material": "sha2024/sig_fame",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8242,
+    "title": "fame (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fame_glitter_png.png",
+    "hue": 17,
+    "rarity": 4,
+    "material": "sha2024/sig_fame_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8243,
+    "title": "fame (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fame_holo_png.png",
+    "hue": 18,
+    "rarity": 5,
+    "material": "sha2024/sig_fame_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8244,
+    "title": "fame (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fame_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_fame_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8245,
+    "title": "n0rb3r7 | Shanghai 2024",
+    "image": "assets/sha2024/sig_n0rb3r7_png.png",
+    "hue": 21,
+    "rarity": 3,
+    "material": "sha2024/sig_n0rb3r7",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8246,
+    "title": "n0rb3r7 (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_n0rb3r7_glitter_png.png",
+    "hue": 19,
+    "rarity": 4,
+    "material": "sha2024/sig_n0rb3r7_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8247,
+    "title": "n0rb3r7 (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_n0rb3r7_holo_png.png",
+    "hue": 20,
+    "rarity": 5,
+    "material": "sha2024/sig_n0rb3r7_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8248,
+    "title": "n0rb3r7 (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_n0rb3r7_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_n0rb3r7_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8249,
+    "title": "electronic | Shanghai 2024",
+    "image": "assets/sha2024/sig_electronic_png.png",
+    "hue": 19,
+    "rarity": 3,
+    "material": "sha2024/sig_electronic",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8250,
+    "title": "electronic (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_electronic_glitter_png.png",
+    "hue": 22,
+    "rarity": 4,
+    "material": "sha2024/sig_electronic_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8251,
+    "title": "electronic (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_electronic_holo_png.png",
+    "hue": 16,
+    "rarity": 5,
+    "material": "sha2024/sig_electronic_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8252,
+    "title": "electronic (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_electronic_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_electronic_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8253,
+    "title": "Twistzz | Shanghai 2024",
+    "image": "assets/sha2024/sig_twistzz_png.png",
+    "hue": 232,
+    "rarity": 3,
+    "material": "sha2024/sig_twistzz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8254,
+    "title": "Twistzz (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_twistzz_glitter_png.png",
+    "hue": 330,
+    "rarity": 4,
+    "material": "sha2024/sig_twistzz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8255,
+    "title": "Twistzz (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_twistzz_holo_png.png",
+    "hue": 253,
+    "rarity": 5,
+    "material": "sha2024/sig_twistzz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8256,
+    "title": "Twistzz (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_twistzz_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_twistzz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8257,
+    "title": "ultimate | Shanghai 2024",
+    "image": "assets/sha2024/sig_ultimate_png.png",
+    "hue": 222,
+    "rarity": 3,
+    "material": "sha2024/sig_ultimate",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8258,
+    "title": "ultimate (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ultimate_glitter_png.png",
+    "hue": 237,
+    "rarity": 4,
+    "material": "sha2024/sig_ultimate_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8259,
+    "title": "ultimate (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ultimate_holo_png.png",
+    "hue": 240,
+    "rarity": 5,
+    "material": "sha2024/sig_ultimate_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8260,
+    "title": "ultimate (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ultimate_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_ultimate_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8261,
+    "title": "YEKINDAR | Shanghai 2024",
+    "image": "assets/sha2024/sig_yekindar_png.png",
+    "hue": 228,
+    "rarity": 3,
+    "material": "sha2024/sig_yekindar",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8262,
+    "title": "YEKINDAR (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_yekindar_glitter_png.png",
+    "hue": 260,
+    "rarity": 4,
+    "material": "sha2024/sig_yekindar_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8263,
+    "title": "YEKINDAR (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_yekindar_holo_png.png",
+    "hue": 246,
+    "rarity": 5,
+    "material": "sha2024/sig_yekindar_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8264,
+    "title": "YEKINDAR (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_yekindar_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_yekindar_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8265,
+    "title": "jks | Shanghai 2024",
+    "image": "assets/sha2024/sig_jks_png.png",
+    "hue": 222,
+    "rarity": 3,
+    "material": "sha2024/sig_jks",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8266,
+    "title": "jks (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jks_glitter_png.png",
+    "hue": 237,
+    "rarity": 4,
+    "material": "sha2024/sig_jks_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8267,
+    "title": "jks (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jks_holo_png.png",
+    "hue": 241,
+    "rarity": 5,
+    "material": "sha2024/sig_jks_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8268,
+    "title": "jks (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jks_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_jks_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8269,
+    "title": "NAF | Shanghai 2024",
+    "image": "assets/sha2024/sig_naf_png.png",
+    "hue": 229,
+    "rarity": 3,
+    "material": "sha2024/sig_naf",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8270,
+    "title": "NAF (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_naf_glitter_png.png",
+    "hue": 260,
+    "rarity": 4,
+    "material": "sha2024/sig_naf_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8271,
+    "title": "NAF (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_naf_holo_png.png",
+    "hue": 245,
+    "rarity": 5,
+    "material": "sha2024/sig_naf_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8272,
+    "title": "NAF (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_naf_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_naf_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8273,
+    "title": "EliGE | Shanghai 2024",
+    "image": "assets/sha2024/sig_elige_png.png",
+    "hue": 29,
+    "rarity": 3,
+    "material": "sha2024/sig_elige",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8274,
+    "title": "EliGE (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_elige_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_elige_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8275,
+    "title": "EliGE (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_elige_holo_png.png",
+    "hue": 150,
+    "rarity": 5,
+    "material": "sha2024/sig_elige_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8276,
+    "title": "EliGE (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_elige_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_elige_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8277,
+    "title": "floppy | Shanghai 2024",
+    "image": "assets/sha2024/sig_floppy_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_floppy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8278,
+    "title": "floppy (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_floppy_glitter_png.png",
+    "hue": 26,
+    "rarity": 4,
+    "material": "sha2024/sig_floppy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8279,
+    "title": "floppy (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_floppy_holo_png.png",
+    "hue": 34,
+    "rarity": 5,
+    "material": "sha2024/sig_floppy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8280,
+    "title": "floppy (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_floppy_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_floppy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8281,
+    "title": "Grim | Shanghai 2024",
+    "image": "assets/sha2024/sig_grim_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_grim",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8282,
+    "title": "Grim (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_grim_glitter_png.png",
+    "hue": 24,
+    "rarity": 4,
+    "material": "sha2024/sig_grim_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8283,
+    "title": "Grim (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_grim_holo_png.png",
+    "hue": 60,
+    "rarity": 5,
+    "material": "sha2024/sig_grim_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8284,
+    "title": "Grim (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_grim_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_grim_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8285,
+    "title": "hallzerk | Shanghai 2024",
+    "image": "assets/sha2024/sig_hallzerk_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_hallzerk",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8286,
+    "title": "hallzerk (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_hallzerk_glitter_png.png",
+    "hue": 26,
+    "rarity": 4,
+    "material": "sha2024/sig_hallzerk_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8287,
+    "title": "hallzerk (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_hallzerk_holo_png.png",
+    "hue": 34,
+    "rarity": 5,
+    "material": "sha2024/sig_hallzerk_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8288,
+    "title": "hallzerk (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_hallzerk_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_hallzerk_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8289,
+    "title": "JT | Shanghai 2024",
+    "image": "assets/sha2024/sig_jt_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_jt",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8290,
+    "title": "JT (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jt_glitter_png.png",
+    "hue": 30,
+    "rarity": 4,
+    "material": "sha2024/sig_jt_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8291,
+    "title": "JT (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jt_holo_png.png",
+    "hue": 180,
+    "rarity": 5,
+    "material": "sha2024/sig_jt_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8292,
+    "title": "JT (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jt_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_jt_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8293,
+    "title": "tabseN | Shanghai 2024",
+    "image": "assets/sha2024/sig_tabsen_png.png",
+    "hue": 26,
+    "rarity": 3,
+    "material": "sha2024/sig_tabsen",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8294,
+    "title": "tabseN (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_tabsen_glitter_png.png",
+    "hue": 27,
+    "rarity": 4,
+    "material": "sha2024/sig_tabsen_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8295,
+    "title": "tabseN (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_tabsen_holo_png.png",
+    "hue": 20,
+    "rarity": 5,
+    "material": "sha2024/sig_tabsen_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8296,
+    "title": "tabseN (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_tabsen_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_tabsen_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8297,
+    "title": "Krimbo | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimbo_png.png",
+    "hue": 30,
+    "rarity": 3,
+    "material": "sha2024/sig_krimbo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8298,
+    "title": "Krimbo (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimbo_glitter_png.png",
+    "hue": 26,
+    "rarity": 4,
+    "material": "sha2024/sig_krimbo_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8299,
+    "title": "Krimbo (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimbo_holo_png.png",
+    "hue": 25,
+    "rarity": 5,
+    "material": "sha2024/sig_krimbo_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8300,
+    "title": "Krimbo (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimbo_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_krimbo_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8301,
+    "title": "JDC | Shanghai 2024",
+    "image": "assets/sha2024/sig_jdc_png.png",
+    "hue": 27,
+    "rarity": 3,
+    "material": "sha2024/sig_jdc",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8302,
+    "title": "JDC (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jdc_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_jdc_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8303,
+    "title": "JDC (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jdc_holo_png.png",
+    "hue": 29,
+    "rarity": 5,
+    "material": "sha2024/sig_jdc_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8304,
+    "title": "JDC (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jdc_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_jdc_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8305,
+    "title": "syrsoN | Shanghai 2024",
+    "image": "assets/sha2024/sig_syrson_png.png",
+    "hue": 28,
+    "rarity": 3,
+    "material": "sha2024/sig_syrson",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8306,
+    "title": "syrsoN (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_syrson_glitter_png.png",
+    "hue": 27,
+    "rarity": 4,
+    "material": "sha2024/sig_syrson_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8307,
+    "title": "syrsoN (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_syrson_holo_png.png",
+    "hue": 29,
+    "rarity": 5,
+    "material": "sha2024/sig_syrson_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8308,
+    "title": "syrsoN (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_syrson_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_syrson_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8309,
+    "title": "rigoN | Shanghai 2024",
+    "image": "assets/sha2024/sig_rigon_png.png",
+    "hue": 29,
+    "rarity": 3,
+    "material": "sha2024/sig_rigon",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8310,
+    "title": "rigoN (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_rigon_glitter_png.png",
+    "hue": 28,
+    "rarity": 4,
+    "material": "sha2024/sig_rigon_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8311,
+    "title": "rigoN (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_rigon_holo_png.png",
+    "hue": 30,
+    "rarity": 5,
+    "material": "sha2024/sig_rigon_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8312,
+    "title": "rigoN (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_rigon_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_rigon_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8313,
+    "title": "KRIMZ | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimz_png.png",
+    "hue": 21,
+    "rarity": 3,
+    "material": "sha2024/sig_krimz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8314,
+    "title": "KRIMZ (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimz_glitter_png.png",
+    "hue": 24,
+    "rarity": 4,
+    "material": "sha2024/sig_krimz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8315,
+    "title": "KRIMZ (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimz_holo_png.png",
+    "hue": 29,
+    "rarity": 5,
+    "material": "sha2024/sig_krimz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8316,
+    "title": "KRIMZ (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_krimz_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_krimz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8317,
+    "title": "bodyy | Shanghai 2024",
+    "image": "assets/sha2024/sig_bodyy_png.png",
+    "hue": 24,
+    "rarity": 3,
+    "material": "sha2024/sig_bodyy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8318,
+    "title": "bodyy (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_bodyy_glitter_png.png",
+    "hue": 21,
+    "rarity": 4,
+    "material": "sha2024/sig_bodyy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8319,
+    "title": "bodyy (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_bodyy_holo_png.png",
+    "hue": 27,
+    "rarity": 5,
+    "material": "sha2024/sig_bodyy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8320,
+    "title": "bodyy (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_bodyy_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_bodyy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8321,
+    "title": "MATYS | Shanghai 2024",
+    "image": "assets/sha2024/sig_matys_png.png",
+    "hue": 20,
+    "rarity": 3,
+    "material": "sha2024/sig_matys",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8322,
+    "title": "MATYS (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_matys_glitter_png.png",
+    "hue": 23,
+    "rarity": 4,
+    "material": "sha2024/sig_matys_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8323,
+    "title": "MATYS (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_matys_holo_png.png",
+    "hue": 28,
+    "rarity": 5,
+    "material": "sha2024/sig_matys_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8324,
+    "title": "MATYS (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_matys_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_matys_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8325,
+    "title": "blameF | Shanghai 2024",
+    "image": "assets/sha2024/sig_blamef_png.png",
+    "hue": 21,
+    "rarity": 3,
+    "material": "sha2024/sig_blamef",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8326,
+    "title": "blameF (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_blamef_glitter_png.png",
+    "hue": 24,
+    "rarity": 4,
+    "material": "sha2024/sig_blamef_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8327,
+    "title": "blameF (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_blamef_holo_png.png",
+    "hue": 29,
+    "rarity": 5,
+    "material": "sha2024/sig_blamef_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8328,
+    "title": "blameF (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_blamef_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_blamef_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8329,
+    "title": "afro | Shanghai 2024",
+    "image": "assets/sha2024/sig_afro_png.png",
+    "hue": 20,
+    "rarity": 3,
+    "material": "sha2024/sig_afro",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8330,
+    "title": "afro (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_afro_glitter_png.png",
+    "hue": 24,
+    "rarity": 4,
+    "material": "sha2024/sig_afro_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8331,
+    "title": "afro (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_afro_holo_png.png",
+    "hue": 28,
+    "rarity": 5,
+    "material": "sha2024/sig_afro_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8332,
+    "title": "afro (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_afro_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_afro_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8333,
+    "title": "bLitz | Shanghai 2024",
+    "image": "assets/sha2024/sig_blitz_png.png",
+    "hue": 38,
+    "rarity": 3,
+    "material": "sha2024/sig_blitz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8334,
+    "title": "bLitz (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_blitz_glitter_png.png",
+    "hue": 36,
+    "rarity": 4,
+    "material": "sha2024/sig_blitz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8335,
+    "title": "bLitz (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_blitz_holo_png.png",
+    "hue": 43,
+    "rarity": 5,
+    "material": "sha2024/sig_blitz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8336,
+    "title": "bLitz (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_blitz_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_blitz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8337,
+    "title": "910 | Shanghai 2024",
+    "image": "assets/sha2024/sig_910_png.png",
+    "hue": 39,
+    "rarity": 3,
+    "material": "sha2024/sig_910",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8338,
+    "title": "910 (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_910_glitter_png.png",
+    "hue": 37,
+    "rarity": 4,
+    "material": "sha2024/sig_910_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8339,
+    "title": "910 (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_910_holo_png.png",
+    "hue": 42,
+    "rarity": 5,
+    "material": "sha2024/sig_910_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8340,
+    "title": "910 (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_910_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_910_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8341,
+    "title": "Techno4K | Shanghai 2024",
+    "image": "assets/sha2024/sig_techno4k_png.png",
+    "hue": 38,
+    "rarity": 3,
+    "material": "sha2024/sig_techno4k",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8342,
+    "title": "Techno4K (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_techno4k_glitter_png.png",
+    "hue": 36,
+    "rarity": 4,
+    "material": "sha2024/sig_techno4k_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8343,
+    "title": "Techno4K (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_techno4k_holo_png.png",
+    "hue": 42,
+    "rarity": 5,
+    "material": "sha2024/sig_techno4k_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8344,
+    "title": "Techno4K (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_techno4k_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_techno4k_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8345,
+    "title": "Senzu | Shanghai 2024",
+    "image": "assets/sha2024/sig_senzu_png.png",
+    "hue": 38,
+    "rarity": 3,
+    "material": "sha2024/sig_senzu",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8346,
+    "title": "Senzu (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_senzu_glitter_png.png",
+    "hue": 35,
+    "rarity": 4,
+    "material": "sha2024/sig_senzu_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8347,
+    "title": "Senzu (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_senzu_holo_png.png",
+    "hue": 41,
+    "rarity": 5,
+    "material": "sha2024/sig_senzu_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8348,
+    "title": "Senzu (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_senzu_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_senzu_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8349,
+    "title": "mzinho | Shanghai 2024",
+    "image": "assets/sha2024/sig_mzinho_png.png",
+    "hue": 38,
+    "rarity": 3,
+    "material": "sha2024/sig_mzinho",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8350,
+    "title": "mzinho (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_mzinho_glitter_png.png",
+    "hue": 35,
+    "rarity": 4,
+    "material": "sha2024/sig_mzinho_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8351,
+    "title": "mzinho (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_mzinho_holo_png.png",
+    "hue": 42,
+    "rarity": 5,
+    "material": "sha2024/sig_mzinho_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8352,
+    "title": "mzinho (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_mzinho_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_mzinho_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8353,
+    "title": "biguzera | Shanghai 2024",
+    "image": "assets/sha2024/sig_biguzera_png.png",
+    "hue": 12,
+    "rarity": 3,
+    "material": "sha2024/sig_biguzera",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8354,
+    "title": "biguzera (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_biguzera_glitter_png.png",
+    "hue": 17,
+    "rarity": 4,
+    "material": "sha2024/sig_biguzera_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8355,
+    "title": "biguzera (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_biguzera_holo_png.png",
+    "hue": 11,
+    "rarity": 5,
+    "material": "sha2024/sig_biguzera_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8356,
+    "title": "biguzera (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_biguzera_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_biguzera_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8357,
+    "title": "lux | Shanghai 2024",
+    "image": "assets/sha2024/sig_lux_png.png",
+    "hue": 16,
+    "rarity": 3,
+    "material": "sha2024/sig_lux",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8358,
+    "title": "lux (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lux_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_lux_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8359,
+    "title": "lux (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lux_holo_png.png",
+    "hue": 9,
+    "rarity": 5,
+    "material": "sha2024/sig_lux_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8360,
+    "title": "lux (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lux_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_lux_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8361,
+    "title": "kauez | Shanghai 2024",
+    "image": "assets/sha2024/sig_kauez_png.png",
+    "hue": 15,
+    "rarity": 3,
+    "material": "sha2024/sig_kauez",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8362,
+    "title": "kauez (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kauez_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_kauez_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8363,
+    "title": "kauez (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kauez_holo_png.png",
+    "hue": 8,
+    "rarity": 5,
+    "material": "sha2024/sig_kauez_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8364,
+    "title": "kauez (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kauez_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_kauez_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8365,
+    "title": "NQZ | Shanghai 2024",
+    "image": "assets/sha2024/sig_nqz_png.png",
+    "hue": 15,
+    "rarity": 3,
+    "material": "sha2024/sig_nqz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8366,
+    "title": "NQZ (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_nqz_glitter_png.png",
+    "hue": 14,
+    "rarity": 4,
+    "material": "sha2024/sig_nqz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8367,
+    "title": "NQZ (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_nqz_holo_png.png",
+    "hue": 6,
+    "rarity": 5,
+    "material": "sha2024/sig_nqz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8368,
+    "title": "NQZ (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_nqz_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_nqz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8369,
+    "title": "snow | Shanghai 2024",
+    "image": "assets/sha2024/sig_snow_png.png",
+    "hue": 12,
+    "rarity": 3,
+    "material": "sha2024/sig_snow",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8370,
+    "title": "snow (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_snow_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_snow_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8371,
+    "title": "snow (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_snow_holo_png.png",
+    "hue": 11,
+    "rarity": 5,
+    "material": "sha2024/sig_snow_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8372,
+    "title": "snow (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_snow_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_snow_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8373,
+    "title": "ztr | Shanghai 2024",
+    "image": "assets/sha2024/sig_ztr_png.png",
+    "hue": 213,
+    "rarity": 3,
+    "material": "sha2024/sig_ztr",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8374,
+    "title": "ztr (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ztr_glitter_png.png",
+    "hue": 15,
+    "rarity": 4,
+    "material": "sha2024/sig_ztr_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8375,
+    "title": "ztr (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ztr_holo_png.png",
+    "hue": 249,
+    "rarity": 5,
+    "material": "sha2024/sig_ztr_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8376,
+    "title": "ztr (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ztr_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_ztr_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8377,
+    "title": "sl3nd | Shanghai 2024",
+    "image": "assets/sha2024/sig_sl3nd_png.png",
+    "hue": 209,
+    "rarity": 3,
+    "material": "sha2024/sig_sl3nd",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8378,
+    "title": "sl3nd (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sl3nd_glitter_png.png",
+    "hue": 225,
+    "rarity": 4,
+    "material": "sha2024/sig_sl3nd_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8379,
+    "title": "sl3nd (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sl3nd_holo_png.png",
+    "hue": 233,
+    "rarity": 5,
+    "material": "sha2024/sig_sl3nd_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8380,
+    "title": "sl3nd (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sl3nd_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_sl3nd_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8381,
+    "title": "Volt | Shanghai 2024",
+    "image": "assets/sha2024/sig_volt_png.png",
+    "hue": 210,
+    "rarity": 3,
+    "material": "sha2024/sig_volt",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8382,
+    "title": "Volt (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_volt_glitter_png.png",
+    "hue": 216,
+    "rarity": 4,
+    "material": "sha2024/sig_volt_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8383,
+    "title": "Volt (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_volt_holo_png.png",
+    "hue": 233,
+    "rarity": 5,
+    "material": "sha2024/sig_volt_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8384,
+    "title": "Volt (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_volt_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_volt_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8385,
+    "title": "FL4MUS | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl4mus_png.png",
+    "hue": 210,
+    "rarity": 3,
+    "material": "sha2024/sig_fl4mus",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8386,
+    "title": "FL4MUS (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl4mus_glitter_png.png",
+    "hue": 227,
+    "rarity": 4,
+    "material": "sha2024/sig_fl4mus_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8387,
+    "title": "FL4MUS (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl4mus_holo_png.png",
+    "hue": 231,
+    "rarity": 5,
+    "material": "sha2024/sig_fl4mus_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8388,
+    "title": "FL4MUS (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fl4mus_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_fl4mus_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8389,
+    "title": "aNdu | Shanghai 2024",
+    "image": "assets/sha2024/sig_andu_png.png",
+    "hue": 200,
+    "rarity": 3,
+    "material": "sha2024/sig_andu",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8390,
+    "title": "aNdu (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_andu_glitter_png.png",
+    "hue": 211,
+    "rarity": 4,
+    "material": "sha2024/sig_andu_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8391,
+    "title": "aNdu (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_andu_holo_png.png",
+    "hue": 227,
+    "rarity": 5,
+    "material": "sha2024/sig_andu_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8392,
+    "title": "aNdu (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_andu_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_andu_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8393,
+    "title": "drop | Shanghai 2024",
+    "image": "assets/sha2024/sig_drop_png.png",
+    "hue": 240,
+    "rarity": 3,
+    "material": "sha2024/sig_drop",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8394,
+    "title": "drop (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_drop_glitter_png.png",
+    "hue": 19,
+    "rarity": 4,
+    "material": "sha2024/sig_drop_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8395,
+    "title": "drop (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_drop_holo_png.png",
+    "hue": 258,
+    "rarity": 5,
+    "material": "sha2024/sig_drop_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8396,
+    "title": "drop (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_drop_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_drop_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8397,
+    "title": "saffee | Shanghai 2024",
+    "image": "assets/sha2024/sig_saffee_png.png",
+    "hue": 240,
+    "rarity": 3,
+    "material": "sha2024/sig_saffee",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8398,
+    "title": "saffee (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_saffee_glitter_png.png",
+    "hue": 21,
+    "rarity": 4,
+    "material": "sha2024/sig_saffee_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8399,
+    "title": "saffee (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_saffee_holo_png.png",
+    "hue": 266,
+    "rarity": 5,
+    "material": "sha2024/sig_saffee_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8400,
+    "title": "saffee (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_saffee_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_saffee_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8401,
+    "title": "insani | Shanghai 2024",
+    "image": "assets/sha2024/sig_insani_png.png",
+    "hue": 212,
+    "rarity": 3,
+    "material": "sha2024/sig_insani",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8402,
+    "title": "insani (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_insani_glitter_png.png",
+    "hue": 0,
+    "rarity": 4,
+    "material": "sha2024/sig_insani_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8403,
+    "title": "insani (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_insani_holo_png.png",
+    "hue": 243,
+    "rarity": 5,
+    "material": "sha2024/sig_insani_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8404,
+    "title": "insani (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_insani_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_insani_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8405,
+    "title": "Lucaozy | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucaozy_png.png",
+    "hue": 204,
+    "rarity": 3,
+    "material": "sha2024/sig_lucaozy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8406,
+    "title": "Lucaozy (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucaozy_glitter_png.png",
+    "hue": 0,
+    "rarity": 4,
+    "material": "sha2024/sig_lucaozy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8407,
+    "title": "Lucaozy (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucaozy_holo_png.png",
+    "hue": 240,
+    "rarity": 5,
+    "material": "sha2024/sig_lucaozy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8408,
+    "title": "Lucaozy (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_lucaozy_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_lucaozy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8409,
+    "title": "exit | Shanghai 2024",
+    "image": "assets/sha2024/sig_exit_png.png",
+    "hue": 270,
+    "rarity": 3,
+    "material": "sha2024/sig_exit",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8410,
+    "title": "exit (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_exit_glitter_png.png",
+    "hue": 20,
+    "rarity": 4,
+    "material": "sha2024/sig_exit_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8411,
+    "title": "exit (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_exit_holo_png.png",
+    "hue": 290,
+    "rarity": 5,
+    "material": "sha2024/sig_exit_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8412,
+    "title": "exit (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_exit_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_exit_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8413,
+    "title": "Boombl4 | Shanghai 2024",
+    "image": "assets/sha2024/sig_boombl4_png.png",
+    "hue": 207,
+    "rarity": 3,
+    "material": "sha2024/sig_boombl4",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8414,
+    "title": "Boombl4 (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_boombl4_glitter_png.png",
+    "hue": 191,
+    "rarity": 4,
+    "material": "sha2024/sig_boombl4_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8415,
+    "title": "Boombl4 (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_boombl4_holo_png.png",
+    "hue": 230,
+    "rarity": 5,
+    "material": "sha2024/sig_boombl4_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8416,
+    "title": "Boombl4 (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_boombl4_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_boombl4_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8417,
+    "title": "Ax1Le | Shanghai 2024",
+    "image": "assets/sha2024/sig_ax1le_png.png",
+    "hue": 204,
+    "rarity": 3,
+    "material": "sha2024/sig_ax1le",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8418,
+    "title": "Ax1Le (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ax1le_glitter_png.png",
+    "hue": 200,
+    "rarity": 4,
+    "material": "sha2024/sig_ax1le_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8419,
+    "title": "Ax1Le (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ax1le_holo_png.png",
+    "hue": 222,
+    "rarity": 5,
+    "material": "sha2024/sig_ax1le_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8420,
+    "title": "Ax1Le (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ax1le_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_ax1le_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8421,
+    "title": "Heavygod | Shanghai 2024",
+    "image": "assets/sha2024/sig_heavygod_png.png",
+    "hue": 207,
+    "rarity": 3,
+    "material": "sha2024/sig_heavygod",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8422,
+    "title": "Heavygod (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_heavygod_glitter_png.png",
+    "hue": 195,
+    "rarity": 4,
+    "material": "sha2024/sig_heavygod_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8423,
+    "title": "Heavygod (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_heavygod_holo_png.png",
+    "hue": 229,
+    "rarity": 5,
+    "material": "sha2024/sig_heavygod_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8424,
+    "title": "Heavygod (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_heavygod_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_heavygod_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8425,
+    "title": "ICY | Shanghai 2024",
+    "image": "assets/sha2024/sig_icy_png.png",
+    "hue": 203,
+    "rarity": 3,
+    "material": "sha2024/sig_icy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8426,
+    "title": "ICY (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_icy_glitter_png.png",
+    "hue": 199,
+    "rarity": 4,
+    "material": "sha2024/sig_icy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8427,
+    "title": "ICY (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_icy_holo_png.png",
+    "hue": 219,
+    "rarity": 5,
+    "material": "sha2024/sig_icy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8428,
+    "title": "ICY (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_icy_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_icy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8429,
+    "title": "Perfecto | Shanghai 2024",
+    "image": "assets/sha2024/sig_perfecto_png.png",
+    "hue": 205,
+    "rarity": 3,
+    "material": "sha2024/sig_perfecto",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8430,
+    "title": "Perfecto (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_perfecto_glitter_png.png",
+    "hue": 194,
+    "rarity": 4,
+    "material": "sha2024/sig_perfecto_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8431,
+    "title": "Perfecto (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_perfecto_holo_png.png",
+    "hue": 230,
+    "rarity": 5,
+    "material": "sha2024/sig_perfecto_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8432,
+    "title": "Perfecto (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_perfecto_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_perfecto_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8433,
+    "title": "dexter | Shanghai 2024",
+    "image": "assets/sha2024/sig_dexter_png.png",
+    "hue": 122,
+    "rarity": 3,
+    "material": "sha2024/sig_dexter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8434,
+    "title": "dexter (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_dexter_glitter_png.png",
+    "hue": 94,
+    "rarity": 4,
+    "material": "sha2024/sig_dexter_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8435,
+    "title": "dexter (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_dexter_holo_png.png",
+    "hue": 120,
+    "rarity": 5,
+    "material": "sha2024/sig_dexter_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8436,
+    "title": "dexter (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_dexter_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_dexter_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8437,
+    "title": "Liazz | Shanghai 2024",
+    "image": "assets/sha2024/sig_liazz_png.png",
+    "hue": 131,
+    "rarity": 3,
+    "material": "sha2024/sig_liazz",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8438,
+    "title": "Liazz (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_liazz_glitter_png.png",
+    "hue": 114,
+    "rarity": 4,
+    "material": "sha2024/sig_liazz_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8439,
+    "title": "Liazz (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_liazz_holo_png.png",
+    "hue": 138,
+    "rarity": 5,
+    "material": "sha2024/sig_liazz_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8440,
+    "title": "Liazz (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_liazz_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_liazz_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8441,
+    "title": "aliStair | Shanghai 2024",
+    "image": "assets/sha2024/sig_alistair_png.png",
+    "hue": 126,
+    "rarity": 3,
+    "material": "sha2024/sig_alistair",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8442,
+    "title": "aliStair (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_alistair_glitter_png.png",
+    "hue": 102,
+    "rarity": 4,
+    "material": "sha2024/sig_alistair_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8443,
+    "title": "aliStair (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_alistair_holo_png.png",
+    "hue": 130,
+    "rarity": 5,
+    "material": "sha2024/sig_alistair_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8444,
+    "title": "aliStair (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_alistair_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_alistair_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8445,
+    "title": "INS | Shanghai 2024",
+    "image": "assets/sha2024/sig_ins_png.png",
+    "hue": 132,
+    "rarity": 3,
+    "material": "sha2024/sig_ins",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8446,
+    "title": "INS (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ins_glitter_png.png",
+    "hue": 116,
+    "rarity": 4,
+    "material": "sha2024/sig_ins_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8447,
+    "title": "INS (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ins_holo_png.png",
+    "hue": 142,
+    "rarity": 5,
+    "material": "sha2024/sig_ins_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8448,
+    "title": "INS (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_ins_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_ins_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8449,
+    "title": "vexite | Shanghai 2024",
+    "image": "assets/sha2024/sig_vexite_png.png",
+    "hue": 126,
+    "rarity": 3,
+    "material": "sha2024/sig_vexite",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8450,
+    "title": "vexite (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_vexite_glitter_png.png",
+    "hue": 107,
+    "rarity": 4,
+    "material": "sha2024/sig_vexite_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8451,
+    "title": "vexite (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_vexite_holo_png.png",
+    "hue": 133,
+    "rarity": 5,
+    "material": "sha2024/sig_vexite_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8452,
+    "title": "vexite (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_vexite_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_vexite_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8453,
+    "title": "fEAR | Shanghai 2024",
+    "image": "assets/sha2024/sig_fear_png.png",
+    "hue": 49,
+    "rarity": 3,
+    "material": "sha2024/sig_fear",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8454,
+    "title": "fEAR (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fear_glitter_png.png",
+    "hue": 45,
+    "rarity": 4,
+    "material": "sha2024/sig_fear_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8455,
+    "title": "fEAR (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fear_holo_png.png",
+    "hue": 51,
+    "rarity": 5,
+    "material": "sha2024/sig_fear_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8456,
+    "title": "fEAR (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_fear_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_fear_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8457,
+    "title": "jambo | Shanghai 2024",
+    "image": "assets/sha2024/sig_jambo_png.png",
+    "hue": 47,
+    "rarity": 3,
+    "material": "sha2024/sig_jambo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8458,
+    "title": "jambo (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jambo_glitter_png.png",
+    "hue": 43,
+    "rarity": 4,
+    "material": "sha2024/sig_jambo_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8459,
+    "title": "jambo (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jambo_holo_png.png",
+    "hue": 46,
+    "rarity": 5,
+    "material": "sha2024/sig_jambo_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8460,
+    "title": "jambo (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jambo_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_jambo_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8461,
+    "title": "jackasmo | Shanghai 2024",
+    "image": "assets/sha2024/sig_jackasmo_png.png",
+    "hue": 48,
+    "rarity": 3,
+    "material": "sha2024/sig_jackasmo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8462,
+    "title": "jackasmo (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jackasmo_glitter_png.png",
+    "hue": 44,
+    "rarity": 4,
+    "material": "sha2024/sig_jackasmo_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8463,
+    "title": "jackasmo (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jackasmo_holo_png.png",
+    "hue": 48,
+    "rarity": 5,
+    "material": "sha2024/sig_jackasmo_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8464,
+    "title": "jackasmo (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jackasmo_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_jackasmo_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8465,
+    "title": "s-chilla | Shanghai 2024",
+    "image": "assets/sha2024/sig_schilla_png.png",
+    "hue": 46,
+    "rarity": 3,
+    "material": "sha2024/sig_schilla",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8466,
+    "title": "s-chilla (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_schilla_glitter_png.png",
+    "hue": 41,
+    "rarity": 4,
+    "material": "sha2024/sig_schilla_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8467,
+    "title": "s-chilla (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_schilla_holo_png.png",
+    "hue": 42,
+    "rarity": 5,
+    "material": "sha2024/sig_schilla_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8468,
+    "title": "s-chilla (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_schilla_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_schilla_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8469,
+    "title": "zeRRoFIX | Shanghai 2024",
+    "image": "assets/sha2024/sig_zerrofix_png.png",
+    "hue": 45,
+    "rarity": 3,
+    "material": "sha2024/sig_zerrofix",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8470,
+    "title": "zeRRoFIX (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zerrofix_glitter_png.png",
+    "hue": 38,
+    "rarity": 4,
+    "material": "sha2024/sig_zerrofix_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8471,
+    "title": "zeRRoFIX (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zerrofix_holo_png.png",
+    "hue": 40,
+    "rarity": 5,
+    "material": "sha2024/sig_zerrofix_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8472,
+    "title": "zeRRoFIX (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_zerrofix_gold_png.png",
+    "hue": 43,
+    "rarity": 6,
+    "material": "sha2024/sig_zerrofix_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8473,
+    "title": "stanislaw | Shanghai 2024",
+    "image": "assets/sha2024/sig_stanislaw_png.png",
+    "hue": 220,
+    "rarity": 3,
+    "material": "sha2024/sig_stanislaw",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8474,
+    "title": "stanislaw (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_stanislaw_glitter_png.png",
+    "hue": 17,
+    "rarity": 4,
+    "material": "sha2024/sig_stanislaw_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8475,
+    "title": "stanislaw (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_stanislaw_holo_png.png",
+    "hue": 330,
+    "rarity": 5,
+    "material": "sha2024/sig_stanislaw_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8476,
+    "title": "stanislaw (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_stanislaw_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_stanislaw_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8477,
+    "title": "Sonic | Shanghai 2024",
+    "image": "assets/sha2024/sig_sonic_png.png",
+    "hue": 228,
+    "rarity": 3,
+    "material": "sha2024/sig_sonic",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8478,
+    "title": "Sonic (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sonic_glitter_png.png",
+    "hue": 20,
+    "rarity": 4,
+    "material": "sha2024/sig_sonic_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8479,
+    "title": "Sonic (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sonic_holo_png.png",
+    "hue": 12,
+    "rarity": 5,
+    "material": "sha2024/sig_sonic_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8480,
+    "title": "Sonic (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_sonic_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_sonic_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8481,
+    "title": "JBa | Shanghai 2024",
+    "image": "assets/sha2024/sig_jba_png.png",
+    "hue": 210,
+    "rarity": 3,
+    "material": "sha2024/sig_jba",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8482,
+    "title": "JBa (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jba_glitter_png.png",
+    "hue": 210,
+    "rarity": 4,
+    "material": "sha2024/sig_jba_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8483,
+    "title": "JBa (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jba_holo_png.png",
+    "hue": 246,
+    "rarity": 5,
+    "material": "sha2024/sig_jba_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8484,
+    "title": "JBa (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_jba_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_jba_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8485,
+    "title": "phzy | Shanghai 2024",
+    "image": "assets/sha2024/sig_phzy_png.png",
+    "hue": 205,
+    "rarity": 3,
+    "material": "sha2024/sig_phzy",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8486,
+    "title": "phzy (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_phzy_glitter_png.png",
+    "hue": 203,
+    "rarity": 4,
+    "material": "sha2024/sig_phzy_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8487,
+    "title": "phzy (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_phzy_holo_png.png",
+    "hue": 223,
+    "rarity": 5,
+    "material": "sha2024/sig_phzy_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8488,
+    "title": "phzy (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_phzy_gold_png.png",
+    "hue": 48,
+    "rarity": 6,
+    "material": "sha2024/sig_phzy_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8489,
+    "title": "susp | Shanghai 2024",
+    "image": "assets/sha2024/sig_susp_png.png",
+    "hue": 212,
+    "rarity": 3,
+    "material": "sha2024/sig_susp",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8490,
+    "title": "susp (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_susp_glitter_png.png",
+    "hue": 200,
+    "rarity": 4,
+    "material": "sha2024/sig_susp_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8491,
+    "title": "susp (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_susp_holo_png.png",
+    "hue": 228,
+    "rarity": 5,
+    "material": "sha2024/sig_susp_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8492,
+    "title": "susp (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_susp_gold_png.png",
+    "hue": 44,
+    "rarity": 6,
+    "material": "sha2024/sig_susp_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8493,
+    "title": "Summer | Shanghai 2024",
+    "image": "assets/sha2024/sig_summer_png.png",
+    "hue": 300,
+    "rarity": 3,
+    "material": "sha2024/sig_summer",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8494,
+    "title": "Summer (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_summer_glitter_png.png",
+    "hue": 324,
+    "rarity": 4,
+    "material": "sha2024/sig_summer_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8495,
+    "title": "Summer (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_summer_holo_png.png",
+    "hue": 315,
+    "rarity": 5,
+    "material": "sha2024/sig_summer_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8496,
+    "title": "Summer (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_summer_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_summer_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8497,
+    "title": "ChildKing | Shanghai 2024",
+    "image": "assets/sha2024/sig_childking_png.png",
+    "hue": 297,
+    "rarity": 3,
+    "material": "sha2024/sig_childking",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8498,
+    "title": "ChildKing (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_childking_glitter_png.png",
+    "hue": 315,
+    "rarity": 4,
+    "material": "sha2024/sig_childking_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8499,
+    "title": "ChildKing (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_childking_holo_png.png",
+    "hue": 312,
+    "rarity": 5,
+    "material": "sha2024/sig_childking_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8500,
+    "title": "ChildKing (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_childking_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_childking_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8501,
+    "title": "somebody | Shanghai 2024",
+    "image": "assets/sha2024/sig_somebody_png.png",
+    "hue": 302,
+    "rarity": 3,
+    "material": "sha2024/sig_somebody",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8502,
+    "title": "somebody (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_somebody_glitter_png.png",
+    "hue": 326,
+    "rarity": 4,
+    "material": "sha2024/sig_somebody_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8503,
+    "title": "somebody (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_somebody_holo_png.png",
+    "hue": 312,
+    "rarity": 5,
+    "material": "sha2024/sig_somebody_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8504,
+    "title": "somebody (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_somebody_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_somebody_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8505,
+    "title": "L1haNg | Shanghai 2024",
+    "image": "assets/sha2024/sig_l1hang_png.png",
+    "hue": 305,
+    "rarity": 3,
+    "material": "sha2024/sig_l1hang",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8506,
+    "title": "L1haNg (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_l1hang_glitter_png.png",
+    "hue": 320,
+    "rarity": 4,
+    "material": "sha2024/sig_l1hang_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8507,
+    "title": "L1haNg (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_l1hang_holo_png.png",
+    "hue": 313,
+    "rarity": 5,
+    "material": "sha2024/sig_l1hang_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8508,
+    "title": "L1haNg (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_l1hang_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_l1hang_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8509,
+    "title": "Kaze | Shanghai 2024",
+    "image": "assets/sha2024/sig_kaze_png.png",
+    "hue": 308,
+    "rarity": 3,
+    "material": "sha2024/sig_kaze",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8510,
+    "title": "Kaze (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kaze_glitter_png.png",
+    "hue": 327,
+    "rarity": 4,
+    "material": "sha2024/sig_kaze_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8511,
+    "title": "Kaze (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kaze_holo_png.png",
+    "hue": 315,
+    "rarity": 5,
+    "material": "sha2024/sig_kaze_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8512,
+    "title": "Kaze (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_kaze_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_kaze_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8513,
+    "title": "VINI | Shanghai 2024",
+    "image": "assets/sha2024/sig_vini_png.png",
+    "hue": 118,
+    "rarity": 3,
+    "material": "sha2024/sig_vini",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8514,
+    "title": "VINI (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_vini_glitter_png.png",
+    "hue": 107,
+    "rarity": 4,
+    "material": "sha2024/sig_vini_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8515,
+    "title": "VINI (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_vini_holo_png.png",
+    "hue": 126,
+    "rarity": 5,
+    "material": "sha2024/sig_vini_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8516,
+    "title": "VINI (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_vini_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_vini_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8517,
+    "title": "felps | Shanghai 2024",
+    "image": "assets/sha2024/sig_felps_png.png",
+    "hue": 121,
+    "rarity": 3,
+    "material": "sha2024/sig_felps",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8518,
+    "title": "felps (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_felps_glitter_png.png",
+    "hue": 103,
+    "rarity": 4,
+    "material": "sha2024/sig_felps_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8519,
+    "title": "felps (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_felps_holo_png.png",
+    "hue": 115,
+    "rarity": 5,
+    "material": "sha2024/sig_felps_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8520,
+    "title": "felps (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_felps_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_felps_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8521,
+    "title": "TRY | Shanghai 2024",
+    "image": "assets/sha2024/sig_try_png.png",
+    "hue": 121,
+    "rarity": 3,
+    "material": "sha2024/sig_try",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8522,
+    "title": "TRY (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_try_glitter_png.png",
+    "hue": 109,
+    "rarity": 4,
+    "material": "sha2024/sig_try_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8523,
+    "title": "TRY (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_try_holo_png.png",
+    "hue": 127,
+    "rarity": 5,
+    "material": "sha2024/sig_try_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8524,
+    "title": "TRY (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_try_gold_png.png",
+    "hue": 47,
+    "rarity": 6,
+    "material": "sha2024/sig_try_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8525,
+    "title": "decenty | Shanghai 2024",
+    "image": "assets/sha2024/sig_decenty_png.png",
+    "hue": 117,
+    "rarity": 3,
+    "material": "sha2024/sig_decenty",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8526,
+    "title": "decenty (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_decenty_glitter_png.png",
+    "hue": 98,
+    "rarity": 4,
+    "material": "sha2024/sig_decenty_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8527,
+    "title": "decenty (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_decenty_holo_png.png",
+    "hue": 112,
+    "rarity": 5,
+    "material": "sha2024/sig_decenty_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8528,
+    "title": "decenty (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_decenty_gold_png.png",
+    "hue": 45,
+    "rarity": 6,
+    "material": "sha2024/sig_decenty_gold",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8529,
+    "title": "noway | Shanghai 2024",
+    "image": "assets/sha2024/sig_noway_png.png",
+    "hue": 120,
+    "rarity": 3,
+    "material": "sha2024/sig_noway",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8530,
+    "title": "noway (Glitter) | Shanghai 2024",
+    "image": "assets/sha2024/sig_noway_glitter_png.png",
+    "hue": 106,
+    "rarity": 4,
+    "material": "sha2024/sig_noway_glitter",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8531,
+    "title": "noway (Holo) | Shanghai 2024",
+    "image": "assets/sha2024/sig_noway_holo_png.png",
+    "hue": 125,
+    "rarity": 5,
+    "material": "sha2024/sig_noway_holo",
+    "isSignature": true,
+    "isPaper": true
+  },
+  {
+    "id": 8532,
+    "title": "noway (Gold) | Shanghai 2024",
+    "image": "assets/sha2024/sig_noway_gold_png.png",
+    "hue": 46,
+    "rarity": 6,
+    "material": "sha2024/sig_noway_gold",
+    "isSignature": true,
+    "isPaper": true
   }
 ]

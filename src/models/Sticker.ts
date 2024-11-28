@@ -5,4 +5,5 @@ export type Sticker = {
   isPaper: boolean;
   isSignature: boolean;
   hue: number;
+  wear: number;
 };

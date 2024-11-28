@@ -137,7 +137,7 @@ export class SkinComponent implements OnInit {
   }
 
   selectSticker(sticker: Sticker) {
-    this.selectedStickers[this.currentStickerPlace] = sticker;
+    this.selectedStickers[this.currentStickerPlace] = { ...sticker, wear: 0 };
     this.closePopup();
   }
 
@@ -157,18 +157,6 @@ export class SkinComponent implements OnInit {
 
   copyCode(element: HTMLInputElement) {
     navigator.clipboard.writeText(element.value);
-  }
-
-  setCustomSticker(event: any, place: number) {
-    console.log(event);
-    this.selectedStickers[place] = {
-      id: parseInt(event.target.value),
-      title: '',
-      image: '',
-      isPaper: false,
-      isSignature: false,
-      hue: 0,
-    };
   }
 
   parseInspectStickers() {
