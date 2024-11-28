@@ -1,0 +1,167 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Lil' Ava",
+    "image": "keychains/missinglink/kc_missinglink_ava"
+  },
+  "2": {
+    "id": 2,
+    "name": "That's Bananas",
+    "image": "keychains/missinglink/kc_missinglink_banana"
+  },
+  "3": {
+    "id": 3,
+    "name": "Lil' Whiskers",
+    "image": "keychains/missinglink/kc_missinglink_cat"
+  },
+  "4": {
+    "id": 4,
+    "name": "Lil' Sandy",
+    "image": "keychains/missinglink/kc_missinglink_catbeach"
+  },
+  "5": {
+    "id": 5,
+    "name": "Chicken Lil'",
+    "image": "keychains/missinglink/kc_missinglink_chicken"
+  },
+  "6": {
+    "id": 6,
+    "name": "Lil' Crass",
+    "image": "keychains/missinglink/kc_missinglink_guerilla"
+  },
+  "7": {
+    "id": 7,
+    "name": "Hot Howl",
+    "image": "keychains/missinglink/kc_missinglink_howl"
+  },
+  "8": {
+    "id": 8,
+    "name": "Big Kev",
+    "image": "keychains/missinglink/kc_missinglink_kev"
+  },
+  "9": {
+    "id": 9,
+    "name": "Lil' Monster",
+    "image": "keychains/missinglink/kc_missinglink_monster"
+  },
+  "10": {
+    "id": 10,
+    "name": "Hot Sauce",
+    "image": "keychains/missinglink/kc_missinglink_sam_catchup"
+  },
+  "11": {
+    "id": 11,
+    "name": "Diamond Dog",
+    "image": "keychains/missinglink/kc_missinglink_sam_diamond"
+  },
+  "12": {
+    "id": 12,
+    "name": "Pinch O' Salt",
+    "image": "keychains/missinglink/kc_missinglink_sam_salty"
+  },
+  "13": {
+    "id": 13,
+    "name": "Diner Dog",
+    "image": "keychains/missinglink/kc_missinglink_sam_shape"
+  },
+  "14": {
+    "id": 14,
+    "name": "Lil' Teacup",
+    "image": "keychains/missinglink/kc_missinglink_sam_toile"
+  },
+  "15": {
+    "id": 15,
+    "name": "Lil' SAS",
+    "image": "keychains/missinglink/kc_missinglink_sas"
+  },
+  "16": {
+    "id": 16,
+    "name": "Hot Wurst",
+    "image": "keychains/missinglink/kc_missinglink_wurst"
+  },
+  "17": {
+    "id": 17,
+    "name": "Baby's AK",
+    "image": "keychains/weapon_1/kc_wpn_ak_base"
+  },
+  "18": {
+    "id": 18,
+    "name": "Die-cast AK",
+    "image": "keychains/weapon_1/kc_wpn_ak_jelly"
+  },
+  "19": {
+    "id": 19,
+    "name": "Pocket AWP",
+    "image": "keychains/weapon_1/kc_wpn_awp_plastic"
+  },
+  "20": {
+    "id": 20,
+    "name": "Titeenium AWP",
+    "image": "keychains/weapon_1/kc_wpn_awp_spoon"
+  },
+  "21": {
+    "id": 21,
+    "name": "Baby Karat CT",
+    "image": "keychains/weapon_1/kc_wpn_ctknife_gold"
+  },
+  "22": {
+    "id": 22,
+    "name": "Whittle Knife",
+    "image": "keychains/weapon_1/kc_wpn_ctknife_wood"
+  },
+  "23": {
+    "id": 23,
+    "name": "POP Art",
+    "image": "keychains/weapon_1/kc_wpn_m4a1s_comic"
+  },
+  "24": {
+    "id": 24,
+    "name": "Lil' Squirt",
+    "image": "keychains/weapon_1/kc_wpn_m4a1s_ss"
+  },
+  "25": {
+    "id": 25,
+    "name": "Disco MAC",
+    "image": "keychains/weapon_1/kc_wpn_mac10_glitter"
+  },
+  "26": {
+    "id": 26,
+    "name": "Backsplash",
+    "image": "keychains/weapon_1/kc_wpn_mac10_tile"
+  },
+  "27": {
+    "id": 27,
+    "name": "Lil' Cap Gun",
+    "image": "keychains/weapon_1/kc_wpn_tec9_cap"
+  },
+  "28": {
+    "id": 28,
+    "name": "Hot Hands",
+    "image": "keychains/weapon_1/kc_wpn_tec9_magma"
+  },
+  "29": {
+    "id": 29,
+    "name": "Semi-Precious",
+    "image": "keychains/weapon_1/kc_wpn_tknife_crystal"
+  },
+  "30": {
+    "id": 30,
+    "name": "Baby Karat T",
+    "image": "keychains/weapon_1/kc_wpn_tknife_gold"
+  },
+  "31": {
+    "id": 31,
+    "name": "Glamour Shot",
+    "image": "keychains/weapon_1/kc_wpn_usp_jewel"
+  },
+  "32": {
+    "id": 32,
+    "name": "Stitch-Loaded",
+    "image": "keychains/weapon_1/kc_wpn_usp_yarn"
+  },
+  "33": {
+    "id": 33,
+    "name": "Lil' Squatch",
+    "image": "keychains/missinglink/kc_missinglink_bigfoot"
+  }
+}
