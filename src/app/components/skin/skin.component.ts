@@ -168,7 +168,7 @@ export class SkinComponent implements OnInit {
         stickers.push({
           slot: num - 1,
           stickerId: sticker.id,
-          wear: parseFloat(sticker.wear.toString()),
+          wear: 0,
         });
       }
     }
