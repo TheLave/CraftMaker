@@ -1,366 +1,182 @@
 {
   "1": {
     "item": "weapon_deagle",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_deagle.29e8f0d7d0be5e737d4f663ee8b394b5c9e00bdd.png",
-    "isKnife": false,
     "display": "Desert Eagle",
     "order": [4, 3, 2, 1]
   },
   "2": {
     "item": "weapon_elite",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_elite.6563e9d274c6e799d71a7809021624f213d5e080.png",
-    "isKnife": false,
     "display": "Dual Berettas",
     "order": [3, 4, 2, 1]
   },
   "3": {
     "item": "weapon_fiveseven",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_fiveseven.7c33b4a78ae94a3d14e7cd0f71b295cf61717d75.png",
-    "isKnife": false,
     "display": "Five-SeveN",
     "order": [3, 2, 1, 4]
   },
   "4": {
     "item": "weapon_glock",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_glock.8430afea5349054d0923cefa7d2e7bf3950ce3d7.png",
-    "isKnife": false,
     "display": "Glock-18",
     "order": [3, 2, 1, 4]
   },
   "7": {
     "item": "weapon_ak47",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ak47.a320f13fea4f21d1eb3b46678d6b12e97cbd1052.png",
-    "isKnife": false,
     "display": "AK-47",
-    "order": [4, 3, 2, 1]
+    "order": [4, 3, 2, 1],
+    "legacy": {
+      "x": 1103,
+      "y": 390,
+      "scale": 0.94
+    },
+    "new": {
+      "x": 1090,
+      "y": 392,
+      "scale": 1.007
+    }
   },
   "8": {
     "item": "weapon_aug",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_aug.6b97a75aa4c0dbb61d81efb6d5497b079b67d0da.png",
-    "isKnife": false,
     "display": "AUG",
     "order": [4, 3, 2, 1]
   },
   "9": {
     "item": "weapon_awp",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_awp.2899e1c6345ed05d62bdbe112db1b117d022e477.png",
-    "isKnife": false,
     "display": "AWP",
     "order": [4, 3, 2, 1]
   },
   "10": {
     "item": "weapon_famas",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_famas.c897878873beb9e9ca4c68ef3a666869c6e78031.png",
-    "isKnife": false,
     "display": "FAMAS",
     "order": [4, 3, 2, 1]
   },
   "11": {
     "item": "weapon_g3sg1",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_g3sg1.986d0e07f58c81c99aa5a47d86340f4c3d400339.png",
-    "isKnife": false,
     "display": "G3SG1",
     "order": [1, 2, 3, 4, 5]
   },
+  "13": {
+    "item": "weapon_galilar",
+    "display": "Galil AR",
+    "order": [3, 2, 1, 4]
+  },
   "14": {
     "item": "weapon_m249",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m249.02d1cf8fa8c41af5a43749bf780c4c4a2e50ea8e.png",
-    "isKnife": false,
     "display": "M249",
     "order": [4, 3, 2, 1]
   },
   "16": {
     "item": "weapon_m4a1",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1.39b3bd8d556e5cdebb79d60902442986eb9aedff.png",
-    "isKnife": false,
     "display": "M4A4",
     "order": [3, 2, 1, 4]
   },
+  "17": {
+    "item": "weapon_mac10",
+    "display": "MAC-10",
+    "order": [4, 3, 2, 1]
+  },
   "19": {
     "item": "weapon_p90",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_p90.15fedd7fc90f003b8de0ded36245b438d54bc3d2.png",
-    "isKnife": false,
     "display": "P90",
     "order": [2, 4, 1, 3]
   },
   "23": {
     "item": "weapon_mp5sd",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp5sd.2e92234c951819f3ae44742e96c488ef97f26c7c.png",
-    "isKnife": false,
     "display": "MP5-SD",
     "order": [1, 2, 3, 4]
   },
   "24": {
     "item": "weapon_ump45",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ump45.55669e2321f28efed775be27f7e3c7e71b501520.png",
-    "isKnife": false,
     "display": "UMP-45",
     "order": [4, 3, 2, 1]
   },
   "25": {
     "item": "weapon_xm1014",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_xm1014.7bd7f3985d680db2fcb7cad32b07c90b758c234b.png",
-    "isKnife": false,
     "display": "XM1014",
+    "order": [4, 3, 2, 1]
+  },
+  "26": {
+    "item": "weapon_bizon",
+    "display": "PP-Bizon",
     "order": [4, 3, 2, 1]
   },
   "27": {
     "item": "weapon_mag7",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mag7.5480ba05c61153309163c46e7d646d6958af9bf7.png",
-    "isKnife": false,
     "display": "MAG-7",
     "order": [4, 3, 2, 1]
   },
   "28": {
     "item": "weapon_negev",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_negev.1cf512eb01bd62bcae5c54feec694f418ab71d30.png",
-    "isKnife": false,
     "display": "Negev",
     "order": [4, 3, 2, 1]
   },
   "29": {
     "item": "weapon_sawedoff",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_sawedoff.4c4df9c84e1edc20488c45061ad88cfd2460c4a5.png",
-    "isKnife": false,
     "display": "Sawed-Off",
     "order": [4, 3, 2, 1]
   },
   "30": {
     "item": "weapon_tec9",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_tec9.74538566492b4af122be9b996bdd7d08585db3c0.png",
-    "isKnife": false,
     "display": "Tec-9",
     "order": [3, 2, 1, 4]
   },
   "32": {
     "item": "weapon_hkp2000",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_hkp2000.c2221f8c2ef3df6c2fcdafd1bea9faae01f64054.png",
-    "isKnife": false,
     "display": "P2000",
     "order": [3, 2, 1, 4]
   },
   "33": {
     "item": "weapon_mp7",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp7.0afc09868c38a00fde50c3e4943637c714e8981e.png",
-    "isKnife": false,
     "display": "MP7",
     "order": [2, 3, 1, 4]
   },
   "34": {
     "item": "weapon_mp9",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp9.c9103efde0845eb715cdcb67bf74bad646b1c5bc.png",
-    "isKnife": false,
     "display": "MP9",
     "order": [3, 2, 4, 1]
   },
   "35": {
     "item": "weapon_nova",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_nova.d9063351d4233101d02def18aa7e901d02f9b4c1.png",
-    "isKnife": false,
     "display": "Nova",
     "order": [4, 3, 2, 1]
   },
   "36": {
     "item": "weapon_p250",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_p250.0bc9109121fb318a3bb18f6fa92692c7aa433205.png",
-    "isKnife": false,
     "display": "P250",
     "order": [3, 2, 1, 4]
   },
   "38": {
     "item": "weapon_scar20",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_scar20.1552c7b64dfe9e542a3b730edb80e21dcc6d243d.png",
-    "isKnife": false,
     "display": "SCAR-20",
     "order": [4, 3, 2, 1]
   },
   "39": {
     "item": "weapon_sg556",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_sg556.74040869391ea2ab25777f3670a6015191a73e6c.png",
-    "isKnife": false,
     "display": "SG 553",
     "order": [3, 4, 2, 1]
   },
   "40": {
     "item": "weapon_ssg08",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ssg08.271a856f50fd6ac1014334098b1a43d61bddb892.png",
-    "isKnife": false,
     "display": "SSG 08",
     "order": [4, 3, 2, 1]
   },
   "60": {
     "item": "weapon_m4a1_silencer",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1_silencer.a8d2a028fa33eb117d6d7665303c3316169c33f7.png",
-    "isKnife": false,
     "display": "M4A1-S",
-    "order": [5, 4, 2, 3, 1]
+    "order": [4, 2, 3, 1]
   },
   "61": {
     "item": "weapon_usp_silencer",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_usp_silencer.608e10862885084bb1cec55d87ba5e694bfd621d.png",
-    "isKnife": false,
     "display": "USP-S",
     "order": [4, 3, 2, 1]
   },
   "63": {
     "item": "weapon_cz75a",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_cz75a.057939990f5f295fc5eaf8f758cdef21a7cfeb8a.png",
-    "isKnife": false,
     "display": "CZ75-Auto",
     "order": [1, 2, 3, 4]
   },
   "64": {
     "item": "weapon_revolver",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_revolver.a7c0ab2973cdc0bdb53ebbef960ecbae8842f719.png",
-    "isKnife": false,
     "display": "R8 Revolver",
     "order": [1, 2, 3, 4, 5]
-  },
-  "13": {
-    "item": "weapon_galilar",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_galilar.b84153658afdb7dc26a9854e566fde3fc42c22ef.png",
-    "isKnife": false,
-    "display": "Galil AR",
-    "order": [3, 2, 1, 4]
-  },
-  "17": {
-    "item": "weapon_mac10",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mac10.41e40474aa21a9ed90d9b21dd5adf0910f766426.png",
-    "isKnife": false,
-    "display": "MAC-10",
-    "order": [4, 3, 2, 1]
-  },
-  "26": {
-    "item": "weapon_bizon",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_bizon.58523d37ee43b9a4ef42a67b65a28e5967743a56.png",
-    "isKnife": false,
-    "display": "PP-Bizon",
-    "order": [4, 3, 2, 1]
-  },
-  "500": {
-    "item": "knife_bayonet",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png",
-    "isKnife": true,
-    "display": "Bayonet"
-  },
-  "503": {
-    "item": "knife_classic",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_css.0b33071c28c02e6f19e363dc9a838566c6557389.png",
-    "isKnife": true,
-    "display": "Classic Knife"
-  },
-  "505": {
-    "item": "knife_flip",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png",
-    "isKnife": true,
-    "display": "Flip Knife"
-  },
-  "506": {
-    "item": "knife_gut",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gut.1d53007384970e8eaf28448312777683fd633a79.png",
-    "isKnife": true,
-    "display": "Gut Knife"
-  },
-  "507": {
-    "item": "knife_karambit",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png",
-    "isKnife": true,
-    "display": "Karambit"
-  },
-  "508": {
-    "item": "knife_m9_bayonet",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_m9_bayonet.1a55109e0c88792e5d56ea04dc1f676e44f9dec2.png",
-    "isKnife": true,
-    "display": "M9 Bayonet"
-  },
-  "509": {
-    "item": "knife_huntsman",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_tactical.7621bbad70410deb629d60ed98ef248dac525356.png",
-    "isKnife": true,
-    "display": "Huntsman Knife"
-  },
-  "512": {
-    "item": "knife_falchion",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png",
-    "isKnife": true,
-    "display": "Falchion Knife"
-  },
-  "514": {
-    "item": "knife_bowie",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_survival_bowie.01addb54d400815308b1d312290594a3177dd55f.png",
-    "isKnife": true,
-    "display": "Bowie Knife"
-  },
-  "515": {
-    "item": "knife_butterfly",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_butterfly.794147e84a4e9426202d45145910cbb007797ce5.png",
-    "isKnife": true,
-    "display": "Butterfly Knife"
-  },
-  "516": {
-    "item": "knife_shadow",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png",
-    "isKnife": true,
-    "display": "Shadow Daggers"
-  },
-  "517": {
-    "item": "knife_paracord",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_cord.073b5fa991a256ec2264b1c1c581401631eb51cb.png",
-    "isKnife": true,
-    "display": "Paracord Knife"
-  },
-  "518": {
-    "item": "knife_survival",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_canis.ae03aed81864dc2ee1e1118bb973418f910098ac.png",
-    "isKnife": true,
-    "display": "Survival Knife"
-  },
-  "519": {
-    "item": "knife_ursus",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_ursus.34ecda985c12503df5b88e9bda1826f61cc9e80a.png",
-    "isKnife": true,
-    "display": "Ursus Knife"
-  },
-  "520": {
-    "item": "knife_navaja",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gypsy_jackknife.1a7e57791fa9383cce67d5915ffc442c7de2694a.png",
-    "isKnife": true,
-    "display": "Navaja Knife"
-  },
-  "521": {
-    "item": "knife_nomad",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_outdoor.fdb3ce5ceef1584781759ef5a7bd6f819bf12e9b.png",
-    "isKnife": true,
-    "display": "Nomad Knife"
-  },
-  "522": {
-    "item": "knife_stiletto",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_stiletto.1aefe4ca0e433fc8c3f924ba362283e0666b5f8d.png",
-    "isKnife": true,
-    "display": "Stiletto Knife"
-  },
-  "523": {
-    "item": "knife_talon",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_widowmaker.a0842ad04cda9292483b8896d1dcdaffac9c2e5e.png",
-    "isKnife": true,
-    "display": "Talon Knife"
-  },
-  "524": {
-    "item": "knife_default",
-    "image": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife.a07b900d79ea768eae1a217a2839c5727f760396.png",
-    "isKnife": true,
-    "display": "Default Knife"
-  },
-  "525": {
-    "item": "knife_skeleton",
-    "image": "https://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_skeleton.1fc401a844008bcaa89f8381cbe7b550a051609d.png",
-    "isKnife": true,
-    "display": "Skeleton Knife"
-  },
-  "526": {
-    "item": "knife_kukri",
-    "image": "https://cdn.csinspect.com/kukri_thumbnail.png",
-    "isKnife": true,
-    "display": "Kukri Knife"
   }
 }

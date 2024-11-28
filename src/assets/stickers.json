@@ -53832,6 +53832,14 @@
     "isPaper": true
   },
   {
+    "id": 7253,
+    "title": "On An Eco (Foil)",
+    "image": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9acUFJ5KBFZv668FFUwgaeHdzJL4OO5mr-OlPi6MOvQxzxU6ZZzi-vFodyh3gLj_kM-Z2z6Jo_GdQc8Yl6G_1Dsxr-9jYj84sqke16Kmg/256fx192f",
+    "hue": 109,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
     "id": 7254,
     "title": "Natus Vincere | Copenhagen 2024",
     "image": "cph2024/navi.869872fb1d69aa5daa20c894554dfcbfa3315e85.png",
@@ -54410,23 +54418,23 @@
   {
     "id": 7326,
     "title": "The MongolZ | Copenhagen 2024",
-    "image": "cph2024/mngz.25389dc0e15c370d1c0dd567f1cf2d35c3b1f7c2.png",
-    "hue": 46,
+    "image": "cph2024/mngz.81150c0bd4cef2d3d9b9fd651da1003ad2479a86.png",
+    "hue": 48,
     "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7327,
     "title": "The MongolZ (Glitter) | Copenhagen 2024",
-    "image": "cph2024/mngz_glitter.bbe74972c20ed0336988dd1a86bd6644b5d40dcb.png",
-    "hue": 48,
+    "image": "cph2024/mngz_glitter.25b933b09826c37d1bcaa099a4a379958672fad9.png",
+    "hue": 46,
     "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7328,
     "title": "The MongolZ (Holo) | Copenhagen 2024",
-    "image": "cph2024/mngz_holo.abd153fc8210f31678efbe340c5cbcbf395e6e0d.png",
+    "image": "cph2024/mngz_holo.f5ea776dd18deb50309069bb0284b002ff903fc3.png",
     "hue": 46,
     "isSignature": false,
     "isPaper": true
@@ -54636,7 +54644,7 @@
     "title": "jL | Copenhagen 2024",
     "image": "cph2024/sig_jl.94aed6ac8fc54f945dbfb69a1165a7989348bfa1.png",
     "hue": 44,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54644,7 +54652,7 @@
     "title": "jL (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_jl_glitter.aebd428a1115d092416149a267c5d83c8056c243.png",
     "hue": 45,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54652,7 +54660,7 @@
     "title": "jL (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_jl_holo.8f7044b355d09ccd61bb3561ad56cd633e794ed1.png",
     "hue": 44,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54660,7 +54668,7 @@
     "title": "jL (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_jl_gold.f359bda10668a134906246f10c3aca975e6ae7dc.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54668,7 +54676,7 @@
     "title": "Aleksib | Copenhagen 2024",
     "image": "cph2024/sig_aleksib.221f63f6c1d037b4bcc47f2c0281fa55ae7b6084.png",
     "hue": 45,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54676,7 +54684,7 @@
     "title": "Aleksib (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_aleksib_glitter.35fdfbf5b4756ad2e1edfc718bd944b9e072ca9a.png",
     "hue": 46,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54684,7 +54692,7 @@
     "title": "Aleksib (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_aleksib_holo.88649227bcf0ddcd74f2b1c5ec4df3d8e61a94ee.png",
     "hue": 44,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54692,7 +54700,7 @@
     "title": "Aleksib (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_aleksib_gold.1c2bf6f4599ac71c092946a88b0303c38e890284.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54700,7 +54708,7 @@
     "title": "b1t | Copenhagen 2024",
     "image": "cph2024/sig_b1t.a268c1be6843167d01408ff8fd20e00369b1f692.png",
     "hue": 44,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54708,7 +54716,7 @@
     "title": "b1t (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_b1t_glitter.1da0daa31c64f362d631125eba2dcf065ca492bd.png",
     "hue": 45,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54716,7 +54724,7 @@
     "title": "b1t (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_b1t_holo.985005ae20d3b11b18ab7c861e93507eebad119b.png",
     "hue": 46,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54724,7 +54732,7 @@
     "title": "b1t (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_b1t_gold.8cf6211232585f8336426202cd137fe777fdd871.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54732,7 +54740,7 @@
     "title": "iM | Copenhagen 2024",
     "image": "cph2024/sig_im.a06097de5e16fb25df3da0726cf448bd20d2b062.png",
     "hue": 44,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54740,7 +54748,7 @@
     "title": "iM (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_im_glitter.a1872ceaff0ce3b4a1c81c210cd09db0ed182e14.png",
     "hue": 46,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54748,7 +54756,7 @@
     "title": "iM (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_im_holo.61c25a67dae8d41a7f02bcc4253b109a7d918f75.png",
     "hue": 46,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54756,7 +54764,7 @@
     "title": "iM (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_im_gold.8d53c83330b45c6c858a33e4cdca16adc3bfdc09.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54764,7 +54772,7 @@
     "title": "w0nderful | Copenhagen 2024",
     "image": "cph2024/sig_w0nderful.2231a52faef3944ac4bfddd2fbc8d3183677a9a6.png",
     "hue": 45,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54772,7 +54780,7 @@
     "title": "w0nderful (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_w0nderful_glitter.09988009691a7f7ac0a3d61831fa2f074551b4cc.png",
     "hue": 45,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54780,7 +54788,7 @@
     "title": "w0nderful (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_w0nderful_holo.9fb6cc06bf9bc2ac4be9065ef18c91b5921e6652.png",
     "hue": 44,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54788,7 +54796,7 @@
     "title": "w0nderful (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_w0nderful_gold.569763999f61f106cef8ac2880f7a8454e33f2fb.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54796,7 +54804,7 @@
     "title": "fame | Copenhagen 2024",
     "image": "cph2024/sig_fame.774f018685c1d4159107141e11e14d3ff3bf60f3.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54804,7 +54812,7 @@
     "title": "fame (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_fame_glitter.53892ce55023e294e9030a75beb4b9d390d5329e.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54812,7 +54820,7 @@
     "title": "fame (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_fame_holo.956ac1e94bb56e56ca276e2208ba4a677e2f6dc5.png",
     "hue": 37,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54820,7 +54828,7 @@
     "title": "fame (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_fame_gold.db1407098e3ff6d17db9a32de83148dacbefb844.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54828,7 +54836,7 @@
     "title": "FL1T | Copenhagen 2024",
     "image": "cph2024/sig_fl1t.f3e2dd9204f3a9aa963e03dd831b1dc8804e0410.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54836,7 +54844,7 @@
     "title": "FL1T (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_fl1t_glitter.206c35af367bbf3dd3c9f16b3c79f65e27f98615.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54844,7 +54852,7 @@
     "title": "FL1T (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_fl1t_holo.28b65a899d06fec1b24b4351f3afdccca752ab03.png",
     "hue": 38,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54852,7 +54860,7 @@
     "title": "FL1T (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_fl1t_gold.cf5f0aac5d2de61e1459606fb8bbcf8d2a4269d8.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54860,7 +54868,7 @@
     "title": "Jame | Copenhagen 2024",
     "image": "cph2024/sig_jame.da9a701ddcdb6d33503ce1fae6b24b1380b43336.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54868,7 +54876,7 @@
     "title": "Jame (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_jame_glitter.cd5bfa978afb872a8db89173d4b04231ef1b247d.png",
     "hue": 198,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54876,7 +54884,7 @@
     "title": "Jame (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_jame_holo.4581bf8a54c75783eae84d1ed9aa7bd9580ebe4f.png",
     "hue": 38,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54884,7 +54892,7 @@
     "title": "Jame (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_jame_gold.e4785f4791ef9bebeaa5656215f2a269334f88ad.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54892,7 +54900,7 @@
     "title": "mir | Copenhagen 2024",
     "image": "cph2024/sig_mir.1aa6264a67b2e47e8068406061d14e81c08ea5c6.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54900,7 +54908,7 @@
     "title": "mir (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_mir_glitter.843d50b9665da8ee9cfbee9781af8a99188d9bc8.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54908,7 +54916,7 @@
     "title": "mir (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_mir_holo.4908c6d005655ef411f2bda12e8eddad61931806.png",
     "hue": 33,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54916,7 +54924,7 @@
     "title": "mir (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_mir_gold.df16941f81c0d96670ef57c8a60c36022c4d6a26.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54924,7 +54932,7 @@
     "title": "n0rb3r7 | Copenhagen 2024",
     "image": "cph2024/sig_n0rb3r7.8eabf6040422cc1c887365795bbd0d7396b6c96a.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54932,7 +54940,7 @@
     "title": "n0rb3r7 (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_n0rb3r7_glitter.4018aa71bf2943624835056796ffa85bb0a00d21.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54940,7 +54948,7 @@
     "title": "n0rb3r7 (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_n0rb3r7_holo.0e580fdee2b19cfc2260a57a2a3c5cd7864faa8f.png",
     "hue": 37,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54948,7 +54956,7 @@
     "title": "n0rb3r7 (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_n0rb3r7_gold.e5f34cdc0bbfa84fa9a5f6c301c4f502fc8a197c.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54956,7 +54964,7 @@
     "title": "HooXi | Copenhagen 2024",
     "image": "cph2024/sig_hooxi.00d60043df255a56e69ecddf358d1ce900c5f41c.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54964,7 +54972,7 @@
     "title": "HooXi (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_hooxi_glitter.8b31a004cb9866e0956db7d69ffabdcee7c6c945.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54972,7 +54980,7 @@
     "title": "HooXi (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_hooxi_holo.b4b3d30a6a5f5c6129fd9a8003b8cc1e573b0841.png",
     "hue": 12,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54980,7 +54988,7 @@
     "title": "HooXi (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_hooxi_gold.9bb3508bc5c3b5a344718d15ceb4f83a03f4554d.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54988,7 +54996,7 @@
     "title": "huNter- | Copenhagen 2024",
     "image": "cph2024/sig_hunter.653a0339c5987d8f691b4ccd2e4c10341a5e1c0f.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -54996,7 +55004,7 @@
     "title": "huNter- (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_hunter_glitter.801bf0ae972921ef7e1be1fd7acf093befdc08f4.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55004,7 +55012,7 @@
     "title": "huNter- (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_hunter_holo.66471ed449d33e0b1362bb25eef0ede0f5135ba4.png",
     "hue": 20,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55012,7 +55020,7 @@
     "title": "huNter- (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_hunter_gold.abc52ed324306b02dcab58d566f1aafcf10e4e77.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55020,7 +55028,7 @@
     "title": "m0NESY | Copenhagen 2024",
     "image": "cph2024/sig_m0nesy.e2b7e45fe351a45d4213f6c30244aaf5d578c1c2.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55028,7 +55036,7 @@
     "title": "m0NESY (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_m0nesy_glitter.654f2e61baf5b21e94a1844676e1478502b2d44a.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55036,7 +55044,7 @@
     "title": "m0NESY (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_m0nesy_holo.06b2bcea4a43dabed6ee44d35c5d89fab42a5654.png",
     "hue": 17,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55044,7 +55052,7 @@
     "title": "m0NESY (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_m0nesy_gold.588edd92d8d1f0ddadf8e3fa1dd83aa57b2009ef.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55052,7 +55060,7 @@
     "title": "nexa | Copenhagen 2024",
     "image": "cph2024/sig_nexa.4ec67d1b59fafb5351cf1cd679cb9c53a95a4ee9.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55060,7 +55068,7 @@
     "title": "nexa (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nexa_glitter.313a4e9339530ab7dd7671d1a5e2bded7a0ffd7d.png",
     "hue": 197,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55068,7 +55076,7 @@
     "title": "nexa (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nexa_holo.4fa5bc88081aa953bb202b227db830e427c35a0b.png",
     "hue": 26,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55076,7 +55084,7 @@
     "title": "nexa (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nexa_gold.f2a51cba1169a934ab4b73e2ec1be2645dd8290b.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55084,7 +55092,7 @@
     "title": "NiKo | Copenhagen 2024",
     "image": "cph2024/sig_niko.bcc2bd9a1ad8bd38d5206ba360d912dba3b38309.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55092,7 +55100,7 @@
     "title": "NiKo (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_niko_glitter.5b4448e60f569d3c45859fc2b6e077cc5b1f6451.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55100,7 +55108,7 @@
     "title": "NiKo (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_niko_holo.37934755f943e172b34fbe95060081afbd409aea.png",
     "hue": 23,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55108,7 +55116,7 @@
     "title": "NiKo (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_niko_gold.32ac938b8883192a01660b8c0394c45b641a7114.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55116,7 +55124,7 @@
     "title": "broky | Copenhagen 2024",
     "image": "cph2024/sig_broky.033e0c8a9622ab862c494e1f92f6b9be4cabd829.png",
     "hue": 355,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55124,7 +55132,7 @@
     "title": "broky (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_broky_glitter.898d055ec5e61b4ef0be4d5fd5fbd20f005a8bc1.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55132,7 +55140,7 @@
     "title": "broky (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_broky_holo.55b632df7af6f966b5aaec9be2856302e1314d6b.png",
     "hue": 5,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55140,7 +55148,7 @@
     "title": "broky (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_broky_gold.f21d98e7620bfb1d3a02ef89f0ea8805a83ec757.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55148,7 +55156,7 @@
     "title": "frozen | Copenhagen 2024",
     "image": "cph2024/sig_frozen.bd4b26797b83c14cf347601517512753c6963812.png",
     "hue": 355,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55156,7 +55164,7 @@
     "title": "frozen (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_frozen_glitter.33ff0885971bc844e91ef6b9b19c84ff99fe7d65.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55164,7 +55172,7 @@
     "title": "frozen (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_frozen_holo.ececf5201f58d1059a63fb737e7877000b3f4848.png",
     "hue": 6,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55172,7 +55180,7 @@
     "title": "frozen (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_frozen_gold.855297d666ccc6ff30b8ccb80cbdc7d33cc918f2.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55180,7 +55188,7 @@
     "title": "karrigan | Copenhagen 2024",
     "image": "cph2024/sig_karrigan.0fd3da1b3d684fc627272fe329bd43fc30717000.png",
     "hue": 355,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55188,7 +55196,7 @@
     "title": "karrigan (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_karrigan_glitter.783ca8cdefe0b62a7f99f15f0544f1bd9338a1c5.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55196,7 +55204,7 @@
     "title": "karrigan (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_karrigan_holo.504650e6598e314be56763d82b3a8e59ed89dec8.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55204,7 +55212,7 @@
     "title": "karrigan (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_karrigan_gold.0141531285a88c2a754f758e737f7feaf4810574.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55212,7 +55220,7 @@
     "title": "rain | Copenhagen 2024",
     "image": "cph2024/sig_rain.9bdd27a8ec88e692467e86c581387952ff1353d1.png",
     "hue": 355,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55220,7 +55228,7 @@
     "title": "rain (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_rain_glitter.8b94c8f12390692dc6e9870c107116dbfcac89b2.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55228,7 +55236,7 @@
     "title": "rain (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_rain_holo.fd4a5cb1d4d31c45a17b8a09e81b3af3f0b49d98.png",
     "hue": 8,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55236,7 +55244,7 @@
     "title": "rain (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_rain_gold.54fea9da3f48c16a336cc80bd8f81814cc2ac1df.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55244,7 +55252,7 @@
     "title": "ropz | Copenhagen 2024",
     "image": "cph2024/sig_ropz.a2ef216c58a208cf26b203ed0edd6015f3f5be26.png",
     "hue": 355,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55252,7 +55260,7 @@
     "title": "ropz (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_ropz_glitter.77872eebdf4391221213897830aa3cadcbdfc09f.png",
     "hue": 355,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55260,7 +55268,7 @@
     "title": "ropz (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_ropz_holo.9bce9aa804e9a37a6cc3287adf3ac3607b863b39.png",
     "hue": 9,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55268,7 +55276,7 @@
     "title": "ropz (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_ropz_gold.ea6f8283717ad298e957875633b91f49d60343ad.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55276,7 +55284,7 @@
     "title": "chopper | Copenhagen 2024",
     "image": "cph2024/sig_chopper.ad567ce17aff7d3b5031613ae11dee24261a6072.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55284,7 +55292,7 @@
     "title": "chopper (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_chopper_glitter.d5948367e1351912dbf4d656b28dfe3a1b0e82d6.png",
     "hue": 198,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55292,7 +55300,7 @@
     "title": "chopper (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_chopper_holo.17bcfb60a118f1dbe71dd779c44b12b90e49c999.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55300,7 +55308,7 @@
     "title": "chopper (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_chopper_gold.e3af40f70cfaf3c379f963e055595f4fde9688cb.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55308,7 +55316,7 @@
     "title": "donk | Copenhagen 2024",
     "image": "cph2024/sig_donk.65a048d8fa4ac923a15f1fb840d51f5f555f7b99.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55316,7 +55324,7 @@
     "title": "donk (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_donk_glitter.a34ce4900ba1253ad1fb214b200b0a49f8856f71.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55324,7 +55332,7 @@
     "title": "donk (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_donk_holo.7eab8f360ba424ee8fe2d21d2fc0fb3658cef7df.png",
     "hue": 24,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55332,7 +55340,7 @@
     "title": "donk (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_donk_gold.31317472fbdab2070ee8cf22acdd95a47f70fca6.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55340,7 +55348,7 @@
     "title": "magixx | Copenhagen 2024",
     "image": "cph2024/sig_magixx.c78591f32fcb09d484ab908519eb4099da1b4781.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55348,7 +55356,7 @@
     "title": "magixx (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_magixx_glitter.78b246d250ab4b2da8f1153cad06fb20dfc875b5.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55356,7 +55364,7 @@
     "title": "magixx (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_magixx_holo.cc7656a67d5b4ad57f15a4a4aee74bae43d1f08c.png",
     "hue": 0,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55364,7 +55372,7 @@
     "title": "magixx (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_magixx_gold.fdaf7cc2682e7b8b6a72b94eb54c1c53de49a6f6.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55372,7 +55380,7 @@
     "title": "sh1ro | Copenhagen 2024",
     "image": "cph2024/sig_sh1ro.57246629499f4e90c4a1366eec823f6f196d66a6.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55380,7 +55388,7 @@
     "title": "sh1ro (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_sh1ro_glitter.652cdb83daeb2a3312c46c9cfda7177c22b7bfc5.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55388,7 +55396,7 @@
     "title": "sh1ro (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_sh1ro_holo.4ca26edfe360b637ac7f8a527e98d62d89280fe8.png",
     "hue": 260,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55396,7 +55404,7 @@
     "title": "sh1ro (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_sh1ro_gold.c1a772c35ab5042fbdbaaa8f106389480858c0c5.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55404,7 +55412,7 @@
     "title": "zont1x | Copenhagen 2024",
     "image": "cph2024/sig_zont1x.deed1ca45ca37bb9ff41ceceacd0e9f4af1a7a17.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55412,7 +55420,7 @@
     "title": "zont1x (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_zont1x_glitter.f1de06667fce2bac62d7cfad1c3a0bc1023bbe9b.png",
     "hue": 198,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55420,7 +55428,7 @@
     "title": "zont1x (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_zont1x_holo.73e359c3774fe7850cd0a7c1e855ffd56c81b538.png",
     "hue": 340,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55428,7 +55436,7 @@
     "title": "zont1x (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_zont1x_gold.05606bf2e5771483fe45c3a34961afa8eb2e8e32.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55436,7 +55444,7 @@
     "title": "apEX | Copenhagen 2024",
     "image": "cph2024/sig_apex.a4d44cf6174a80f6e6ce0a6525d0ec6fa157f4f2.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55444,7 +55452,7 @@
     "title": "apEX (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_apex_glitter.e2fbc75d0ba312109d4161205f17f7d6eb2ff6f3.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55452,7 +55460,7 @@
     "title": "apEX (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_apex_holo.599a0ce2a6c8cd8a80ae97fc436542ee6230b7cb.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55460,7 +55468,7 @@
     "title": "apEX (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_apex_gold.d739d5fe942ad357dffaed2c4a5bbc2922fa79e2.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55468,7 +55476,7 @@
     "title": "FlameZ | Copenhagen 2024",
     "image": "cph2024/sig_flamez.5812a1fc7a04b2e8dd731fdd7169ac2e45b55644.png",
     "hue": 62,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55476,7 +55484,7 @@
     "title": "FlameZ (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_flamez_glitter.31ad76c1f8ca1eddd5cb55d426a07cd49608272f.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55484,7 +55492,7 @@
     "title": "FlameZ (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_flamez_holo.4b61628b8909cd9284837d36a6f6f6dc970c2dcd.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55492,7 +55500,7 @@
     "title": "FlameZ (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_flamez_gold.995382f383c8d24d5ab425832d90f066276a3f3e.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55500,7 +55508,7 @@
     "title": "mezii | Copenhagen 2024",
     "image": "cph2024/sig_mezii.39eba1e4d4739f6880ce82f96a5fc20122f9c103.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55508,7 +55516,7 @@
     "title": "mezii (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_mezii_glitter.e3fa77960dfd2e48a12119a1b82352d3acea27fe.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55516,7 +55524,7 @@
     "title": "mezii (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_mezii_holo.ce06fee3162de8a5a71eb1ac0f295d99e3ebea88.png",
     "hue": 62,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55524,7 +55532,7 @@
     "title": "mezii (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_mezii_gold.02bcf1e561441a07e33312551963f4e9980f4b7d.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55532,7 +55540,7 @@
     "title": "Spinx | Copenhagen 2024",
     "image": "cph2024/sig_spinx.e1373f43132098254ea621e87700498b66b97a49.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55540,7 +55548,7 @@
     "title": "Spinx (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_spinx_glitter.0fa76a30cf9b33a7c1f2a4387c2d57f3d2bd8b85.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55548,7 +55556,7 @@
     "title": "Spinx (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_spinx_holo.c2dcc5d894cac348729288e12a3b84a3278e2e5e.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55556,7 +55564,7 @@
     "title": "Spinx (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_spinx_gold.99fcc088d28e5813aa4b67f5432e8ba394bc3d91.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55564,7 +55572,7 @@
     "title": "ZywOo | Copenhagen 2024",
     "image": "cph2024/sig_zywoo.948aee70b009e3e6bbecebb68481727ab9b4ee69.png",
     "hue": 62,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55572,7 +55580,7 @@
     "title": "ZywOo (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_zywoo_glitter.ad4ec19644c22f38722b885db4f3fa016581bcbe.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55580,7 +55588,7 @@
     "title": "ZywOo (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_zywoo_holo.cb2c6e7ae98e901ca0fa930ba6eb2e80f87d9042.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55588,7 +55596,7 @@
     "title": "ZywOo (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_zywoo_gold.959d8ca090f550d68b139a8f888426ebc6fbbf59.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55596,7 +55604,7 @@
     "title": "Brollan | Copenhagen 2024",
     "image": "cph2024/sig_brollan.673a3e2003c5bf4aedae28ab78fb6d8eaa9eb698.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55604,7 +55612,7 @@
     "title": "Brollan (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_brollan_glitter.436fac14f680d86922bbf63f84619b60f50386ab.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55612,7 +55620,7 @@
     "title": "Brollan (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_brollan_holo.a4dd33c4a1fbde32c3ef74c0ed080ad6d83ed77a.png",
     "hue": 359,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55620,7 +55628,7 @@
     "title": "Brollan (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_brollan_gold.a3b7cdd938a533cacba9b03998f97097a4f510bf.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55628,7 +55636,7 @@
     "title": "Jimpphat | Copenhagen 2024",
     "image": "cph2024/sig_jimpphat.7fc173b5a0bb34c9834630a11fc38bb535f4bb4b.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55636,7 +55644,7 @@
     "title": "Jimpphat (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_jimpphat_glitter.748d97cf9594913704f97cfc1a13d04ab3a82aa5.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55644,7 +55652,7 @@
     "title": "Jimpphat (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_jimpphat_holo.59151fae84704ca202b579600d509cf1d7e5b8ca.png",
     "hue": 5,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55652,7 +55660,7 @@
     "title": "Jimpphat (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_jimpphat_gold.ab778a5bcb24291f86cec53f512d83a786950302.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55660,7 +55668,7 @@
     "title": "siuhy | Copenhagen 2024",
     "image": "cph2024/sig_siuhy.e88d173cf0ace6c3ab3547f90c964538ca35450f.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55668,7 +55676,7 @@
     "title": "siuhy (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_siuhy_glitter.1ec1eb458089602cc3d60019c9d651d952bcd589.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55676,7 +55684,7 @@
     "title": "siuhy (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_siuhy_holo.1367be07ed23fc68e5356f56fca5a8cf80881e0d.png",
     "hue": 3,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55684,7 +55692,7 @@
     "title": "siuhy (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_siuhy_gold.67c103f9ac8ab79415a503fafd5e53edb86ec344.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55692,7 +55700,7 @@
     "title": "torzsi | Copenhagen 2024",
     "image": "cph2024/sig_torzsi.26f526961c9f9851262efe26515d53d6c30802cc.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55700,7 +55708,7 @@
     "title": "torzsi (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_torzsi_glitter.fcf0f3f9b887dd7f9d05a770168085400b0df821.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55708,7 +55716,7 @@
     "title": "torzsi (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_torzsi_holo.7e53bed20254f3891fc540dfed7a34ca29adedcf.png",
     "hue": 0,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55716,7 +55724,7 @@
     "title": "torzsi (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_torzsi_gold.b757b6087a300c5f1ed5677dd3e8d3bc2cbaf10c.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55724,7 +55732,7 @@
     "title": "xertioN | Copenhagen 2024",
     "image": "cph2024/sig_xertion.9a61f279f76b1f605a41f6d7045ebf83b7bf3fee.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55732,7 +55740,7 @@
     "title": "xertioN (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_xertion_glitter.78cb21ed13c6d05bc4eb8b6550b0bc914f93a8ea.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55740,7 +55748,7 @@
     "title": "xertioN (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_xertion_holo.c4b1d412e27b39f04021442cb300c23f3e9b16b6.png",
     "hue": 358,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55748,7 +55756,7 @@
     "title": "xertioN (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_xertion_gold.6526172a528a5a2c335637d53d80b0deaa03c086.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55756,7 +55764,7 @@
     "title": "hallzerk | Copenhagen 2024",
     "image": "cph2024/sig_hallzerk.236f3b64e9f715a327fb644c3d7a14950870b65a.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55764,7 +55772,7 @@
     "title": "hallzerk (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_hallzerk_glitter.82092543a544e20748baf74832d6912fdd26cff7.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55772,7 +55780,7 @@
     "title": "hallzerk (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_hallzerk_holo.c0d823bacecd793e140b5e1d25ebf171fe9ed784.png",
     "hue": 251,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55780,7 +55788,7 @@
     "title": "hallzerk (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_hallzerk_gold.2ca169b6e805a1b1fdfa30644729c78d09db1d77.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55788,7 +55796,7 @@
     "title": "EliGE | Copenhagen 2024",
     "image": "cph2024/sig_elige.8ff241c4c6f294b7219636a20f30fc732008e6f3.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55796,7 +55804,7 @@
     "title": "EliGE (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_elige_glitter.d566e7ae459d96ad6ae3ea2682859e862a7e260c.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55804,7 +55812,7 @@
     "title": "EliGE (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_elige_holo.108b13192a34ee93d6eb2051820b0a9b6ae48f02.png",
     "hue": 247,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55812,7 +55820,7 @@
     "title": "EliGE (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_elige_gold.429051bf943329fbc5e22810a9cf8bf35e46421c.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55820,7 +55828,7 @@
     "title": "floppy | Copenhagen 2024",
     "image": "cph2024/sig_floppy.67c1cae4a904e4b98738946bebb7164f296034af.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55828,7 +55836,7 @@
     "title": "floppy (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_floppy_glitter.00059bfe688804615c60c8341972980f352e86f2.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55836,7 +55844,7 @@
     "title": "floppy (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_floppy_holo.2421bc276de6a6bb60fbd1f149dec961cffdb66d.png",
     "hue": 250,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55844,7 +55852,7 @@
     "title": "floppy (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_floppy_gold.c2f43225f9ed1afd067509155c5ec2c3c73e4d02.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55852,7 +55860,7 @@
     "title": "Grim | Copenhagen 2024",
     "image": "cph2024/sig_grim.314dd95539b9bb0eeb5d510adb9a125ee3c0c609.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55860,7 +55868,7 @@
     "title": "Grim (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_grim_glitter.2d6bedb659dfb4ceb7a1097800d157a8a67eeb7f.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55868,7 +55876,7 @@
     "title": "Grim (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_grim_holo.1856e31682bc953f0a0781a590f258cdc57c65ab.png",
     "hue": 247,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55876,7 +55884,7 @@
     "title": "Grim (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_grim_gold.bd6b11b4134595ad4f1bcc3af183bd3e845ffba3.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55884,7 +55892,7 @@
     "title": "JT | Copenhagen 2024",
     "image": "cph2024/sig_jt.e5fa14200b8c78cb8c2a164372fac24a15cb6a5f.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55892,7 +55900,7 @@
     "title": "JT (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_jt_glitter.02712cfdb4a48d66413f2e7484019cafc4b28bfb.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55900,7 +55908,7 @@
     "title": "JT (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_jt_holo.ef28bc7821ce4753d2b233672f2890413d46561f.png",
     "hue": 280,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55908,7 +55916,7 @@
     "title": "JT (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_jt_gold.31388d157f45d2d1e0b67d36f52279013a3d3452.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55916,7 +55924,7 @@
     "title": "Ax1Le | Copenhagen 2024",
     "image": "cph2024/sig_ax1le.78f0e84cbd29c43c209feb88e441ddede5b0a992.png",
     "hue": 207,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55924,7 +55932,7 @@
     "title": "Ax1Le (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_ax1le_glitter.023699e75fb5fb4b31ecc3cb030902d687278178.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55932,7 +55940,7 @@
     "title": "Ax1Le (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_ax1le_holo.bfbc563da29867c92a07080c804eb0ef9316e12e.png",
     "hue": 208,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55940,7 +55948,7 @@
     "title": "Ax1Le (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_ax1le_gold.7a84f2705c987936b7427ba24a59ac798d428d22.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55948,7 +55956,7 @@
     "title": "Boombl4 | Copenhagen 2024",
     "image": "cph2024/sig_boombl4.57c43046c3a2a500d3d50057cacbf41fb6b37b16.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55956,7 +55964,7 @@
     "title": "Boombl4 (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_boombl4_glitter.0f7872d04a7aa883b4b02d7eb521ad3df3077fc5.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55964,7 +55972,7 @@
     "title": "Boombl4 (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_boombl4_holo.75171b4b762912a9d569fe906db0fcd4dc5ca4d4.png",
     "hue": 209,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55972,7 +55980,7 @@
     "title": "Boombl4 (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_boombl4_gold.9bdb1124d241bbd69c3277f7e30d9be1e7c6db98.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55980,7 +55988,7 @@
     "title": "electronic | Copenhagen 2024",
     "image": "cph2024/sig_electronic.5305f29d4ed980ea427eb6eec7b68039d2658d04.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55988,7 +55996,7 @@
     "title": "electronic (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_electronic_glitter.ed0dd0337568eec315df2d408c0285ac4f1bcdec.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -55996,7 +56004,7 @@
     "title": "electronic (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_electronic_holo.112de3dbf958827df2cf181da886d31fd781bf58.png",
     "hue": 209,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56004,7 +56012,7 @@
     "title": "electronic (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_electronic_gold.222406ee8b9c68889c14686f952275c5271ba542.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56012,7 +56020,7 @@
     "title": "Hobbit | Copenhagen 2024",
     "image": "cph2024/sig_hobbit.85368085fcb7e97f7f522da0898c99608eb81cc6.png",
     "hue": 207,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56020,7 +56028,7 @@
     "title": "Hobbit (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_hobbit_glitter.56aef97c897d04996fb8f3b2d378d9185b9194be.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56028,7 +56036,7 @@
     "title": "Hobbit (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_hobbit_holo.7e5ce106de4ca322895082c77eb8041c2530e427.png",
     "hue": 208,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56036,7 +56044,7 @@
     "title": "Hobbit (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_hobbit_gold.ea852ca5e69b38346286464e6ef4bbef3b9a160c.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56044,7 +56052,7 @@
     "title": "Perfecto | Copenhagen 2024",
     "image": "cph2024/sig_perfecto.017a61c77c209f486ebf9dc2a18127987d445c14.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56052,7 +56060,7 @@
     "title": "Perfecto (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_perfecto_glitter.33ffa5d9441b93d6932bee7d1b2da0366496cc4e.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56060,7 +56068,7 @@
     "title": "Perfecto (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_perfecto_holo.cca3fd6539176a8086d3606e567a243cb9396ef1.png",
     "hue": 209,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56068,7 +56076,7 @@
     "title": "Perfecto (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_perfecto_gold.0b8676e9ecdd68d21d0aab8756daf682790cbca1.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56076,7 +56084,7 @@
     "title": "Goofy | Copenhagen 2024",
     "image": "cph2024/sig_goofy.f4030e84bc90b9b21afc7aaaa22085b2cd22f7cb.png",
     "hue": 28,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56084,7 +56092,7 @@
     "title": "Goofy (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_goofy_glitter.71e254764e197bc45e1497b8354ebfef8093efac.png",
     "hue": 29,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56092,7 +56100,7 @@
     "title": "Goofy (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_goofy_holo.c0fe3fd50138c367c0e46735835cf05f3cc9a4b3.png",
     "hue": 34,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56100,7 +56108,7 @@
     "title": "Goofy (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_goofy_gold.6df71fc1505ac421fccbfab88f91d8eb2e103d7f.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56108,7 +56116,7 @@
     "title": "Kylar | Copenhagen 2024",
     "image": "cph2024/sig_kylar.4f1ac2cf053e1f388dac75ae8f0a7d07e8208225.png",
     "hue": 29,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56116,7 +56124,7 @@
     "title": "Kylar (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_kylar_glitter.f31f97f966747f6ac1a4c6a5d5d728e7943d13d2.png",
     "hue": 30,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56124,7 +56132,7 @@
     "title": "Kylar (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_kylar_holo.3e9ff63d1843b8bdc267209e1ed1b0cfa768b739.png",
     "hue": 32,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56132,7 +56140,7 @@
     "title": "Kylar (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_kylar_gold.6b2de709ea8232678da036f572d845a6ddb9eadb.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56140,7 +56148,7 @@
     "title": "Dycha | Copenhagen 2024",
     "image": "cph2024/sig_dycha.ea9d76ff604246c5ae321df56439ffe1f98c9e67.png",
     "hue": 30,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56148,7 +56156,7 @@
     "title": "Dycha (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_dycha_glitter.59c4272f797bb1bc9ea99172b12d34ec125cf728.png",
     "hue": 30,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56156,7 +56164,7 @@
     "title": "Dycha (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_dycha_holo.979b7df7acb5f43643459925646991b5e8fbb47a.png",
     "hue": 32,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56164,7 +56172,7 @@
     "title": "Dycha (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_dycha_gold.4fe5ad481c54265a61b55de40fffa94001909eb2.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56172,7 +56180,7 @@
     "title": "gla1ve | Copenhagen 2024",
     "image": "cph2024/sig_gla1ve.13a2bdb3973ac630f8f591a44ecca8d299e5ab58.png",
     "hue": 30,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56180,7 +56188,7 @@
     "title": "gla1ve (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_gla1ve_glitter.43c775af906b7c9316fd7a1a666cbd9f12cf1058.png",
     "hue": 31,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56188,7 +56196,7 @@
     "title": "gla1ve (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_gla1ve_holo.30a103f726aac76d750e779d44bd55a48a06f953.png",
     "hue": 31,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56196,7 +56204,7 @@
     "title": "gla1ve (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_gla1ve_gold.575697e2afd2fdaf3f17b5fbef833d6383d20c5a.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56204,7 +56212,7 @@
     "title": "hades | Copenhagen 2024",
     "image": "cph2024/sig_hades.798d652753c45136e6fd14ad224e029e0356e160.png",
     "hue": 29,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56212,7 +56220,7 @@
     "title": "hades (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_hades_glitter.d264c56782855a647c46746c569a27815007c3ce.png",
     "hue": 29,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56220,7 +56228,7 @@
     "title": "hades (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_hades_holo.ae389fde0d602601ad4157ca5608b24a31d2f131.png",
     "hue": 32,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56228,7 +56236,7 @@
     "title": "hades (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_hades_gold.6e20af706058cc0718167bd778d1f38548f82da0.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56236,7 +56244,7 @@
     "title": "arT | Copenhagen 2024",
     "image": "cph2024/sig_art.8ed6ac9d43f0b10ecda181f5ddebb82cf48d9d3f.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56244,7 +56252,7 @@
     "title": "arT (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_art_glitter.b99b1536252007fc86257ecf394ce11108070662.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56252,7 +56260,7 @@
     "title": "arT (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_art_holo.d5ec10fd7a04c4e2ea8ee83b989288a140303102.png",
     "hue": 274,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56260,7 +56268,7 @@
     "title": "arT (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_art_gold.89434a7a0d2f66636247adcc227104094fbb5ee2.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56268,7 +56276,7 @@
     "title": "chelo | Copenhagen 2024",
     "image": "cph2024/sig_chelo.86ab0e45ca13bf58e6b725bebec47a1e9d04c3cb.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56276,7 +56284,7 @@
     "title": "chelo (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_chelo_glitter.9b50b5768fd77bad560c6f755baf5f7e0a01b466.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56284,7 +56292,7 @@
     "title": "chelo (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_chelo_holo.3b31750ec7866008338ce53124051e2ae5cef8b1.png",
     "hue": 271,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56292,7 +56300,7 @@
     "title": "chelo (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_chelo_gold.059fcc24d1fec94ad390a554ed57c5d7cd544359.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56300,7 +56308,7 @@
     "title": "FalleN | Copenhagen 2024",
     "image": "cph2024/sig_fallen.3b89d766dd2858a2e92d782074c1e33f0136ee79.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56308,7 +56316,7 @@
     "title": "FalleN (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_fallen_glitter.9c4e11d564be48098b054d6eadc88460c44000af.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56316,7 +56324,7 @@
     "title": "FalleN (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_fallen_holo.5a9d0866ac547842e61aa8a831a2874770bd9166.png",
     "hue": 266,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56324,7 +56332,7 @@
     "title": "FalleN (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_fallen_gold.4a66b165d9fa69d3c4721b2c51630f0e3c5dcdfd.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56332,7 +56340,7 @@
     "title": "KSCERATO | Copenhagen 2024",
     "image": "cph2024/sig_kscerato.c6fa13af5b8f4857ffe029f6a457674c15f6ae14.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56340,7 +56348,7 @@
     "title": "KSCERATO (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_kscerato_glitter.32f1d752c4d26f965ea15c7fab39f4dd719f061f.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56348,7 +56356,7 @@
     "title": "KSCERATO (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_kscerato_holo.f677b8b8107e8b0ed63c21596e494e9ec638c828.png",
     "hue": 266,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56356,7 +56364,7 @@
     "title": "KSCERATO (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_kscerato_gold.1d4f3fc1b070e4ce97935cacebc52b0d22a8e1a0.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56364,7 +56372,7 @@
     "title": "yuurih | Copenhagen 2024",
     "image": "cph2024/sig_yuurih.249afcef8d11ce1edeacde6e6e410befa13ce06d.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56372,7 +56380,7 @@
     "title": "yuurih (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_yuurih_glitter.a4bfb24f29925c51bf920513cbdecd11973675a8.png",
     "hue": 202,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56380,7 +56388,7 @@
     "title": "yuurih (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_yuurih_holo.8081f023828dfe02db444221862007ae22ac9d22.png",
     "hue": 276,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56388,7 +56396,7 @@
     "title": "yuurih (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_yuurih_gold.6ddcb0227ba831a1f5aa3d0cb73bc3c438e82a89.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56396,7 +56404,7 @@
     "title": "kyxsan | Copenhagen 2024",
     "image": "cph2024/sig_kyxsan.1e30e2180bdacbd4a92c70c1c26694c818fd670d.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56404,7 +56412,7 @@
     "title": "kyxsan (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_kyxsan_glitter.1a4b6ff8ffe7c3f11e38fdf1d43a372b75827954.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56412,7 +56420,7 @@
     "title": "kyxsan (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_kyxsan_holo.f8055113339a91a1b038b16d0a3933cdefeee5cd.png",
     "hue": 8,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56420,7 +56428,7 @@
     "title": "kyxsan (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_kyxsan_gold.9744afad96a1950044b1732c56f603a6c1024564.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56428,7 +56436,7 @@
     "title": "NertZ | Copenhagen 2024",
     "image": "cph2024/sig_nertz.5cf21891b2ead0edbfba72efa865fc0119af832f.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56436,7 +56444,7 @@
     "title": "NertZ (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nertz_glitter.8d5a5f98ef955e08969a13dbfd3a2d68d5294583.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56444,7 +56452,7 @@
     "title": "NertZ (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nertz_holo.017d3cb5992f0a5bb402f0f4d2f4b4da6404c4ba.png",
     "hue": 358,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56452,7 +56460,7 @@
     "title": "NertZ (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nertz_gold.2089afe92b7feaa50ad3479a154d09273fb14a31.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56460,7 +56468,7 @@
     "title": "nicoodoz | Copenhagen 2024",
     "image": "cph2024/sig_nicoodoz.e6e846842548170b8f530460dfc3cea9c3200c79.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56468,7 +56476,7 @@
     "title": "nicoodoz (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nicoodoz_glitter.d5f7907b30085b8212e22101d69943539c38dda6.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56476,7 +56484,7 @@
     "title": "nicoodoz (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nicoodoz_holo.e7cf443308da216123ee6eb3d13bdedab7934477.png",
     "hue": 3,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56484,7 +56492,7 @@
     "title": "nicoodoz (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nicoodoz_gold.1319e8ae2a353d105630a9a4e2f494324a1ed34a.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56492,7 +56500,7 @@
     "title": "sjuush | Copenhagen 2024",
     "image": "cph2024/sig_sjuush.b73075ea5b61baf8aed3d420926096bd171d1f30.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56500,7 +56508,7 @@
     "title": "sjuush (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_sjuush_glitter.8d4262da44c205ec2d04da97ab933cd0629f449c.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56508,7 +56516,7 @@
     "title": "sjuush (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_sjuush_holo.e898a23944d4b227fb4600b248a05d87fb51ccd7.png",
     "hue": 356,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56516,7 +56524,7 @@
     "title": "sjuush (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_sjuush_gold.516a393d812f6b41e0a30adb56a8217bd4d4b7b0.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56524,7 +56532,7 @@
     "title": "TeSeS | Copenhagen 2024",
     "image": "cph2024/sig_teses.e1d3e2fa37b5b46bc9c4fe28371c0d7efa761c54.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56532,7 +56540,7 @@
     "title": "TeSeS (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_teses_glitter.3ff476bd9b430cd396752bb284c52a7c3038aae9.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56540,7 +56548,7 @@
     "title": "TeSeS (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_teses_holo.119e9958b37996d96218836c0735eb83673e71c8.png",
     "hue": 3,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56548,7 +56556,7 @@
     "title": "TeSeS (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_teses_gold.5ae494a2aa73aa9e3c213bd1ef9728865a7e18cf.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56556,7 +56564,7 @@
     "title": "Calyx | Copenhagen 2024",
     "image": "cph2024/sig_calyx.aaf5e6cae1e2e9e084aa0f4daac69e014018aeea.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56564,7 +56572,7 @@
     "title": "Calyx (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_calyx_glitter.5bff18234023a8f6713579044bfc396b5d769249.png",
     "hue": 57,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56572,7 +56580,7 @@
     "title": "Calyx (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_calyx_holo.075df8411830516eeaf2e65574540ad14e5157c8.png",
     "hue": 55,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56580,7 +56588,7 @@
     "title": "Calyx (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_calyx_gold.8690b07ad43052a5d8ef66171ebccf081fc0e93f.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56588,7 +56596,7 @@
     "title": "MAJ3R | Copenhagen 2024",
     "image": "cph2024/sig_maj3r.18601a68d6b119a64f14851971dbf17ab2259caf.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56596,7 +56604,7 @@
     "title": "MAJ3R (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_maj3r_glitter.9471e2839c01c86995aa1fe4f0b611982e9882a1.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56604,7 +56612,7 @@
     "title": "MAJ3R (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_maj3r_holo.48980c3a666dd56d6eb03ff8f1c0eda1798cb706.png",
     "hue": 55,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56612,7 +56620,7 @@
     "title": "MAJ3R (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_maj3r_gold.e35f5afbdf742af6fcf0dcbe24c9394ac21a7a44.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56620,7 +56628,7 @@
     "title": "Wicadia | Copenhagen 2024",
     "image": "cph2024/sig_wicadia.ec510d37335ff38412c907b7889788c2cf70a982.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56628,7 +56636,7 @@
     "title": "Wicadia (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_wicadia_glitter.8bca5e0717cf55042b9b0b8f1a47065ac7d25653.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56636,7 +56644,7 @@
     "title": "Wicadia (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_wicadia_holo.a168006c63f019487da5675d08084cdb01d3c3e7.png",
     "hue": 53,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56644,7 +56652,7 @@
     "title": "Wicadia (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_wicadia_gold.9fed61e03adec7e3392a37f226bc215ee68584cb.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56652,7 +56660,7 @@
     "title": "woxic | Copenhagen 2024",
     "image": "cph2024/sig_woxic.cbd6a9edf5dd693b3a51c096f6525e326037ae4c.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56660,7 +56668,7 @@
     "title": "woxic (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_woxic_glitter.3d1d369aeb46072ef1368e2672b0b8130feeef47.png",
     "hue": 57,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56668,7 +56676,7 @@
     "title": "woxic (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_woxic_holo.0e6059e9f590562b21f2335e7eefbe03d55b0535.png",
     "hue": 60,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56676,7 +56684,7 @@
     "title": "woxic (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_woxic_gold.e1683375d662fccc7e819d46cd40fedb69c8f93a.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56684,7 +56692,7 @@
     "title": "XANTARES | Copenhagen 2024",
     "image": "cph2024/sig_xantares.eb96f70cf7450cf34f6b911a1844db363b9c2f24.png",
     "hue": 55,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56692,7 +56700,7 @@
     "title": "XANTARES (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_xantares_glitter.e3fef328a6acc1688fb93453cbea2108e92ac9a2.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56700,7 +56708,7 @@
     "title": "XANTARES (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_xantares_holo.13e929fb5b6dd4fba53fd23dde43ec02e2fdf47c.png",
     "hue": 56,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56708,7 +56716,7 @@
     "title": "XANTARES (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_xantares_gold.24647167f2cd472327340dcab8b534d2d7a44436.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56716,7 +56724,7 @@
     "title": "nawwk | Copenhagen 2024",
     "image": "cph2024/sig_nawwk.37de31e5300ef9f7bab60dd7278766236ff7acce.png",
     "hue": 11,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56724,7 +56732,7 @@
     "title": "nawwk (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nawwk_glitter.15a184f375eeb7981ded676afe1dc9e3f2865030.png",
     "hue": 12,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56732,7 +56740,7 @@
     "title": "nawwk (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nawwk_holo.3e8cd7a050130c96227cfaf142b770db1e3d1e18.png",
     "hue": 14,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56740,7 +56748,7 @@
     "title": "nawwk (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nawwk_gold.b4027d125e46ece18cb79c605fa20cf6f7caf8d6.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56748,7 +56756,7 @@
     "title": "CacaNito | Copenhagen 2024",
     "image": "cph2024/sig_cacanito.994226750858ccc3b41c409e4893093657fd2857.png",
     "hue": 9,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56756,7 +56764,7 @@
     "title": "CacaNito (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_cacanito_glitter.958454214a193b74908e32ba06a342aa26ba88b1.png",
     "hue": 10,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56764,7 +56772,7 @@
     "title": "CacaNito (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_cacanito_holo.43fe0864ce8f4d4c6ee56b29b6010e66860012f5.png",
     "hue": 20,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56772,7 +56780,7 @@
     "title": "CacaNito (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_cacanito_gold.c4f8dede5fc9939d3677124b40176c49d3ed8852.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56780,7 +56788,7 @@
     "title": "jkaem | Copenhagen 2024",
     "image": "cph2024/sig_jkaem.6df67586c9bb0339ebd86abf6962da4d382f6156.png",
     "hue": 11,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56788,7 +56796,7 @@
     "title": "jkaem (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_jkaem_glitter.449133c96fd69846f1077fcb62592b8b6303042c.png",
     "hue": 11,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56796,7 +56804,7 @@
     "title": "jkaem (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_jkaem_holo.51286ef490d720379b26ef53286821f7f3c4a49f.png",
     "hue": 16,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56804,7 +56812,7 @@
     "title": "jkaem (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_jkaem_gold.ca7192bad44bbad84077c1f1d8d2b9ca4f0348fb.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56812,7 +56820,7 @@
     "title": "sense | Copenhagen 2024",
     "image": "cph2024/sig_sense.1ac4c9c7646fd5f19f63df0253181a30a47379b1.png",
     "hue": 9,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56820,7 +56828,7 @@
     "title": "sense (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_sense_glitter.bc003fbc555ed47bd0395be294924add612e9892.png",
     "hue": 10,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56828,7 +56836,7 @@
     "title": "sense (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_sense_holo.3c424abcc65688d60b82b7cebe69aadcd70055e5.png",
     "hue": 19,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56836,7 +56844,7 @@
     "title": "sense (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_sense_gold.487a8fd3baaddcb64673fc7b4fc800e8c8121d87.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56844,7 +56852,7 @@
     "title": "STYKO | Copenhagen 2024",
     "image": "cph2024/sig_styko.b20f56e77e297ca38705197802813bca80474b16.png",
     "hue": 9,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56852,7 +56860,7 @@
     "title": "STYKO (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_styko_glitter.ef48ecc7b9c983287f6dfa991883d5194b8093c1.png",
     "hue": 11,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56860,7 +56868,7 @@
     "title": "STYKO (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_styko_holo.6f01e0037ba9164a51cc9747f217293aa432aae0.png",
     "hue": 17,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56868,7 +56876,7 @@
     "title": "STYKO (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_styko_gold.63811e514bd0f59877903c1393b21c169582f956.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56876,7 +56884,7 @@
     "title": "acoR | Copenhagen 2024",
     "image": "cph2024/sig_acor.217b45fd9e8b84a537341f4dd78c63fc790c7cd2.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56884,7 +56892,7 @@
     "title": "acoR (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_acor_glitter.f253f304725cc7bf494f9a9b8c8d193e357ae199.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56892,7 +56900,7 @@
     "title": "acoR (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_acor_holo.f1990ff028bbdb4b2cee0ed0ec204ec4fee48406.png",
     "hue": 208,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56900,7 +56908,7 @@
     "title": "acoR (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_acor_gold.01beaaa64c8fcb42889764cf3b84525d1377ab8d.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56908,7 +56916,7 @@
     "title": "isak | Copenhagen 2024",
     "image": "cph2024/sig_isak.59db53572f77949bfec9290838284cc8bbef7a45.png",
     "hue": 203,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56916,7 +56924,7 @@
     "title": "isak (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_isak_glitter.794f3519c69dcd598d978aed7efd6314e6c31b03.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56924,7 +56932,7 @@
     "title": "isak (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_isak_holo.a2b2619691cef2bf301ad674409077667ab5bfe9.png",
     "hue": 202,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56932,7 +56940,7 @@
     "title": "isak (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_isak_gold.1540a3b9439bccf0beae22057d6ce80862ffdb3e.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56940,7 +56948,7 @@
     "title": "Keoz | Copenhagen 2024",
     "image": "cph2024/sig_keoz.42d9536558c6ca3f4e106efd4f163ca24d63e70e.png",
     "hue": 207,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56948,7 +56956,7 @@
     "title": "Keoz (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_keoz_glitter.498eaaba13a1b95bae692297d35f84d18d9c7387.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56956,7 +56964,7 @@
     "title": "Keoz (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_keoz_holo.ae7cd7bd345bc4f7012d861d6db93253e38c12af.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56964,7 +56972,7 @@
     "title": "Keoz (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_keoz_gold.22a61212201394739c019736b536485ad5a4cd0f.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56972,7 +56980,7 @@
     "title": "Snax | Copenhagen 2024",
     "image": "cph2024/sig_snax.4ba34990aa63efb6dd8e39918c17a7bee1306069.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56980,7 +56988,7 @@
     "title": "Snax (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_snax_glitter.fe91dd5fa265d234d5b5ced557f1208ad2700e84.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56988,7 +56996,7 @@
     "title": "Snax (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_snax_holo.68f1eb830bca670d2adbe06c02d374414c159ed0.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -56996,7 +57004,7 @@
     "title": "Snax (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_snax_gold.8f18891d3abbf7daa46820ef93510c568d1215c3.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57004,7 +57012,7 @@
     "title": "volt | Copenhagen 2024",
     "image": "cph2024/sig_volt.2e1dd15df4bc163da634d6244d4a45d553282de3.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57012,7 +57020,7 @@
     "title": "volt (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_volt_glitter.bd1db7a60819487665003265fd7384757828fa9c.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57020,7 +57028,7 @@
     "title": "volt (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_volt_holo.0b2773bd3e02f10037510071ae6c972b96197a76.png",
     "hue": 189,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57028,7 +57036,7 @@
     "title": "volt (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_volt_gold.1cc0dd0da0a7fb9a1081e21f6ed5274a5d62aa52.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57036,7 +57044,7 @@
     "title": "arrozdoce | Copenhagen 2024",
     "image": "cph2024/sig_arrozdoce.61f95515644e644671cdbc8a8db2838f3436253f.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57044,7 +57052,7 @@
     "title": "arrozdoce (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_arrozdoce_glitter.92938786d95d50bf498b9fe2498bdbf5c37b3df8.png",
     "hue": 201,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57052,7 +57060,7 @@
     "title": "arrozdoce (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_arrozdoce_holo.8f2940a84bab98d68853483a2e4c64591ad71b0f.png",
     "hue": 234,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57060,7 +57068,7 @@
     "title": "arrozdoce (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_arrozdoce_gold.b131f9df369e56f608df843513538ce7fd5d5afc.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57068,7 +57076,7 @@
     "title": "ewjerkz | Copenhagen 2024",
     "image": "cph2024/sig_ewjerkz.997852c8725953e13bd4f5889e40cf14789b10a4.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57076,7 +57084,7 @@
     "title": "ewjerkz (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_ewjerkz_glitter.954e0aeac70c9a6f3a2ffea67993f12b705c140a.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57084,7 +57092,7 @@
     "title": "ewjerkz (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_ewjerkz_holo.6b2f2b41e7c2efd2028d5033cf6ec11ac3806c4a.png",
     "hue": 235,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57092,7 +57100,7 @@
     "title": "ewjerkz (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_ewjerkz_gold.dfba407a7f8d9cf3458b52ec1165b388c4b768c3.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57100,7 +57108,7 @@
     "title": "MUTiRiS | Copenhagen 2024",
     "image": "cph2024/sig_mutiris.9937390c4d3472d8e0f0163ec9033d9f358e4185.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57108,7 +57116,7 @@
     "title": "MUTiRiS (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_mutiris_glitter.221d155881102aa87b1938592242f74212b0aaaf.png",
     "hue": 197,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57116,7 +57124,7 @@
     "title": "MUTiRiS (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_mutiris_holo.8a067c7936b35caaae957da9eac40dc931b58a07.png",
     "hue": 228,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57124,7 +57132,7 @@
     "title": "MUTiRiS (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_mutiris_gold.2cb8bc70979174c8a78e1a0431ecbb2451ce1821.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57132,7 +57140,7 @@
     "title": "roman | Copenhagen 2024",
     "image": "cph2024/sig_roman.a46252594b2e707a72e51cfcd1a38650f667074d.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57140,7 +57148,7 @@
     "title": "roman (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_roman_glitter.b85fb20594b588b763711e5d0e6443938d135aef.png",
     "hue": 198,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57148,7 +57156,7 @@
     "title": "roman (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_roman_holo.ddda54ddea55756e0ac3d1944b90a6da59782e98.png",
     "hue": 300,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57156,7 +57164,7 @@
     "title": "roman (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_roman_gold.c14db1cc2024d82b109491fc8609ffab01c1fba3.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57164,7 +57172,7 @@
     "title": "story | Copenhagen 2024",
     "image": "cph2024/sig_story.e760ca2929137fedf1f95e1d36e60edde29e37e3.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57172,7 +57180,7 @@
     "title": "story (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_story_glitter.4c4773248af4d11c4a270d0e42ea6a722c4d1683.png",
     "hue": 196,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57180,7 +57188,7 @@
     "title": "story (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_story_holo.072da5f12dbef579b97cd74ee4063220cf10521d.png",
     "hue": 231,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57188,7 +57196,7 @@
     "title": "story (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_story_gold.c69e0fa1aadffa9cad7bd741cb418014b061bd21.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57196,7 +57204,7 @@
     "title": "biguzera | Copenhagen 2024",
     "image": "cph2024/sig_biguzera.ad064dacb2ea87de9a2521edfa8e6040ebf3b41c.png",
     "hue": 203,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57204,7 +57212,7 @@
     "title": "biguzera (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_biguzera_glitter.8575965df5b6660fb6d68fb8563cc24e8e4cdda4.png",
     "hue": 197,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57212,15 +57220,15 @@
     "title": "biguzera (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_biguzera_holo.d8265425fc884f8c1706b0c69c99bb7d8cf5d575.png",
     "hue": 348,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7702,
     "title": "biguzera (Gold) | Copenhagen 2024",
-    "image": "cph2024/sig_biguzera_gold.b8c6d7b72a642f82de81a8eac6528f0a134570be.png",
-    "hue": 49,
-    "isSignature": true,
+    "image": "cph2024/sig_biguzera_gold.4359562b169f3f0f9606ddb714aa89eb7c0e42cc.png",
+    "hue": 48,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57228,7 +57236,7 @@
     "title": "kauez | Copenhagen 2024",
     "image": "cph2024/sig_kauez.6bb4f69b4c00806141e3e06bf43686a64c80fb8e.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57236,7 +57244,7 @@
     "title": "kauez (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_kauez_glitter.c9395defe123dce7468becaf874f4cc9dc5735e3.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57244,15 +57252,15 @@
     "title": "kauez (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_kauez_holo.2a9bc2f005e4cc0c454b5de4cb9d799c153d2718.png",
     "hue": 346,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7706,
     "title": "kauez (Gold) | Copenhagen 2024",
-    "image": "cph2024/sig_kauez_gold.3a09b29e66db5974eec4cc9968ea6c664ddce9b2.png",
-    "hue": 50,
-    "isSignature": true,
+    "image": "cph2024/sig_kauez_gold.776499b64c8086b17effca8e7bca0d153d2fb8d9.png",
+    "hue": 48,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57260,7 +57268,7 @@
     "title": "lux | Copenhagen 2024",
     "image": "cph2024/sig_lux.87156fed97a3193aa0dc6d9a2692921947e0022a.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57268,7 +57276,7 @@
     "title": "lux (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_lux_glitter.019ef93cc1d76da12b9dcb7c9a9590e566b3f389.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57276,15 +57284,15 @@
     "title": "lux (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_lux_holo.54ffa81eab57ad351673ce1fcd0e974ea6043c97.png",
     "hue": 2,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7710,
     "title": "lux (Gold) | Copenhagen 2024",
-    "image": "cph2024/sig_lux_gold.4dbdb7c69a6a94ff94b262df2690741079c8550c.png",
+    "image": "cph2024/sig_lux_gold.bbd84f0d781f56095feb34f222da7a49f931ff3d.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57292,7 +57300,7 @@
     "title": "n1ssim | Copenhagen 2024",
     "image": "cph2024/sig_n1ssim.b2c1ee183c34081dd3b854588ea4c3d0e7bb3a0f.png",
     "hue": 203,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57300,7 +57308,7 @@
     "title": "n1ssim (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_n1ssim_glitter.0c5e74e0c8fec780246e891e403a2f9826fdd62f.png",
     "hue": 199,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57308,15 +57316,15 @@
     "title": "n1ssim (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_n1ssim_holo.50d8537b87546a293dd983fc8002cc51511444b2.png",
     "hue": 21,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7714,
     "title": "n1ssim (Gold) | Copenhagen 2024",
-    "image": "cph2024/sig_n1ssim_gold.a9b97a56c1e56fe7577cfb1f12bafa675d1d88bf.png",
-    "hue": 48,
-    "isSignature": true,
+    "image": "cph2024/sig_n1ssim_gold.7f0950906e5b5ead888c1881d2da15c31c005503.png",
+    "hue": 49,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57324,7 +57332,7 @@
     "title": "NQZ | Copenhagen 2024",
     "image": "cph2024/sig_nqz.594826107b195c0eee9251148f35f80c2e7ba656.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57332,7 +57340,7 @@
     "title": "NQZ (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nqz_glitter.06fe3a52c0e1c6058b7482a98fcb466e1eff52e3.png",
     "hue": 200,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57340,15 +57348,15 @@
     "title": "NQZ (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nqz_holo.090098ef2e925d7cfe4297e4955c44884e5e9859.png",
     "hue": 357,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
     "id": 7718,
     "title": "NQZ (Gold) | Copenhagen 2024",
-    "image": "cph2024/sig_nqz_gold.2bc72cbd16b639556d27b3adf870cf4d5dde9528.png",
+    "image": "cph2024/sig_nqz_gold.1e3f322d2e059a3501caf82858d422913f7f3eb6.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57356,7 +57364,7 @@
     "title": "decenty | Copenhagen 2024",
     "image": "cph2024/sig_decenty.7daf3181adf9f2952d77f61df3bbcdf9f3d40b47.png",
     "hue": 114,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57364,7 +57372,7 @@
     "title": "decenty (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_decenty_glitter.61ce592611689c2606333d427975e334c0abfb99.png",
     "hue": 114,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57372,7 +57380,7 @@
     "title": "decenty (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_decenty_holo.0cc35d138324f09b3e0aa0aacb861180a8dfb1bb.png",
     "hue": 80,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57380,7 +57388,7 @@
     "title": "decenty (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_decenty_gold.a7610c006cf0832574a950cf1c1ca21774cdb921.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57388,7 +57396,7 @@
     "title": "felps | Copenhagen 2024",
     "image": "cph2024/sig_felps.45fc978839296f6b5e8657026e15a9a67ad11c39.png",
     "hue": 115,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57396,7 +57404,7 @@
     "title": "felps (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_felps_glitter.ba8f359e9e603c31369c2162f9e5393ca7b34106.png",
     "hue": 114,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57404,7 +57412,7 @@
     "title": "felps (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_felps_holo.a67842fe9ebb263ab4d17f2fbddb1dc062434c9b.png",
     "hue": 80,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57412,7 +57420,7 @@
     "title": "felps (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_felps_gold.b73b673e47f2a290cf0d2531da322b35589978eb.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57420,7 +57428,7 @@
     "title": "HEN1 | Copenhagen 2024",
     "image": "cph2024/sig_hen1.2740b13f8262b07bab8a0df4b14cd0ce4b1c9280.png",
     "hue": 114,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57428,7 +57436,7 @@
     "title": "HEN1 (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_hen1_glitter.7765490f1b3144f7183c971cb7f70e92b085f26d.png",
     "hue": 113,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57436,7 +57444,7 @@
     "title": "HEN1 (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_hen1_holo.ceda5e3582d14855593edad9a09653892179f28b.png",
     "hue": 84,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57444,7 +57452,7 @@
     "title": "HEN1 (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_hen1_gold.5ab8c6c74f98b9978e72ef668970cea09b1b4d64.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57452,7 +57460,7 @@
     "title": "noway | Copenhagen 2024",
     "image": "cph2024/sig_noway.03dac2e4341d17d63fa15f5823b4cad5a13a0d46.png",
     "hue": 115,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57460,7 +57468,7 @@
     "title": "noway (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_noway_glitter.e76dee4ea622e345ea3af188d8c428854bf1df99.png",
     "hue": 115,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57468,7 +57476,7 @@
     "title": "noway (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_noway_holo.37c0877ddf2a75df9969043be5b38c4278710f36.png",
     "hue": 84,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57476,7 +57484,7 @@
     "title": "noway (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_noway_gold.435a68d7dbaa1b7057066b84f1e9d40c1e74fe32.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57484,7 +57492,7 @@
     "title": "VINI | Copenhagen 2024",
     "image": "cph2024/sig_vini.31dbb9725f22d2d14978b77e65cb8f37b0742d4e.png",
     "hue": 114,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57492,7 +57500,7 @@
     "title": "VINI (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_vini_glitter.89cc55bbfb3155f342c5f7747550413e77ddf344.png",
     "hue": 113,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57500,7 +57508,7 @@
     "title": "VINI (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_vini_holo.c487f89dab137f89cb04cc8bb5d423201013aad1.png",
     "hue": 78,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57508,7 +57516,7 @@
     "title": "VINI (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_vini_gold.55a021f0171640d44865c9e93bf72e591923baf4.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57516,7 +57524,7 @@
     "title": "910 | Copenhagen 2024",
     "image": "cph2024/sig_910.c6cb3ae74c0d7cf2c23700b736da6d420fe599ef.png",
     "hue": 36,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57524,7 +57532,7 @@
     "title": "910 (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_910_glitter.47a960b6d7d74b5e60ef0e3c88ce0fd7b915fb19.png",
     "hue": 37,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57532,7 +57540,7 @@
     "title": "910 (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_910_holo.798a3f56b68e3c4f080a530e76c3517ba6596248.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57540,7 +57548,7 @@
     "title": "910 (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_910_gold.4a6ee4eb0c73dd30cdb87a12e420699eb2dc5984.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57548,7 +57556,7 @@
     "title": "bLitz | Copenhagen 2024",
     "image": "cph2024/sig_blitz.236179cc85637b29f0b22e87739ce3355045cbf4.png",
     "hue": 36,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57556,7 +57564,7 @@
     "title": "bLitz (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_blitz_glitter.db827cf991b3356bdb790c1800a02e5363a5d8fd.png",
     "hue": 38,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57564,7 +57572,7 @@
     "title": "bLitz (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_blitz_holo.50254a3d07a9e924d5523b89ad28712a53426d63.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57572,7 +57580,7 @@
     "title": "bLitz (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_blitz_gold.7c7f4c843fbd3feb2865940fd2579e3b86479d84.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57580,7 +57588,7 @@
     "title": "mzinho | Copenhagen 2024",
     "image": "cph2024/sig_mzinho.53216fb20bbaef4d1a981435ca9945c696613ae7.png",
     "hue": 36,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57588,7 +57596,7 @@
     "title": "mzinho (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_mzinho_glitter.c7c598efe1a78bb30fd765a061f27d415750f87d.png",
     "hue": 38,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57596,7 +57604,7 @@
     "title": "mzinho (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_mzinho_holo.033603e5dccc92ce9214c014a86b561e7470e393.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57604,7 +57612,7 @@
     "title": "mzinho (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_mzinho_gold.a4b388ed8e4891a78fef861454c85a61e4fa5ab7.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57612,7 +57620,7 @@
     "title": "Senzu | Copenhagen 2024",
     "image": "cph2024/sig_senzu.1317f409c03131b8403e23359d62a7f6ad9988f9.png",
     "hue": 36,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57620,7 +57628,7 @@
     "title": "Senzu (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_senzu_glitter.3a1671d05ee4850d963f824ba1ca22b0b578d7a2.png",
     "hue": 38,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57628,7 +57636,7 @@
     "title": "Senzu (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_senzu_holo.20992da6dd1ca3b9f140767cfb9c94e2486fb6a6.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57636,7 +57644,7 @@
     "title": "Senzu (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_senzu_gold.a0374449b9c5a22ec5b3ee772749e25746870011.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57644,7 +57652,7 @@
     "title": "Techno4K | Copenhagen 2024",
     "image": "cph2024/sig_techno4k.adfdbefd0d0dd0dcca4e4724e2dc701c68e9b62f.png",
     "hue": 36,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57652,7 +57660,7 @@
     "title": "Techno4K (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_techno4k_glitter.76eb240709ba146423a7854b4927d24052b29de1.png",
     "hue": 37,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57660,7 +57668,7 @@
     "title": "Techno4K (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_techno4k_holo.d988e163835d8f2b08d68e93b9da5ce6701632f6.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57668,7 +57676,7 @@
     "title": "Techno4K (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_techno4k_gold.82244ce6d9b7cc86bde66c8dd36536101059667c.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57676,7 +57684,7 @@
     "title": "Forester | Copenhagen 2024",
     "image": "cph2024/sig_forester.8fa4f1940830b95d6d7e4d0439d4d65470ca5404.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57684,7 +57692,7 @@
     "title": "Forester (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_forester_glitter.811d4c15390d68f900d22204084b5f92ed325276.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57692,7 +57700,7 @@
     "title": "Forester (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_forester_holo.f147a4a0ef7a07ca6ea5fbebd7d605d6fe446329.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57700,7 +57708,7 @@
     "title": "Forester (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_forester_gold.8a2bba1dd7c3efd3646b71548db8ed00fc50b7df.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57708,7 +57716,7 @@
     "title": "ICY | Copenhagen 2024",
     "image": "cph2024/sig_icy.2246ec18ffb0b4011d4203a56aaa6522e91eddcd.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57716,7 +57724,7 @@
     "title": "ICY (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_icy_glitter.2646a4ce63f8d75365a586184f02a7f0a3f54c29.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57724,7 +57732,7 @@
     "title": "ICY (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_icy_holo.0715b83fc1e4d6145c33ef5a3cf31332dfdb49c9.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57732,7 +57740,7 @@
     "title": "ICY (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_icy_gold.e3f41e3fb5edcb4228cc7237ffb7655c27bd7908.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57740,7 +57748,7 @@
     "title": "Krad | Copenhagen 2024",
     "image": "cph2024/sig_krad.ffbe2e6d3ac4c6638805d7bffedcee4999f9b3b4.png",
     "hue": 63,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57748,7 +57756,7 @@
     "title": "Krad (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_krad_glitter.f4fb05b1f2176c2afd68661f5e77307c9d0b33ec.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57756,7 +57764,7 @@
     "title": "Krad (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_krad_holo.402eadf14a3b3999cf71a75a38daa83400fc440c.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57764,7 +57772,7 @@
     "title": "Krad (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_krad_gold.a1aeeeca13d78a9440cf06d9e8e3fe804eb9932e.png",
     "hue": 47,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57772,7 +57780,7 @@
     "title": "NickelBack | Copenhagen 2024",
     "image": "cph2024/sig_nickelback.4b69d929811f818cb6f1556a7f49fca367c9cfc9.png",
     "hue": 65,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57780,7 +57788,7 @@
     "title": "NickelBack (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nickelback_glitter.d7dda90a492f75635487713a8bd7b2caa6664738.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57788,7 +57796,7 @@
     "title": "NickelBack (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nickelback_holo.8bea152c2a8f6babd64bd332980bedc8abeda983.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57796,7 +57804,7 @@
     "title": "NickelBack (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nickelback_gold.efd711a18a768e97a6829e61703e3f78ded3fcfa.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57804,7 +57812,7 @@
     "title": "TRAVIS | Copenhagen 2024",
     "image": "cph2024/sig_travis.6eec81e39bf128824b6b8e2a749dabb311f6f2e1.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57812,7 +57820,7 @@
     "title": "TRAVIS (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_travis_glitter.1b4317ec5c401f278a132e508b45db77a8ef8bdc.png",
     "hue": 64,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57820,7 +57828,7 @@
     "title": "TRAVIS (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_travis_holo.1eb7ca4cee852d221d2e6da79f8c5a1926193b66.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57828,7 +57836,7 @@
     "title": "TRAVIS (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_travis_gold.66a26117125462529ba3f052534ce5349299a715.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57836,7 +57844,7 @@
     "title": "kraghen | Copenhagen 2024",
     "image": "cph2024/sig_kraghen.6dafe65c00817684e7b1272234a156439ada110c.png",
     "hue": 51,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57844,7 +57852,7 @@
     "title": "kraghen (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_kraghen_glitter.8bdf1ba5d1553a7b206d52dd517cd0b9fac29ac4.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57852,7 +57860,7 @@
     "title": "kraghen (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_kraghen_holo.b50b7f429415bc571c200f76c0c1b72e3dfb7984.png",
     "hue": 53,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57860,7 +57868,7 @@
     "title": "kraghen (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_kraghen_gold.de9050ff605d7fcd7e061e745c5baff3bb004c2e.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57868,7 +57876,7 @@
     "title": "Nodios | Copenhagen 2024",
     "image": "cph2024/sig_nodios.28c4e01626388460d59fb203ecce3009f061f91a.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57876,7 +57884,7 @@
     "title": "Nodios (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nodios_glitter.3d2260edff071095a909a0f7372eebec60b1617c.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57884,7 +57892,7 @@
     "title": "Nodios (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nodios_holo.1fc54fe3055ae373a3db67cd45a628629a50bc8a.png",
     "hue": 54,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57892,7 +57900,7 @@
     "title": "Nodios (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nodios_gold.a97f2ab9205a2c34a4361ffe42d2585ffe2fd3aa.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57900,7 +57908,7 @@
     "title": "Patti | Copenhagen 2024",
     "image": "cph2024/sig_patti.7456ea1e63cbb90979377f7d7c916afa052e5d55.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57908,7 +57916,7 @@
     "title": "Patti (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_patti_glitter.2ce7cea7ad5fd8bd504f084f1bb47ab1c1e10d29.png",
     "hue": 51,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57916,7 +57924,7 @@
     "title": "Patti (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_patti_holo.8e6688ea9a8fd98f15ef9c95021d0f81c19a584d.png",
     "hue": 53,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57924,7 +57932,7 @@
     "title": "Patti (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_patti_gold.60ef7f874141337bae2415bee1816077613a8510.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57932,7 +57940,7 @@
     "title": "Queenix | Copenhagen 2024",
     "image": "cph2024/sig_queenix.322cacaab6ab4a70664a26beab651bac702fd65a.png",
     "hue": 51,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57940,7 +57948,7 @@
     "title": "Queenix (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_queenix_glitter.16cc4691a6a4975b6ba6a763d9dcc2358b120b6d.png",
     "hue": 51,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57948,7 +57956,7 @@
     "title": "Queenix (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_queenix_holo.e218c54d11d7919d3f911e3f7f37ae40f1bfe29d.png",
     "hue": 51,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57956,7 +57964,7 @@
     "title": "Queenix (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_queenix_gold.5579406dc7ad9e816878073ad87a894a82e1358d.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57964,7 +57972,7 @@
     "title": "salazar | Copenhagen 2024",
     "image": "cph2024/sig_salazar.31eecb74afe9e2e57cb09619ce8ca7f5bb5ddcbb.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57972,7 +57980,7 @@
     "title": "salazar (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_salazar_glitter.7b72ad66904a2a698947243eec6146561cee86b6.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57980,7 +57988,7 @@
     "title": "salazar (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_salazar_holo.23d4cbf3f0a9823f3c50c60eef2f3b706aeee44d.png",
     "hue": 53,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57988,7 +57996,7 @@
     "title": "salazar (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_salazar_gold.f81fc69af3b2f826312bf32406558cc8531ac5cc.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -57996,7 +58004,7 @@
     "title": "adamS | Copenhagen 2024",
     "image": "cph2024/sig_adams.bb4a01b5f2ad1fa4e277a9305070e43c3c35acb3.png",
     "hue": 207,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58004,7 +58012,7 @@
     "title": "adamS (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_adams_glitter.f5657ebfc3d6e92447b0c3c252fd92e7e76f0c90.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58012,7 +58020,7 @@
     "title": "adamS (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_adams_holo.8fe5530d97d83b6edd2ae0d151d470b2752602a2.png",
     "hue": 204,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58020,7 +58028,7 @@
     "title": "adamS (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_adams_gold.db3252a4aab84bc1bb9b2209e35888db4e117c3c.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58028,7 +58036,7 @@
     "title": "dav1g | Copenhagen 2024",
     "image": "cph2024/sig_dav1g.68a46f2bbc5268d7efc399347e436f6553225b2f.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58036,7 +58044,7 @@
     "title": "dav1g (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_dav1g_glitter.591b24227fb5b254dced2985517625acae5c902f.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58044,7 +58052,7 @@
     "title": "dav1g (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_dav1g_holo.fc6aa2e90f357cbc8950969be8d73f9d1008bb30.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58052,7 +58060,7 @@
     "title": "dav1g (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_dav1g_gold.edcbbf63e7acff618cd822f20d63cd829d9d3028.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58060,7 +58068,7 @@
     "title": "JUST | Copenhagen 2024",
     "image": "cph2024/sig_just.b62673ecce8fd1085fbb3b70643d622ee0de9620.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58068,7 +58076,7 @@
     "title": "JUST (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_just_glitter.8ae8e130f4ad28caa85877bd28a16755eea84fa9.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58076,7 +58084,7 @@
     "title": "JUST (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_just_holo.1fe15bae60e6ace34d407f603cafdbaa6cbf0487.png",
     "hue": 207,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58084,7 +58092,7 @@
     "title": "JUST (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_just_gold.4219e10588b53b9411e13e0d28fa66c421be84e4.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58092,7 +58100,7 @@
     "title": "mopoz | Copenhagen 2024",
     "image": "cph2024/sig_mopoz.e18fbbb5b0c6350b7708d0cb5c82f15e2d7c4581.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58100,7 +58108,7 @@
     "title": "mopoz (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_mopoz_glitter.6c03822a5e47f7902393ee5bae7e8e36cbfba52f.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58108,7 +58116,7 @@
     "title": "mopoz (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_mopoz_holo.52c13e188ec4258d6fb29a8cf4cea253e768f471.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58116,7 +58124,7 @@
     "title": "mopoz (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_mopoz_gold.23f70a3f9f7fedb7b525b449ffdc3645b1be1d9f.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58124,7 +58132,7 @@
     "title": "stadodo | Copenhagen 2024",
     "image": "cph2024/sig_stadodo.0d11c40150d6c13d2af7f72463a83a5880b21c0a.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58132,7 +58140,7 @@
     "title": "stadodo (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_stadodo_glitter.098bead711c1706ff1312713c9a4a7a140b0d770.png",
     "hue": 205,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58140,7 +58148,7 @@
     "title": "stadodo (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_stadodo_holo.3a320999066dc778fc7d09c3f0b84d69e25f15b0.png",
     "hue": 206,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58148,7 +58156,7 @@
     "title": "stadodo (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_stadodo_gold.d2df4a6a9e4e161c05606025f293132f7fbcb086.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58156,7 +58164,7 @@
     "title": "b4rtiN | Copenhagen 2024",
     "image": "cph2024/sig_b4rtin.0ffb9294465e3b9bb6430d6b1f7a02b3e27b0ee4.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58164,7 +58172,7 @@
     "title": "b4rtiN (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_b4rtin_glitter.696711abed4ae3fb8e2608b6fa0a455420502d1f.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58172,7 +58180,7 @@
     "title": "b4rtiN (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_b4rtin_holo.c134e73e574d139cdcb432ec55f1b2c02e60835d.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58180,7 +58188,7 @@
     "title": "b4rtiN (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_b4rtin_gold.595a3f9f9e8a6a4915850434155ea16a7a31dabe.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58188,7 +58196,7 @@
     "title": "coldzera | Copenhagen 2024",
     "image": "cph2024/sig_coldzera.9f2ee575eeeed7cebab33650eb2b27997a535bfa.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58196,7 +58204,7 @@
     "title": "coldzera (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_coldzera_glitter.ea4dc57effe078edb3db5e9dede9065447cfc192.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58204,7 +58212,7 @@
     "title": "coldzera (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_coldzera_holo.0c08afb50dcb3989f7f28e16b6117909ac8c9ae1.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58212,7 +58220,7 @@
     "title": "coldzera (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_coldzera_gold.0528499c65e92fc0b57e78d91bb66ad82bea0eda.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58220,7 +58228,7 @@
     "title": "dumau | Copenhagen 2024",
     "image": "cph2024/sig_dumau.85b5308a857926546bcb068720fa40ee59959165.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58228,7 +58236,7 @@
     "title": "dumau (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_dumau_glitter.327ab6f88ed0766da0178b3603fce9b0f2ecb6b8.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58236,7 +58244,7 @@
     "title": "dumau (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_dumau_holo.fbdce09831322b17c85840a3f2791160056dcb10.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58244,7 +58252,7 @@
     "title": "dumau (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_dumau_gold.e81af35b506ddf62cb02032ed19b95185fc8c49c.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58252,7 +58260,7 @@
     "title": "latto | Copenhagen 2024",
     "image": "cph2024/sig_latto.0dbb33af3bc2bce391e008c2de14c6b4f27def27.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58260,7 +58268,7 @@
     "title": "latto (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_latto_glitter.d522d10d4cc4d7261963b06a0d6d38e97623e96d.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58268,7 +58276,7 @@
     "title": "latto (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_latto_holo.9464bdf26c48281c1d3425a303cec174e6bd4b50.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58276,7 +58284,7 @@
     "title": "latto (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_latto_gold.68e93c19d329f46d82fb67356f1a9f1a1fb13bff.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58284,7 +58292,7 @@
     "title": "NEKiZ | Copenhagen 2024",
     "image": "cph2024/sig_nekiz.2cb0dcb7584e1b7d106a27ef2fa2aaa40d466d21.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58292,7 +58300,7 @@
     "title": "NEKiZ (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_nekiz_glitter.1cf0f8d901019107700b8802321be0c47f32b10c.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58300,7 +58308,7 @@
     "title": "NEKiZ (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_nekiz_holo.1ed7ccf6dc81b77df77c8281d6426ca76ff1b3c0.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58308,7 +58316,7 @@
     "title": "NEKiZ (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_nekiz_gold.303703ecdfeb232590480801e8a4385a3e6569a4.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58316,7 +58324,7 @@
     "title": "EmiliaQAQ | Copenhagen 2024",
     "image": "cph2024/sig_emiliaqaq.f7135aa12d583f1c41afb5ccd8b665c64f74057c.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58324,7 +58332,7 @@
     "title": "EmiliaQAQ (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_emiliaqaq_glitter.eb9044250e832db38e67a187407fddda71355428.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58332,7 +58340,7 @@
     "title": "EmiliaQAQ (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_emiliaqaq_holo.94792a35f5b9830f8e3348df817c70e73aa57b35.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58340,7 +58348,7 @@
     "title": "EmiliaQAQ (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_emiliaqaq_gold.20651dc05f26ab2211bbebddb4dbacc4cd37fd2a.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58348,7 +58356,7 @@
     "title": "Jee | Copenhagen 2024",
     "image": "cph2024/sig_jee.da7502118293d741f95953e8c589075a6e07745f.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58356,7 +58364,7 @@
     "title": "Jee (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_jee_glitter.241de104c38c59c554e02e1bce7ffc49d6c7b80b.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58364,7 +58372,7 @@
     "title": "Jee (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_jee_holo.e40aafee652251bf19f80ee9b8f9e649cfea090d.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58372,7 +58380,7 @@
     "title": "Jee (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_jee_gold.a4cd225e0666caeed0b4b03d8d65bdd8bf2fa577.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58380,7 +58388,7 @@
     "title": "Starry | Copenhagen 2024",
     "image": "cph2024/sig_starry.88a7cf1e5c3216363f74cf26e559bed6ff26b646.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58388,7 +58396,7 @@
     "title": "Starry (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_starry_glitter.6bc14449499afb5c070670b6d3d03881727706e5.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58396,7 +58404,7 @@
     "title": "Starry (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_starry_holo.dd6dadc48688d72a89b98f7e0a203d4edd7fa7a1.png",
     "hue": 52,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58404,7 +58412,7 @@
     "title": "Starry (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_starry_gold.0482bbcc21ffbb5cec7b469424bda84cd550a9ee.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58412,7 +58420,7 @@
     "title": "westmelon | Copenhagen 2024",
     "image": "cph2024/sig_westmelon.5e9ea5cdca628e7f6ea8ab1f71ecce11fd56ff78.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58420,7 +58428,7 @@
     "title": "westmelon (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_westmelon_glitter.2c2bfef5c07fa9bf146812c819899a053ba18206.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58428,7 +58436,7 @@
     "title": "westmelon (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_westmelon_holo.1e59cbf397d744ce493b4b50d9bba560369e2023.png",
     "hue": 51,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58436,7 +58444,7 @@
     "title": "westmelon (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_westmelon_gold.35a7ebad63186c227c1e2d917ad85c5be4cac992.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58444,7 +58452,7 @@
     "title": "z4KR | Copenhagen 2024",
     "image": "cph2024/sig_z4kr.855ee9b39600f5aa7abc9061a645f17c8c549102.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58452,7 +58460,7 @@
     "title": "z4KR (Glitter) | Copenhagen 2024",
     "image": "cph2024/sig_z4kr_glitter.7378196c88f1da7aa6537acd170cb77211220139.png",
     "hue": 48,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58460,7 +58468,7 @@
     "title": "z4KR (Holo) | Copenhagen 2024",
     "image": "cph2024/sig_z4kr_holo.814311e19283e4af3c3851fc55cbaecdb2d8060b.png",
     "hue": 50,
-    "isSignature": true,
+    "isSignature": false,
     "isPaper": true
   },
   {
@@ -58468,7 +58476,662 @@
     "title": "z4KR (Gold) | Copenhagen 2024",
     "image": "cph2024/sig_z4kr_gold.5260428f4e60371990eacd1caffc2eeba7a6de1c.png",
     "hue": 49,
-    "isSignature": true,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7859,
+    "title": "jL (Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_jl_champion.0ae28dfdaef2e85d4b495455ba1c42969f995330.png",
+    "hue": 44,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7860,
+    "title": "jL (Glitter, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_jl_glitter_champion.0ad80c248c5eed21748cb0a3aa7d5fee6a42b566.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7861,
+    "title": "jL (Holo, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_jl_holo_champion.dd0bcd60062d9f05e97955377a226d0d5b9bd859.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7862,
+    "title": "jL (Gold, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_jl_gold_champion.e908eb4278ae9e56038159e02a42572e8f07cb55.png",
+    "hue": 48,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7863,
+    "title": "Aleksib (Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_aleksib_champion.c342aba5e1a4f72b31e41440a3931da97f9988f6.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7864,
+    "title": "Aleksib (Glitter, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_aleksib_glitter_champion.46781af043ea214dea9b0eeefdd906189e1d8657.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7865,
+    "title": "Aleksib (Holo, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_aleksib_holo_champion.1bbdc10b9b5d3a6db15418f3df174013f573f1f9.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7866,
+    "title": "Aleksib (Gold, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_aleksib_gold_champion.ba200ec2cd403d1e865026f071e944e7d48d9dab.png",
+    "hue": 49,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7867,
+    "title": "b1t (Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_b1t_champion.cd54342430136e16cddc9bb5207c61a301bd6aed.png",
+    "hue": 44,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7868,
+    "title": "b1t (Glitter, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_b1t_glitter_champion.a81338126a4cfc741212caa07b85e67d2f7f7b45.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7869,
+    "title": "b1t (Holo, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_b1t_holo_champion.1d1ae4ba6d6f3a7caaa9b2901ef943eaa75cedc8.png",
+    "hue": 46,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7870,
+    "title": "b1t (Gold, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_b1t_gold_champion.f230752c4791aa56faeba82bb1a9e6a65e810dc9.png",
+    "hue": 47,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7871,
+    "title": "iM (Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_im_champion.afa0a7db922c69ec797993582bce04a454ce1bbc.png",
+    "hue": 44,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7872,
+    "title": "iM (Glitter, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_im_glitter_champion.dbbabeaff225f2a58a16fc16b018c116734fb66c.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7873,
+    "title": "iM (Holo, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_im_holo_champion.430b4ced4b77d5ee4ad980421d7264d6fb322b8c.png",
+    "hue": 46,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7874,
+    "title": "iM (Gold, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_im_gold_champion.e69acd37107e7a8c600a341fdb9ee155301a3c68.png",
+    "hue": 49,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7875,
+    "title": "w0nderful (Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_w0nderful_champion.27f22d9ce273fa1eea9cba391b3ba69ccf3200d9.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7876,
+    "title": "w0nderful (Glitter, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_w0nderful_glitter_champion.db6203033f04d2c4c52130b67a824e3dff6f5fd3.png",
+    "hue": 45,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7877,
+    "title": "w0nderful (Holo, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_w0nderful_holo_champion.577c42b9662247af6f59e1cd399384af80e45cc8.png",
+    "hue": 44,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7878,
+    "title": "w0nderful (Gold, Champion) | Copenhagen 2024",
+    "image": "cph2024/sig_w0nderful_gold_champion.daf3266985e68cc15aba8580f012199b0eafdf30.png",
+    "hue": 48,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 241,
+    "title": "dAT team (Gold) | DreamHack 2014",
+    "image": "dhw2014/datteam_gold.b31ec4c979a6ae2aeeb73dd79bb94a1a17c5014e.png",
+    "hue": 40,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 1692,
+    "title": "Mirage (Gold)",
+    "image": "tournament_assets/de_mirage_gold.3a6bcd3d36cfa588d54af5fadf5b21a432e68360.png",
+    "hue": 47,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 4577,
+    "title": "Blinky",
+    "image": "community/sticker_craft/paper_winky_eyes.971a542cb6cb964b728491241aea38be8478ad13.png",
+    "hue": 0,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 4580,
+    "title": "Chompers",
+    "image": "community/sticker_craft/paper_shark_mouth.d13482932ad63ab0ef2a26420229afee48261ba4.png",
+    "hue": 0,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 4590,
+    "title": "Fly High",
+    "image": "community/sticker_craft/paper_wings.2e95670d4bc74e03e693cbdc0870a08124763538.png",
+    "hue": 35,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 4647,
+    "title": "From The Deep",
+    "image": "community/sticker_craft/paper_tentacle.f3d3564c36449b5fc74d7b01f036fe818550a204.png",
+    "hue": 147,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 4648,
+    "title": "Glare",
+    "image": "community/sticker_craft/paper_eye.293eafc0824f0b2ca895aed03a6e9174af782b24.png",
+    "hue": 282,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 4698,
+    "title": "Lefty (CT)",
+    "image": "community/sticker_craft/paper_ct_left_hand.91b1beab7e5c986c9961bf6712400eccc89ec02b.png",
+    "hue": 44,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7879,
+    "title": "Lefty (T)",
+    "image": "community/sticker_craft/paper_t_left_hand.9d419e43cfee4331be6235c9ed2f16c7f74b6d9b.png",
+    "hue": 9,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7880,
+    "title": "Red Shades (Foil)",
+    "image": "community/sticker_craft/foil_sunglasses.db6a59e75883e0bfc119005b59a220c7c0761247.png",
+    "hue": 2,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7881,
+    "title": "Mustachio (Foil)",
+    "image": "community/sticker_craft/foil_mustache.9dc66c82d026a0369b8fbce851d53f8328d25c02.png",
+    "hue": 16,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7882,
+    "title": "Bolt Strike",
+    "image": "community/elemental_craft/paper_lightning_two.10aa16c1181a45f45dbe6a5971785e7c6400ee9c.png",
+    "hue": 57,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7883,
+    "title": "Bolt Charge",
+    "image": "community/elemental_craft/paper_lightning_three.0dfe5ab3ff9f0f99a7f18f881301c9f12ca2e3df.png",
+    "hue": 57,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7884,
+    "title": "Bolt Energy",
+    "image": "community/elemental_craft/paper_lightning_one.09cb59c68c48400dd229d68d8b6b1c0ef7da3137.png",
+    "hue": 56,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7885,
+    "title": "High Heat",
+    "image": "community/elemental_craft/paper_flames_two.8fe6a496810dc542d9a3ad1a3b660e7fcf43222c.png",
+    "hue": 27,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7886,
+    "title": "Hot Rod Heat",
+    "image": "community/elemental_craft/paper_flames.7fa96852d1636425c3017ef511c1c92865b61d1a.png",
+    "hue": 326,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7887,
+    "title": "Scorch Loop (Reverse)",
+    "image": "community/elemental_craft/paper_fire_two.a10e2b2dae99fc8d1f95871a32a98d04a82cc591.png",
+    "hue": 15,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7888,
+    "title": "Winding Scorch",
+    "image": "community/elemental_craft/paper_fire_three.653f021e614d6f6f5ed5e3f2fc3b5a97bc2cf899.png",
+    "hue": 14,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7889,
+    "title": "Mirage (Gold)",
+    "image": "tournament_assets/de_mirage_cs2_gold.781778113b85be3388c06ebd3d886a57d707334e.png",
+    "hue": 51,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7890,
+    "title": "Overpass (Gold)",
+    "image": "tournament_assets/de_overpass_cs2_gold.dac4163582a795160dce7dce9651b1fa10661124.png",
+    "hue": 48,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7891,
+    "title": "Scorch Loop",
+    "image": "community/elemental_craft/paper_fire_one.8b92a0d19bf5e5896c78ee491ab4828fe25a58c1.png",
+    "hue": 16,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7892,
+    "title": "Boom Detonation",
+    "image": "community/elemental_craft/paper_explosion_two.904f7f8b36fc0e8d758644c38451f58aed8d4caa.png",
+    "hue": 33,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7893,
+    "title": "Boom Epicenter",
+    "image": "community/elemental_craft/paper_explosion_three.271978c025ccc5a230608668f47cf25a4751260e.png",
+    "hue": 36,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7894,
+    "title": "Boom Blast",
+    "image": "community/elemental_craft/paper_explosion_one.c06af039d30b4d23b0264f51f399260b20c9da79.png",
+    "hue": 27,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7895,
+    "title": "Boom Trail",
+    "image": "community/elemental_craft/paper_explosion_four.84008bd545b7eaa4d9444082701ae3aa05fc3dc6.png",
+    "hue": 29,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7896,
+    "title": "Rainbow Route (Holo)",
+    "image": "community/elemental_craft/holo_rainbow_trail.df57b0594eb5826c541351926a1c9b544dab911d.png",
+    "hue": 340,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7897,
+    "title": "Boom Detonation (Glitter)",
+    "image": "community/elemental_craft/glitter_explosion_two.37c0e88967af5cae4578057c0fac0bcb1af11a34.png",
+    "hue": 102,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7898,
+    "title": "Boom Epicenter (Glitter)",
+    "image": "community/elemental_craft/glitter_explosion_three.785f80a8fe47699dd747a9b08feffc7629ced656.png",
+    "hue": 84,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7899,
+    "title": "Boom Blast (Glitter)",
+    "image": "community/elemental_craft/glitter_explosion_one.9fea87020cb5b76e3ff1fcb1d8cdb6d40ef6b121.png",
+    "hue": 77,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7900,
+    "title": "Boom Trail (Glitter)",
+    "image": "community/elemental_craft/glitter_explosion_four.70207ab723dc42938d18698c37ccd83f0f76f5e5.png",
+    "hue": 86,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7901,
+    "title": "Bolt Strike (Foil)",
+    "image": "community/elemental_craft/foil_lightning_two.2824f7c39f6fa39879cd79851492a4bd445069f1.png",
+    "hue": 286,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7902,
+    "title": "Bolt Charge (Foil)",
+    "image": "community/elemental_craft/foil_lightning_three.ba8845ab473a93e1c5e140f79d47c7bd208b4d83.png",
+    "hue": 287,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7903,
+    "title": "Bolt Energy (Foil)",
+    "image": "community/elemental_craft/foil_lightning_one.e3ed025c5be3126466931816001084c874ccdeca.png",
+    "hue": 288,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7904,
+    "title": "Winding Scorch (Foil)",
+    "image": "community/elemental_craft/foil_fire_three.921d8c3f83b6b02b5b92b93c47de535689b91ea7.png",
+    "hue": 218,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7905,
+    "title": "Flex",
+    "image": "community/sticker_craft/paper_arm_flex.4a55bfc8e45edde15b57f8d6406750f7bb72c21d.png",
+    "hue": 13,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7906,
+    "title": "Clown Nose",
+    "image": "community/sticker_craft/paper_clown_nose.44dda0c77428fa61036a3c3c5f82088ff9060999.png",
+    "hue": 1,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7907,
+    "title": "Clown Wig",
+    "image": "community/sticker_craft/paper_clown_wig.48209241cccd74daf87e44b69dbf0293f218a746.png",
+    "hue": 35,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7909,
+    "title": "Quick Peek",
+    "image": "community/sticker_craft/paper_googly_eye_small.4ac5682686669c87fb8f6e6cd1a772dcfd6e63ef.png",
+    "hue": 207,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7910,
+    "title": "XD",
+    "image": "community/sticker_craft/paper_mouth.50eabeb2900bf517cd8e20c619ec34bbce4851da.png",
+    "hue": 36,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7911,
+    "title": "Ribbon Tie",
+    "image": "community/sticker_craft/paper_ribbon.c478ef694a960dad8862cd0d8527e4aba1e72eed.png",
+    "hue": 330,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7912,
+    "title": "Taste Bud",
+    "image": "community/sticker_craft/paper_tongue.1f852f25efd073678c8bf2ad2dfb57e5f1f437ef.png",
+    "hue": 0,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7913,
+    "title": "Kawaii Eyes (Glitter)",
+    "image": "community/sticker_craft/glitter_kawaii_eyes.99326a796f7589805362f0fc5a66cf6a7cd83f52.png",
+    "hue": 228,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7914,
+    "title": "From The Deep (Glitter)",
+    "image": "community/sticker_craft/glitter_tentacle.87ca70f726a2d05583a79f2c683daa770bd69483.png",
+    "hue": 277,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7915,
+    "title": "Say Cheese (Holo)",
+    "image": "community/sticker_craft/holo_mouth.a9c1e9571eaabe9fe03c1e96e2ad22929ffd47b5.png",
+    "hue": 261,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7916,
+    "title": "Taste Buddy (Holo)",
+    "image": "community/sticker_craft/holo_tongue.118022d554abdf43e81361f7280c58e09790411d.png",
+    "hue": 228,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7917,
+    "title": "Gold Teef (Foil)",
+    "image": "community/sticker_craft/foil_mouth.c199b3f4d5adab73ac8cb62e9dbba7135e705cbf.png",
+    "hue": 63,
+    "rarity": 5,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7918,
+    "title": "Side Eyes (Lenticular)",
+    "image": "community/sticker_craft/lenticular_cheeky_eyes.59482657b0186b349a538ce58989bb2ee79df138.png",
+    "hue": 230,
+    "rarity": 6,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7919,
+    "title": "Googly Eye (Lenticular)",
+    "image": "community/sticker_craft/lenticular_googly_eye.597cb831c9a91db1acc12b249445fddd81a21133.png",
+    "hue": 198,
+    "rarity": 6,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7921,
+    "title": "Hypnoteyes (Holo)",
+    "image": "community/sticker_craft/lenticular_angry_eyes.1a672508010881f66655ca1a62a50a8d8b149464.png",
+    "hue": 3,
+    "rarity": 4,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7922,
+    "title": "Hydro Geyser",
+    "image": "community/elemental_craft/paper_water_two.bb0bc0fc4594e5f99ad80c58a37176738355e54f.png",
+    "hue": 198,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7923,
+    "title": "Hydro Stream",
+    "image": "community/elemental_craft/paper_water_three.59e904c66d8469a6bb06ca8fd1039b025a3976d8.png",
+    "hue": 190,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7924,
+    "title": "Hydro Wave",
+    "image": "community/elemental_craft/paper_water_one.cfc1992810484d9f93f5313d52bbaf7dafaa1304.png",
+    "hue": 194,
+    "rarity": 3,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7925,
+    "title": "Ruby Stream (Lenticular)",
+    "image": "community/elemental_craft/lenticular_blood_one.7f018e7e4054b3a6273f3adf480d35628d7025ce.png",
+    "hue": 0,
+    "rarity": 6,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7926,
+    "title": "Ruby Wave (Lenticular)",
+    "image": "community/elemental_craft/lenticular_blood_two.ab6e6ddea72756c8c390dc983e0995e4dbc9b4f5.png",
+    "hue": 0,
+    "rarity": 6,
+    "isSignature": false,
+    "isPaper": true
+  },
+  {
+    "id": 7927,
+    "title": "Strike A Pose",
+    "image": "community/sticker_craft/paper_male_anime_face.4eca008c3b63fe634ccb0b11b06d096e1014cf25.png",
+    "hue": 210,
+    "rarity": 3,
+    "isSignature": false,
     "isPaper": true
   }
 ]
