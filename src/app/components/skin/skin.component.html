@@ -198,9 +198,9 @@
                 <img
                   class="preview"
                   [src]="
-                    sticker.image.includes('assets')
+                    (sticker.image.includes('assets') || sticker.image.includes('csinspect'))
                       ? sticker.image
-                      : 'https://media.steampowered.com/apps/730/icons/econ/stickers/' +
+                      : 'https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/' +
                         sticker.image
                   "
                 />

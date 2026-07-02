@@ -124,5 +124,17 @@
   {
     "id": "set_xpshop_wpn_01",
     "title": "Limited Edition Item"
+  },
+  {
+    "id": "set_timed_drops_exuberant",
+    "title": "The Harlequin Collection"
+  },
+  {
+    "id": "set_timed_drops_achroma",
+    "title": "The Achroma Collection"
+  },
+  {
+    "id": "set_community_37",
+    "title": "The Dead Hand Collection"
   }
 ]
